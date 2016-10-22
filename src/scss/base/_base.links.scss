@@ -1,0 +1,22 @@
+a {
+  color: $color-brand;
+  text-decoration: none;
+  transition: color .2s ease-in-out;
+
+  &:visited {
+      text-decoration: none;
+  }
+
+  &:hover {
+      text-decoration: none;
+
+  }
+
+  &:before {
+      -webkit-transition: all 300ms ease-in-out;
+      -moz-transition: all 300ms ease-in-out;
+      -ms-transition: all 300ms ease-in-out;
+      -o-transition: all 300ms ease-in-out;
+      transition: all 300ms ease-in-out
+  }
+}

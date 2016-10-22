@@ -1,0 +1,35 @@
+{{ partial "header.html" . }}
+
+<header class="o-header">
+    <div class="o-wrap">
+
+      <section class="c-nav">
+
+        <div class="c-nav__item">
+          <a href="/" class="c-nav__link u-font--mono">← Return</a>
+        </div>
+
+      </section>
+
+    </div>
+</header>
+
+<main role="main">
+
+    <article class="c-post post-brand">
+        <header class="c-post__header">
+            <time class="c-post__meta u-font--mono">{{ .Date.Format "Mon Jan 2, 2006" }}</time>
+            <h1 class="c-post__title">{{ .Title }}</h1>
+        </header>
+        <div class="o-wrap">
+            <div class="c-post__content markdown">
+              {{ .Content }}
+            </div>
+        </div>
+    </article>
+
+</main>
+
+{{ partial "newsletter.html" . }}
+
+{{ partial "footer.html" . }}

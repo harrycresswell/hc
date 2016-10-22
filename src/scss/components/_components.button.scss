@@ -1,0 +1,63 @@
+/*------------------------------------*\
+    #BUTTON
+\*------------------------------------*/
+
+.c-button-wrap {
+  margin: 3 * $spacing-unit 0;
+  text-align: center;
+}
+.c-button {
+  border-width: 0;
+  box-sizing: border-box;
+  font-family: $secondary-font-family;
+  font-size: $font-size--xs;
+  outline-style: none;
+  text-align: center;
+  text-decoration: none;
+  transition-duration: 0.4s;
+  vertical-align: middle;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  white-space: nowrap;
+
+  &:focus {
+    outline: none;
+  }
+
+  @include media-query($on-palm) {
+      margin-top: 20px;
+      width: 100%;
+  }
+}
+
+.c-button--primary {
+  border: none;
+  color: $color-white;
+  margin: 0 auto;
+}
+
+/**
+ * Component State
+ */
+
+.c-button--primary:hover,
+.c-button--primary:focus,
+.c-button--primary:active,
+.c-button--primary.is-pressed {
+  color: $color-white;
+  opacity: 0.9;
+
+}
+
+.c-button--secondary {
+  background-color: $color-white;
+  border: solid 1px $color-white;
+  color: $color-brand;
+}
+
+.c-button--secondary:hover,
+.c-button--secondary:focus,
+.c-button--secondary:active,
+.c-button--secondary.is-pressed {
+  opacity: 0.9;
+
+}

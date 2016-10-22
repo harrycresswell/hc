@@ -1,0 +1,23 @@
+ul, ol {
+  margin-left: 1rem;
+  padding-left: 1rem;
+}
+
+li {
+  > ul,
+  > ol {
+       margin-bottom: 0;
+  }
+}
+
+dl {
+  margin-bottom: 2 * $spacing-unit;
+}
+
+dt {
+  font-size: 16px;
+}
+
+dd {
+ margin: 0;
+}

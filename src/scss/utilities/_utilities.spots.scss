@@ -1,0 +1,71 @@
+$spot-colors: (
+  'yellow': $yellow,
+  'orange': $orange,
+  'red': $red,
+  'magenta': $magenta,
+  'violet': $violet,
+  'brand': $brand,
+  'cyan': $cyan,
+  'green': $green
+);
+
+@each $name in map-keys($spot-colors) {
+  $color: map-get($spot-colors, $name);
+  .spot-#{$name} { color: $color; }
+  .spot-bg-#{$name} { background-color: $color; }
+  .spot-bg-light-#{$name} {
+    background-color: lighten($color, 15%);
+  }
+
+  .spot-bg-lighter-#{$name} {
+    background-color: lighten($color, 20%);
+  }
+  .spot-border-#{$name} { border: 2px solid $color; }
+  .spot-button-#{$name} {
+    background: $color;
+    border-radius: 4px;
+    color: $color-white !important;
+    padding: 1.2rem 4rem;
+  }
+
+  .spot-button-reverse-#{$name} {
+    background: $color-white;
+    border-radius: 4px;
+    color: $color;
+    padding: 1rem 4rem;
+  }
+
+  .spot-link-#{$name} {
+    color: $color;
+    &:hover, &:focus, &:visited, {
+      color: $color;
+      border-bottom: 1px dotted $color;
+    }
+  }
+
+  .spot-link-obvious-#{$name} {
+    color: $color;
+    padding: 0 0 2px 0;
+    border-bottom: 1px dotted $color;
+    text-decoration: none;
+
+    &:hover, &:focus, &:visited {
+      border-bottom: 1px solid $color;
+    }
+  }
+
+  .page-#{$name} a, .post-#{$name} a  {
+    color: $color;
+  }
+
+  .post-#{$name} blockquote {
+    color: $color;
+    border-left: 2px solid $color;
+  }
+
+  .post-#{$name} strong {
+    color: $color-white;
+    background: $color;
+  }
+
+}

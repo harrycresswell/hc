@@ -1,0 +1,20 @@
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+/**
+ * Figures
+ */
+
+figure {
+  margin: 2 * $spacing-unit 0;
+}
+
+figure > img {
+    display: block;
+}
+
+figcaption {
+    font-size: $font-size--s;
+}

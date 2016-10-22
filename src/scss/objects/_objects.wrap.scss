@@ -1,0 +1,25 @@
+.o-wrap {
+    position: relative;
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit;
+        padding-left: $spacing-unit;
+    }
+
+    @include media-query($on-palm) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} / 2));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit} / 2));
+        padding-right: $spacing-unit;
+        padding-left: $spacing-unit;
+    }
+
+}

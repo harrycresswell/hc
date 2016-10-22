@@ -1,0 +1,115 @@
+/**
+ * Typographical base selectors.
+ */
+
+/**
+ * Headings 1–6.
+ */
+@include headings() {
+    @include font-weight(regular);
+    color: $color-dark;
+}
+
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+    color: $color-dark;
+    font-family: $tertiary-font-family;
+    font-weight: $font-weight-medium;
+}
+
+
+/**
+ * Emboldened elements.
+ */
+strong, b,
+dt {
+    @include font-weight(regular);
+}
+
+
+/**
+ * Code-like elements.
+ */
+code, kbd, samp {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    padding: .125em 0.35em;
+    border-radius: 4px;
+    position: relative;
+    top: -0.05em;
+    font-size: 0.8em;
+    margin: 0 4px;
+}
+
+pre {
+    white-space: pre;
+    word-wrap: normal;
+    overflow: auto;
+    padding: $spacing-unit;
+    background-color: $color-dark;
+    border-radius: 4px;
+    @include media-query(lap-and-up) {
+      margin-right: -$spacing-unit;
+      margin-left:  -$spacing-unit;
+    }
+
+    &,
+    code, kbd, samp {
+        color: $color-grey;
+    }
+
+}
+
+
+/**
+ * Figures.
+ *
+ * 1. Outdent figures by an arbitrary amount at the relevant viewport size.
+ * 2. Reindent figcaptions.
+ */
+figure {
+
+    @media screen and (min-width: 1380px) {
+        margin-left: -128px; /* [1] */
+    }
+
+    > img {
+        border-radius: 4px;
+    }
+
+}
+
+    figcaption {
+
+        @media screen and (min-width: 1380px) {
+            margin-left: 128px; /* [2] */
+        }
+
+    }
+
+
+/**
+ * Horizontal rules.
+ */
+hr {
+    border: none;
+    border-bottom: 1px solid $color-grey;
+    margin-bottom: $spacing-unit - 1px;
+}
+
+
+/**
+ * Highlighted text.
+ */
+mark {
+
+    pre & {
+        background: none;
+        border-bottom: 1px solid;
+        color: inherit;
+    }
+
+}

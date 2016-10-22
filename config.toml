@@ -1,0 +1,6 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+title = "My New Hugo Site"
+languageCode = "en-us"
+description = "I’m Harry, a digital product designer from London. I help young companies get the results they want. Over the years I’ve had a lot of experience building brands, websites and digital products from the ground up."
+pygmentsuseclasses = true
+MetaDataFormat= "yaml"

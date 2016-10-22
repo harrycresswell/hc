@@ -1,0 +1,105 @@
+// Border Radius
+
+.u-border-radius {
+  border-radius: 4px;
+}
+
+// Hide only visually, but have it available for screenreaders
+
+
+.u-visually-hidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+
+// Clearfix
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+.cf {
+    *zoom: 1;
+    content: "";
+    clear: both;
+}
+
+.cf:before, .cf:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+
+
+// Flex Box Helpers
+.flex {
+  display: flex;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+// Floats
+.u-float--left {
+    float: left
+}
+
+.u-float--right {
+    float: right
+}
+
+
+// Links
+.u-link--bare {
+  color: $color-dark !important;
+  text-decoration: none !important;
+}
+
+.u-link--natural {
+  color: inherit !important;
+  text-decoration: underline !important;
+}
+
+.u-link--white {
+  color: $color-white !important;
+  padding: 0 0 2px 0 !important;
+  border-bottom: 1px solid $color-white !important;
+}
+
+
+// Margins
+.u-margin--none {
+  margin: 0 !important;
+}
+
+// Paragraphs
+.u-p--intro {
+  font-size: 26px !important;
+  line-height: 1.7;
+  margin-bottom: 2 * $spacing-unit;
+}
+
+// Type
+
+.u-font--mono {
+  font-family: $secondary-font-family;
+}
+
+.u-font--normal{
+  font-family: $base-font-family;
+}
