@@ -12,7 +12,7 @@ disqusShortname = "Your Disqus shortname"
 googleAnalytics = "Your Google Analytics tracking code"
 
 [permalinks]
-    post = "/:year/:month/:day/:title/"
+    articles = "/:year/:month/:day/:title/"
     page = "/:title/"
 
 [[menu.main]]

@@ -3,8 +3,7 @@ date: "2016-04-04"
 title: "Launching Albion Cycling"
 author: "Harry Cresswell"
 description: "Launching a new website for Albion Cycling."
-params:
-  Spot: "brand"
+spot: "brand"
 ---
 
 
@@ -28,6 +27,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ullamcorper ma
 
 
 ### Code snippets
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+#### Code snippets
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
