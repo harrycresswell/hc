@@ -64,8 +64,7 @@ $spot-colors: (
   }
 
   .post-#{$name} strong {
-    color: $color-white;
-    background: $color;
+    font-weight: $font-weight-bold;
   }
 
 }
