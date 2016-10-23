@@ -26,7 +26,7 @@ the site is now ready for deployment
 ### Adding content
 - `hugo new articles/ARTICLE-NAME.md`
 
-### Compile the site
+### Compile the site to public folder
 - run `hugo --verbose`
 
 ### Start the server
