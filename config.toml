@@ -1,6 +1,37 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
-title = "My New Hugo Site"
 languageCode = "en-us"
-description = "I’m Harry, a digital product designer from London. I help young companies get the results they want. Over the years I’ve had a lot of experience building brands, websites and digital products from the ground up."
-pygmentsuseclasses = true
-MetaDataFormat= "yaml"
+title = "My New Hugo Site"
+
+MetaDataFormat = ""
+theme = ""
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = "Your Disqus shortname"
+
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = "Your Google Analytics tracking code"
+
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+    page = "/:title/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = ""
+[[menu.main]]
+    name = "Twitter"
+    url = ""
+
+
+[params]
+  Keywords = "keywords go in here"
+  Description = "I’m Harry, a digital product designer from London. I help young companies get the results they want. Over the years I’ve had a lot of experience building brands, websites and digital products from the ground up."
+
+  Avater = "img/avatar.jpg"
+  Email = "you@example.com"
+
+  GithubID = "Your Github ID"
+  TwitterID = "Your Twitter ID"
