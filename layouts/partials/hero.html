@@ -1,7 +1,7 @@
 <section class="c-hero c-hero--home">
   <div class="o-wrap c-hero__wrap c-hero--home">
     <h1 class="c-hero__text"><!-- element makes typed.js work --><span class="element"></span></h1>
-    <div class="c-hero__excerpt">{{ .Description }}</div>
+    {{ if .Site.Params.Description }}<div class="c-hero__excerpt">{{ .Site.Params.Description }}</div>{{ end }}
     <div class="c-hero__footer u-font--mono"><a class="spot-link-obvious-brand" href="/design-consulting">How you can work with me</a></div>
   </div>
 </section>
