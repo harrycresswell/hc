@@ -5,6 +5,7 @@ Stuff i still need todo
 - add scss modules
 - add js for typed
 - build footer
+- [this](https://github.com/IvanChou/hugo-theme-vec) is helpful
 - work out hugo navigation
 - homepage description and title
 - fix global line height
