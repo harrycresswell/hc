@@ -1,0 +1,23 @@
+<!-- Load jquery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+  // load jQuery from a local path if the CDN is unavailable
+  (window.jQuery || document.write('<script src="node_modules/jquery/dist/jquery.min.js"><\/script>'));
+</script>
+
+<!-- Load javascripts -->
+<script src="/js/{{ index .Site.Data.js.hash "app.js" }}"></script>
+
+<!-- Load typed -->
+<script>
+    $(function(){
+        $(".element").typed({
+            strings: ["with online marketing?", "growing your business online?", "building your website?", "reaching your audience?", "starting a mailing list?", "monitezing your blog?" ],
+            typeSpeed: 100,
+            // loop
+            loop: true,
+            // time before backspacing
+            backDelay: 2000
+        });
+    });
+</script>
