@@ -7,7 +7,7 @@ spot: "brand"
 ---
 
 
-<p class="message">The best way to rebuild the site is to run `gulp`, which launches a web server and auto-regenerates your site when a file is updated. Check out the <a href="">Jekyll docs</a> for more info.</p>
+<p class="message">The best way to rebuild the site is to run `gulp`, which launches a web server and auto-regenerates <!--more-->your site when a file is updated. Check out the <a href="">Jekyll docs</a> for more info.</p>
 
 You’ll find this post in your `_posts` directory. Go ahead and **edit it and re-build** the site to see your changes. The best way to rebuild the site is to run `gulp`, which launches a web server and auto-regenerates your site when a file is updated.
 
