@@ -1,7 +1,16 @@
 <section class="c-hero c-hero--home">
   <div class="o-wrap c-hero__wrap c-hero--home">
-    <h1 class="c-hero__text"><!-- element makes typed.js work --><span class="element"></span></h1>
-    {{ if .Site.Params.Description }}<div class="c-hero__excerpt">{{ .Site.Params.Description }}</div>{{ end }}
-    <div class="c-hero__footer u-font--mono"><a class="spot-link-obvious-brand" href="/design-consulting">How you can work with me</a></div>
+    {{ if .Site.Params.Description }}<h1 class="c-hero__title">{{ .Site.Params.Description }}</h1>{{ end }}
+    <h2 class="c-hero__subtitle">Do you need help <!-- element makes typed.js work --><span class="element"></span></h2>
+
+    <div class="c-hero__button">
+      <a class="c-button c-button--secondary spot-button-brand">Start here</a>
+    </div>
+
+    <div class="c-hero__excerpt">
+      If you're struggling to get started or just don't know where to begin.. you're in the right place.
+      <br/><br/>
+      I’m Harry, a designer and brand consultant. I help young companies get the results they want. Over the years I’ve had a lot of experience building brands, websites and digital products from the ground up.
+    </div>
   </div>
 </section>
