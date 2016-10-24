@@ -28,7 +28,7 @@ googleAnalytics = "Your Google Analytics tracking code"
 
 [params]
   Keywords = "keywords go in here"
-  Description = "I’m Harry, a digital product designer from London. I help young companies get the results they want. Over the years I’ve had a lot of experience building brands, websites and digital products from the ground up."
+  Description = "Honest actionable advice for small and independent business owners."
 
   Avater = "img/avatar.jpg"
   Email = "you@example.com"
