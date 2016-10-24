@@ -3,12 +3,13 @@ Stuff i still need todo
 
 ##pre-launch
 
-- add js for typed
 - build footer
 - [this](https://github.com/IvanChou/hugo-theme-vec) is helpful
-- work out hugo navigation
+- work out hugo navigation- finish line-height scale in base.typography.scss
+
 - homepage title
 - fix global line height
+- work out seperate articles page
 - create page for colophon
 - add button on consultancy page
 - load apercu font and build into gulp workflow
@@ -24,3 +25,4 @@ Stuff i still need todo
 ##complete
 - ~~add scss modules~~
 - ~~work out the yaml call for page spots~~
+- ~~add js for typed~~
