@@ -16,18 +16,24 @@
   vertical-align: middle;
 }
 
-.c-hero__text {
-  color: $color-dark;
-  font-weight: $font-weight-medium;
+.c-hero__title {
   letter-spacing: 1px;
-  font-size: $font-size--xxxl;
 
   @include media-query($on-laptop) {
       font-size: $font-size--xxl;
   }
 }
 
+.c-hero__subtitle {
+  margin-top: $spacing-unit;
+}
+
+.c-hero__button {
+  margin-top: 3 * $spacing-unit;
+}
+
 .c-hero__excerpt {
+  margin-top: 3 * $spacing-unit;
   font-size: $font-size--m;
 }
 
