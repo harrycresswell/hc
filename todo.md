@@ -5,8 +5,10 @@ Stuff i still need todo
 
 - build footer
 - [this](https://github.com/IvanChou/hugo-theme-vec) is helpful
-- work out hugo navigation- finish line-height scale in base.typography.scss
-
+- work out hugo navigation
+- finish line-height scale in base.typography.scss
+- work out line heights for headings
+- add a masthead, category links and next article links to single article page
 - homepage title
 - fix global line height
 - work out seperate articles page
