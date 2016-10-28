@@ -4,7 +4,7 @@
     <div class="o-wrap">
         <section class="c-nav">
             <div class="c-nav__item">
-              <a href="/articles" class="c-nav__link u-font--mono">← Return</a>
+              <a href="/articles" class="c-nav__link u-font--mono u-link--bare">← Return</a>
             </div>
         </section>
     </div>
@@ -13,11 +13,12 @@
 <main role="main">
 
     <article class="c-post post-{{ .Params.spot }}">
-        <header class="c-post__header">
-            <time class="c-post__meta u-font--mono">{{ .Date.Format "Mon Jan 2, 2006" }}</time>
-            <h1 class="c-post__title">{{ .Title }}</h1>
-        </header>
-        <div class="o-wrap">
+      <div class="o-wrap">
+            <header class="c-post__header">
+                <time class="c-post__meta u-font--mono">{{ .Date.Format "Mon Jan 2, 2006" }}</time>
+                <h1 class="c-post__title">{{ .Title }}</h1>
+            </header>
+
             <div class="c-post__content markdown">
               {{ .Content }}
             </div>
