@@ -68,12 +68,24 @@
 .u-link--bare {
   color: $color-dark !important;
   text-decoration: none !important;
+  border: none !important;
+
+  &:hover, &:focus, &:visited {
+    border: none !important;
+  }
 }
 
 .u-link--natural {
-  color: inherit !important;
+  color: $color-dark !important;
   text-decoration: underline !important;
+  border: none !important;
+
+  &:hover, &:focus, &:visited {
+    border: none !important;
+  }
 }
+
+
 
 .u-link--white {
   color: $color-white !important;
