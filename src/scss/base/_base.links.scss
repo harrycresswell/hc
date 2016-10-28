@@ -1,14 +1,18 @@
 a {
   color: $color-brand;
+  padding: 0 0 2px 0;
+  border-bottom: 1px dotted $color-brand;
   text-decoration: none;
   transition: color .2s ease-in-out;
 
   &:visited {
       text-decoration: none;
+      border-bottom: 1px solid #62D26F;
   }
 
   &:hover {
       text-decoration: none;
+      border-bottom: 1px solid #62D26F;
 
   }
 
