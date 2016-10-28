@@ -4,8 +4,10 @@ $color-brand: $brand-color;
 
 $color-white: #ffffff !default;
 $color-dark: #253142 !default;
-$color-grey: #636F7B;
-$color-light: #9ea3a6 !default;
+$color-body: #464646 !default;
+$color-grey: #636F7B !default;
+$color-light: #D8E1EC !default;
+$color-lighter: #E7E7E7 !default;
 
 // Spots
 $yellow:    #f39c12;
@@ -13,6 +15,7 @@ $orange:    #ea632a;
 $red:       #ff4a47;
 $magenta:   #fa429b;
 $violet:    #9b59b6;
-$brand:     $brand-color;
+$active:    #62D26F;
+$brand:     $active;
 $cyan:      #2a9d94;
 $green:     #0cc471;
