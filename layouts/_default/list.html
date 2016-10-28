@@ -1,0 +1,35 @@
+{{ partial "header.html" . }}
+
+<header class="o-header">
+    <div class="o-wrap">
+        <section class="c-nav">
+            <div class="c-nav__item">
+              <a href="/" class="c-nav__link u-font--mono">← Return</a>
+            </div>
+        </section>
+    </div>
+</header>
+
+<main role="main">
+    <div class="o-wrap">
+        <section class="c-post-list">
+            <h1>Articles</h1>
+            {{ range .Data.Pages.ByPublishDate }}
+            {{ if eq .Type "articles" }}
+                <article class="c-post">
+                    <h4 class="c-post-list__title">
+                        <a class="" href="{{ .Permalink }}">
+                            {{ .Title }}
+                        </a>
+                    </h4>
+                    {{ .Summary }}
+                </article>
+            {{ end }}
+            {{ end }}
+        </section>
+    </div>
+</main>
+
+{{ partial "newsletter.html" . }}
+
+{{ partial "footer.html" . }}
