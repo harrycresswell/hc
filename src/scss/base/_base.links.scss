@@ -5,15 +5,15 @@ a {
   text-decoration: none;
   transition: color .2s ease-in-out;
 
-  &:visited {
-      text-decoration: none;
+  &:hover {
       border-bottom: 1px solid #62D26F;
+      color: darken($color-brand, 15%);
+      text-decoration: none;
   }
 
-  &:hover {
-      text-decoration: none;
-      border-bottom: 1px solid #62D26F;
-
+  &:visited {
+    border-bottom: 1px solid #62D26F;
+    text-decoration: none;
   }
 
   &:before {
