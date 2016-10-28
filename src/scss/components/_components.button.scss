@@ -33,7 +33,10 @@
 .c-button--primary {
   border: none;
   color: $color-white;
+  background: $color-brand;
   margin: 0 auto;
+  border-radius: 4px;
+  padding: 1rem 3rem;
 }
 
 /**
@@ -46,19 +49,6 @@
 .c-button--primary.is-pressed {
   color: $color-white;
   opacity: 0.9;
-
-}
-
-.c-button--secondary {
-  background-color: $color-white;
-  border: solid 1px $color-white;
-  color: $color-brand;
-}
-
-.c-button--secondary:hover,
-.c-button--secondary:focus,
-.c-button--secondary:active,
-.c-button--secondary.is-pressed {
-  opacity: 0.9;
+  border: none;
 
 }
