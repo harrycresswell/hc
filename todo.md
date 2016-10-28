@@ -2,10 +2,6 @@
 Stuff i still need todo
 
 ##pre-launch
-- fix hero button animation
-- fix blockquote styling
-- finish line-height scale in base.typography.scss
-- work out line heights for headings
 - add conditional article description
 - add category links and `read this next` to single article page
 - add button on consultancy page
@@ -30,3 +26,7 @@ Stuff i still need todo
 - ~~build footer~~
 - ~~work out hugo navigation~~
 - ~~create page for colophon~~
+- ~~fix hero button animation~~
+- ~~fix blockquote styling~~
+- ~~finish line-height scale in base.typography.scss~~
+- ~~work out line heights for headings~~
