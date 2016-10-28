@@ -1,12 +1,14 @@
 .c-newsletter {
-  background: $color-brand;
-  color: $color-white;
+  background: $color-white;
+  color: $color-body;
+  border-top: solid 1px $color-lighter;
+  border-bottom: solid 1px $color-lighter;
   padding: 4 * $spacing-unit 0;
-  margin-top: 6 * $spacing-unit;
+  margin-top: 4 * $spacing-unit;
 }
 
 .c-newsletter__title {
-  color: $color-white;
+  color: $color-dark;
   font-size: $font-size--xl;
   font-weight: $font-weight-medium;
   letter-spacing: 1px;
@@ -17,13 +19,12 @@
   padding: 1 * $spacing-unit 0;
 }
 
-
 // .Form {}
 
 .c-newsletter__form-field {
   background-color: rgba(255, 255, 255, 0);
-  border: 1px solid $color-white;
-  color: $color-white;
+  border: 1px solid $color-light;
+  color: $color-body;
   float: left;
   font-family: $secondary-font-family;
   font-size: $font-size--xs;
@@ -32,17 +33,17 @@
   border-radius: 4px;
 
   &::-webkit-input-placeholder {
-    color: $color-white;
+    color: $color-grey;
     opacity: 1;
   }
 
   &::-moz-placeholder {
-    color: $color-white;
+    color: $color-grey;
     opacity: 1;
   }
 
   &:-ms-input-placeholder {
-    color: $color-white;
+    color: $color-grey;
     opacity: 1;
   }
 
