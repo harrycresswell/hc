@@ -6,7 +6,7 @@
       <section class="c-nav">
 
         <div class="c-nav__item">
-          <a href="/" class="nav-link u-font--mono">← Return</a>
+          <a href="/" class="nav-link u-font--mono u-link--bare">← Return</a>
         </div>
 
       </section>
@@ -15,18 +15,16 @@
 </header>
 
 <main role="main">
-
-    <article class="c-post post-{{ .Params.spot }}">
-        <header class="c-post__header">
-            <h1 class="c-post__title">{{ .Params.description }}</h1>
-        </header>
-        <div class="o-wrap">
+    <div class="o-wrap">
+        <section class="c-hero">
+            <h1 class="c-hero__title">{{ .Params.description }}</h1>
+        </section>
+        <section class="c-post">
             <div class="c-post__content markdown">
               {{ .Content }}
             </div>
-        </div>
-    </article>
-
+        </section>
+    </div>
 </main>
 
 {{ partial "newsletter.html" . }}
