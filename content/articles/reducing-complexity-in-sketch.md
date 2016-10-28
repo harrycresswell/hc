@@ -8,7 +8,7 @@ tags: "sketch3"
 spot: "green"
 ---
 
-You’ll find this post in your `_posts` directory. **Go ahead and edit it and re-build the site to** see your changes. The best way to rebuild the site is to run `gulp`, which launches a web server and auto-regenerates your site when a file is updated.
+You’ll find this post in your `_posts` directory. **Go ahead and edit it and re-build the site to** see your changes. The best way to rebuild the site is to run `gulp`, which launches a web server and auto-regenerates your site when a file is updated.<!--more-->
 
 Sometimes you want numbered lists:
 
