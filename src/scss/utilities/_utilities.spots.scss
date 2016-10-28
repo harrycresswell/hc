@@ -4,7 +4,7 @@ $spot-colors: (
   'red': $red,
   'magenta': $magenta,
   'violet': $violet,
-  'brand': $brand,
+  'brand': $color-brand,
   'cyan': $cyan,
   'green': $green
 );
@@ -40,17 +40,6 @@ $spot-colors: (
     &:hover, &:focus, &:visited, {
       color: $color;
       border-bottom: 1px dotted $color;
-    }
-  }
-
-  .spot-link-obvious-#{$name} {
-    color: $color;
-    padding: 0 0 2px 0;
-    border-bottom: 1px dotted $color;
-    text-decoration: none;
-
-    &:hover, &:focus, &:visited {
-      border-bottom: 1px solid $color;
     }
   }
 
