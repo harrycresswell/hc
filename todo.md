@@ -4,7 +4,7 @@ Stuff i still need todo
 ##pre-launch
 - add conditional article description
 - add category links and `read this next` to single article page
-- add button on consultancy page
+- add contact button to consultancy page
 - load Apercu font and build into gulp workflow
 - build a newsletter landing page
 - create a thanks page for mailing list sign ups like [this](https://pjrvs.com/thanks/).
@@ -13,6 +13,7 @@ Stuff i still need todo
 - link to CDN like [netlify]https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/
 
 ##future
+- add some testimonials
 - add sourcemaps and linting to gulpfile
 
 ##resources
@@ -30,3 +31,4 @@ Stuff i still need todo
 - ~~fix blockquote styling~~
 - ~~finish line-height scale in base.typography.scss~~
 - ~~work out line heights for headings~~
+- ~~add animation to form field~~
