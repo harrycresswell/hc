@@ -40,15 +40,15 @@ For the last 2 years i’ve also been [working 3 days a week](http://www.com) as
 
 Well it’s definitely about time I gave something back.. in fact, it’s been a long time coming.
 
-And it seems like a fairly logical unselfish step to focus on my clients:
+*And it seems like a fairly logical unselfish step to focus on my clients:*
 
-Creative individuals and independent business owners.
+**Creative individuals and independent business owners.**
 
-So in a nutshell ill be writing:
+*So in a nutshell ill be writing:*
 
-**honest actionable advice for creative individuals and independent business owners.**
+**Honest actionable advice for creative individuals and independent business owners.**
 
-My mission (which i’ve now accepted) is to help you set up your business online. And guide you as much as possible to [do it yourself](http://www.com).. because [you don’t have to pay big agency fees to big agency morons].
+My mission is to help you set up your business online. And guide you as much as possible to [do it yourself](http://www.com).. because [you don’t have to pay big agency fees to big agency morons](http://www.com).
 
 All thats in my head or that been lost throughout the years via conversation i will rediscover and catalogue here. For you.
 
