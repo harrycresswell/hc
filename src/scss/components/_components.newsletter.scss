@@ -31,6 +31,7 @@
   padding: 1rem;
   width: 65%;
   border-radius: 4px;
+  transition: border .2s ease-in-out;
 
   &::-webkit-input-placeholder {
     color: $color-grey;
@@ -47,8 +48,9 @@
     opacity: 1;
   }
 
-  &:focus {
+  &:hover, &:focus {
     outline: none;
+    border: 1px solid $color-light;
   }
 
   @include media-query($on-palm) {
@@ -64,4 +66,5 @@
       width: 100%;
       margin-top: $spacing-unit / 2;
   }
+
 }
