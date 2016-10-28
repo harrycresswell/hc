@@ -4,7 +4,7 @@
     <div class="o-wrap">
         <section class="c-nav">
             <div class="c-nav__item">
-              <a href="/" class="c-nav__link u-font--mono u-link--bare">← Return</a>
+              <a href="{{ .Site.BaseURL }}" class="c-nav__link u-font--mono u-link--bare">← Return</a>
             </div>
         </section>
     </div>
@@ -14,7 +14,7 @@
     <div class="o-wrap">
       <section class="c-hero">
         <h1 class="c-hero__title">Articles</h1>
-        <p class="c-hero__subtitle">Every other sunday I publish exclusively to <a class="spot-link-obvious-brand" href ="">my newsletter</a>. Some of those articles appear below a few weeks later.</p>
+        <p class="c-hero__subtitle">Every other sunday I publish exclusively to <a class="spot-link-obvious-brand" href ="{{ .Site.BaseURL }}/newsletter">my newsletter</a>. Some of those articles appear below a few weeks later.</p>
       </section>
         <section class="c-post-list">
             {{ range .Data.Pages.ByPublishDate }}

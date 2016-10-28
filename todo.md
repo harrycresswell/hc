@@ -3,13 +3,14 @@ Stuff i still need todo
 
 ##pre-launch
 - fix hero button animation
-- fix block quote
+- fix blockquote styling
 - finish line-height scale in base.typography.scss
 - work out line heights for headings
 - add conditional article description
 - add category links and `read this next` to single article page
 - add button on consultancy page
 - load Apercu font and build into gulp workflow
+- build a newsletter landing page
 - create a thanks page for mailing list sign ups like [this](https://pjrvs.com/thanks/).
 - [this](https://github.com/IvanChou/hugo-theme-vec) is helpful
 - add dev and production mode for analytics

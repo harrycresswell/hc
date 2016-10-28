@@ -6,7 +6,7 @@
 </script>
 
 <!-- Load javascripts -->
-<script src="/js/{{ index .Site.Data.js.hash "app.js" }}"></script>
+<script src="{{ .Site.BaseURL }}/js/{{ index .Site.Data.js.hash "app.js" }}"></script>
 
 <!-- Load typed -->
 <script>

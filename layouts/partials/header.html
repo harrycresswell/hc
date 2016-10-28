@@ -11,7 +11,7 @@
     {{ .Hugo.Generator }}
 
     <!-- CSS -->
-    <link rel="stylesheet" href="/css/{{ index .Site.Data.css.hash "main.css" }}" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/{{ index .Site.Data.css.hash "main.css" }}" />
 
     <!-- RSS -->
     <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
