@@ -26,11 +26,12 @@ blockquote {
     font-style: italic;
     quotes: "“" "”";
     color: $color-dark;
-    padding-left: 30px;
-    margin: 2em 0 2em -12.5%;
+    font-size: $font-size--xl;
+    line-height: $line-height-xl;
 
     p {
         text-indent: -0.41em; /* [1] */
+        padding: 2 * $spacing-unit $spacing-unit;
 
         &:before {
             content: open-quote;
