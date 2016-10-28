@@ -3,7 +3,7 @@
   color: $color-body;
   border-top: solid 1px $color-lighter;
   border-bottom: solid 1px $color-lighter;
-  padding: 4 * $spacing-unit 0;
+  padding: 3 * $spacing-unit 0;
   margin-top: 4 * $spacing-unit;
 }
 
@@ -23,7 +23,7 @@
 
 .c-newsletter__form-field {
   background-color: rgba(255, 255, 255, 0);
-  border: 1px solid $color-light;
+  border: 1px solid $color-lighter;
   color: $color-body;
   float: left;
   font-family: $secondary-font-family;
