@@ -1,7 +1,6 @@
 ---
 title: "design consulting"
 date: "2016-10-23T21:47:14+01:00"
-spot: "red"
 description: "Let's make your business better. Together."
 ---
 
