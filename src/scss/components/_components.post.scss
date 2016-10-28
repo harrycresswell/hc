@@ -1,26 +1,22 @@
-.c-post-list {
-}
-
 .c-post-list__title {
   font-weight: $font-weight-medium;
-  font-size: $font-size--xl;
+  font-size: $font-size--l;
   line-height: 2;
   margin: 0.67em 0;
 }
 
+.c-post:first-of-type {
+  margin-top: 3 * $spacing-unit;
+}
+
 .c-post {
-  padding: $spacing-unit / 2 0;
+  margin-top: 2 * $spacing-unit;
 }
 
 .c-post__header {
-  max-width: 60%;
   margin: 0 auto;
   padding: 0 0 4 * $spacing-unit 0 ;
-  text-align: center;
 
-  @include media-query($on-palm) {
-    max-width: 80%;
-  }
 }
 
 .c-post__meta {
