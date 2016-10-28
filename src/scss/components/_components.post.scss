@@ -5,7 +5,7 @@
   margin: 0.67em 0;
 }
 
-.c-post:first-of-type {
+.c-post-list {
   margin-top: 3 * $spacing-unit;
 }
 
@@ -15,7 +15,11 @@
 
 .c-post__header {
   margin: 0 auto;
-  padding: 0 0 4 * $spacing-unit 0 ;
+  padding: 0 0 4 * $spacing-unit 0;
+
+  @include media-query($on-laptop) {
+      padding: 0 0 2 * $spacing-unit 0;
+  }
 
 }
 
@@ -70,17 +74,17 @@
 }
 
 .markdown h3 {
-  font-size: 24px;
+  font-size: 26px;
   font-weight: $font-weight-medium;
   margin: 60px 0 30px 0;
 
   @include media-query($on-laptop) {
-      font-size: 22px;
+      font-size: 24px;
   }
 }
 
 .markdown h4 {
-  font-size: 20px;
+  font-size: 22px;
   font-weight: $font-weight-medium;
 
   @include media-query($on-laptop) {
