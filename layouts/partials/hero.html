@@ -1,16 +1,24 @@
-<section class="c-hero c-hero--home">
-  <div class="o-wrap c-hero__wrap c-hero--home">
-    {{ if .Site.Params.Description }}<h1 class="c-hero__title">{{ .Site.Params.Description }}</h1>{{ end }}
-    <h3 class="c-hero__subtitle">Do you need help <!-- element makes typed.js work --><span class="element"></span></h3>
+<section class="c-hero c-hero-home">
+    <div class="o-wrap">
+        <div class="c-hero__wrap">
+            {{ if .Site.Params.Description }}<h1 class="c-hero__title">{{ .Site.Params.Description }}</h1>{{ end }}
+            <h3 class="c-hero__subtitle">Do you need help <!-- element makes typed.js work --><span class="element"></span></h3>
 
-    <div class="c-hero__button">
-      <a class="c-button c-button--secondary spot-button-brand">Start here</a>
-    </div>
+            <div class="c-hero__button">
+              <a class="c-button c-button--secondary spot-button-brand" href="/articles">Start here</a>
+            </div>
 
-    <div class="c-hero__excerpt">
-      Hi! I’m Harry, a designer and brand consultant. I help young companies get the results they want. Over the years I’ve had a lot of experience building brands, websites and digital products from the ground up.
-      <br/><br/>
-      If you're struggling to get started or just don't know where to begin.. read a few of my articles and see if you find them helpful.
+            <div class="c-hero__excerpt">
+              Hi! I’m Harry, a designer and brand consultant. I help young companies get the results they want. Over the years I’ve had a lot of experience building brands, websites and digital products from the ground up.
+              <br/><br/>
+              If you're struggling to get started or don't know where to begin.. read a few of my articles or get in touch.
+            </div>
+        </div>
     </div>
-  </div>
+</section>
+
+<section class="">
+    <div class="o-wrap">
+        <div class="c-hero__footer u-font--mono"><a class="spot-link-obvious-brand" href="/design-consulting">How you can work with me</a></div>
+    </div>
 </section>
