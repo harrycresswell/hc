@@ -1,16 +1,14 @@
-+++
-Author = "Harry Cresswell"
-Description = ""
-resources = [
-]
-slug = ""
-date = "2016-10-26T21:34:41+01:00"
-title = "Every good book starts with a Preface"
-
-+++
+---
+Author: "Harry Cresswell"
+Description: ""
+slug: ""
+date: "2016-10-26T21:34:41+01:00"
+title: "Every good book starts with a Preface"
+spot: "blue"
+---
 
 
-I’m pretending to write a book here. The old way. Pen paper ink typewriter. Take your pick. I spend far to much time staring at a screen, my eyes hurt and it shows. Visualisation might be the only fix.
+I’m pretending to write a book here. The old way. Pen paper ink typewriter. Take your pick. I spend far to much time staring at a screen, my eyes hurt and it shows. Visualisation might be the only fix.<!--more-->
 
 Ok, Vamonos. On with the show.
 
