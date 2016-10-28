@@ -26,6 +26,10 @@ $spot-colors: (
     border-radius: 4px;
     color: $color-white !important;
     padding: 1rem 3rem;
+
+    &:visited {
+        border: none;
+    }
   }
 
   .spot-button-reverse-#{$name} {
@@ -45,11 +49,6 @@ $spot-colors: (
 
   .page-#{$name} a, .post-#{$name} a  {
     color: $color;
-  }
-
-  .post-#{$name} blockquote {
-    color: $color;
-    border-left: 2px solid $color;
   }
 
   .post-#{$name} strong {
