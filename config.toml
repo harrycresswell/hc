@@ -19,17 +19,20 @@ googleAnalytics = "Your Google Analytics tracking code"
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = ""
+    name = "Hire me"
+    url = "/design-consulting/"
 [[menu.main]]
     name = "Twitter"
-    url = ""
+    url = "https://twitter.com/harrycresswell"
+[[menu.main]]
+    name = "Resources"
+    url = "/resources/"
 
 
 [params]
   Keywords = "keywords go in here"
   Description = "Honest actionable advice for creatives and independent business owners."
-
+  Location = "London, UK"
   Avater = "img/avatar.jpg"
   Email = "you@example.com"
 
