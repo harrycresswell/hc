@@ -17,7 +17,7 @@ $nav-namespace: "c-nav" !default;
 
 	&__link {
 		text-decoration: none;
-		color: $brand;
+		color: $color-brand;
 
 		&:hover {
 			color: $color-dark;
