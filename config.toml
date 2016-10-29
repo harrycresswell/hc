@@ -9,7 +9,7 @@ theme = ""
 disqusShortname = "Your Disqus shortname"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "Your Google Analytics tracking code"
+googleAnalytics = "UA-84736644-1"
 
 [permalinks]
     articles = "/:year/:month/:day/:title/"
@@ -25,8 +25,8 @@ googleAnalytics = "Your Google Analytics tracking code"
     name = "Articles"
     url = "/articles/"
 [[menu.main]]
-    name = "Resources"
-    url = "/resources/"
+    name = "Twitter"
+    url = "https://twitter.com/harrycresswell"
 
 [params]
   Keywords = "keywords go in here"

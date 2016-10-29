@@ -49,12 +49,20 @@ gulp.task('js', function () {
         .pipe(gulp.dest('data/js'))
 });
 
+// pipe fonts
+gulp.task('fonts', function() {
+    del(['static/fonts/**/*'])
+    gulp.src(['src/fonts/**/*'])
+      .pipe(gulp.dest('static/fonts'));
+});
+
 
 // Watch asset folder for changes
-gulp.task('watch', ['scss', 'images', 'js'], function () {
-    gulp.watch('src/scss/**/*', ['scss'])
-    gulp.watch('src/images/**/*', ['images'])
-    gulp.watch('src/js/**/*', ['js'])
+gulp.task('watch', ['scss', 'images', 'js', 'fonts'], function () {
+    gulp.watch('src/scss/**/*', ['scss']);
+    gulp.watch('src/images/**/*', ['images']);
+    gulp.watch('src/js/**/*', ['js']);
+    gulp.watch('src/fonts/**/*', ['fonts']);
 });
 
 
