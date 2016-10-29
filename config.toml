@@ -22,12 +22,11 @@ googleAnalytics = "Your Google Analytics tracking code"
     name = "Hire me"
     url = "/design-consulting/"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/harrycresswell"
+    name = "Articles"
+    url = "/articles/"
 [[menu.main]]
     name = "Resources"
     url = "/resources/"
-
 
 [params]
   Keywords = "keywords go in here"
@@ -35,6 +34,9 @@ googleAnalytics = "Your Google Analytics tracking code"
   Location = "London, UK"
   Avater = "img/avatar.jpg"
   Email = "you@example.com"
-
   GithubID = "Your Github ID"
   TwitterID = "Your Twitter ID"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

@@ -12,8 +12,9 @@
 
 <main role="main">
 
-    <article class="c-post post-{{ .Params.spot }}">
-      <div class="o-wrap">
+    <article class="c-post">
+        <div class="o-wrap">
+
             <header class="c-post__header">
                 <time class="c-post__meta u-font--mono">{{ .Date.Format "Mon Jan 2, 2006" }}</time>
                 <h1 class="c-post__title">{{ .Title }}</h1>
@@ -23,6 +24,13 @@
             <div class="c-post__content markdown">
               {{ .Content }}
             </div>
+
+            <aside class="c-post__footer">
+                {{ partial "post/related-post.html" . }}
+
+                <!--{{ partial "post/tags/list.html" . }}-->
+            </aside>
+
         </div>
     </article>
 

@@ -4,7 +4,7 @@ title: "Reducing Complexity in Sketch"
 author: "Harry Cresswell"
 description: "Working on giant web apps in bloated sketch files can get tiresome. Here are my tips to make the process more managable."
 slug: ""
-tags: "sketch3"
+tags: ["sketch3", "Shopify", "design"]
 ---
 
 You’ll find this post in your `_posts` directory. **Go ahead and edit it and re-build the site to** see your changes. The best way to rebuild the site is to run `gulp`, which launches a web server and auto-regenerates your site when a file is updated.<!--more-->

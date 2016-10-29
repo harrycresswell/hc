@@ -2,14 +2,12 @@
 Stuff i still need todo
 
 ##pre-launch
-- add conditional article description
 - add category links and `read this next` to single article page
 - add contact button to consultancy page
 - load Apercu font and build into gulp workflow
+- add dev and production mode for analytics
 - build a newsletter landing page
 - create a thanks page for mailing list sign ups like [this](https://pjrvs.com/thanks/).
-- [this](https://github.com/IvanChou/hugo-theme-vec) is helpful
-- add dev and production mode for analytics
 - link to CDN like [netlify]https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/
 
 ##future
@@ -17,6 +15,7 @@ Stuff i still need todo
 - add sourcemaps and linting to gulpfile
 
 ##resources
+- [this](https://github.com/IvanChou/hugo-theme-vec) is helpful
 
 ##complete
 - ~~fix return link color~~
@@ -32,3 +31,4 @@ Stuff i still need todo
 - ~~finish line-height scale in base.typography.scss~~
 - ~~work out line heights for headings~~
 - ~~add animation to form field~~
+- ~~add conditional article description~~
