@@ -17,4 +17,4 @@ All the code can be found on [github](https://github.com/harrycresswell). Use it
 
 If you want to know more i've written about it in depth in this [article](https://github.com/harrycresswell).
 
-Support the creative commons licence and the open source way of thinking :).
+Support the creative commons licence and the open source way of thinking.
