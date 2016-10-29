@@ -1,4 +1,4 @@
-# hugo-hc
+# hc
 This is the source code for my personal website :)
 
 ## Getting started
@@ -15,8 +15,8 @@ If you want to grab a copy to learn from follow the setup below.
 ## Usage
 
 ```
-git clone https://github.com/harrycresswell/hugo-gulp.git
-cd hugo-hc
+git clone https://github.com/harrycresswell/hc.git
+cd hc
 ```
 - Then run `npm install` to install node dependencies
 - Run `gulp` to start a local server and build `_site` in development mode

@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My personal Website"
 
 MetaDataFormat = ""
 theme = ""
@@ -32,8 +32,7 @@ googleAnalytics = "UA-84736644-1"
   Keywords = "keywords go in here"
   Description = "Honest actionable advice for creatives and independent business owners."
   Location = "London, UK"
-  Avater = "img/avatar.jpg"
-  Email = "you@example.com"
+  Email = "studio@harrycresswell.com"
   GithubID = "Your Github ID"
   TwitterID = "Your Twitter ID"
 
