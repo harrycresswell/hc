@@ -3,14 +3,15 @@ Stuff i still need todo
 
 
 ##pre-launch
+- finish line-height scale for headings in base.typography
 - build a newsletter landing page
+- add an image to about
 - create a thanks page for mailing list sign ups like [this](https://pjrvs.com/thanks/).
-- check analytics is working
-- build mailchimp template
 - re-write copy on design consultancy page
 - write some articles
+- build mailchimp template
 - link to CDN like [netlify]https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/
-
+- check analytics is working
 
 ##future
 - build a resources landing page
