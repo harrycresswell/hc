@@ -80,8 +80,13 @@
   text-decoration: underline !important;
   border: none !important;
 
-  &:hover, &:focus, &:visited {
+  &:focus, &:visited {
     border: none !important;
+  }
+
+  &:hover {
+    color: $color-brand !important;
+    text-decoration: underline !important;
   }
 }
 
