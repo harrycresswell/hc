@@ -15,7 +15,7 @@
 
 .c-post__header {
   margin: 0 auto;
-  padding: 0 0 4 * $spacing-unit 0;
+  padding: 0 0 2 * $spacing-unit 0;
 
   @include media-query($on-laptop) {
       padding: 0 0 2 * $spacing-unit 0;
@@ -45,10 +45,10 @@
 }
 
 .c-post__subtitle {
-  color: $color-grey;
-  font-family: $tertiary-font-family;
-  font-size: $font-size--m;
-  font-weight: $font-weight-regular;
+  font-size: $font-size--xl;
+  font-weight: $font-weight-light;
+  line-height: $line-height-l;
+  margin-top: $spacing-unit / 2;
 }
 
 .c-post__excerpt {

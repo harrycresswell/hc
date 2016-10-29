@@ -2,8 +2,7 @@
 date: "2016-04-04"
 title: "Launching Albion Cycling"
 author: "Harry Cresswell"
-description: "Launching a new website for Albion Cycling."
-spot: "brand"
+description: "A client case study: designing and building a Wordpress site with Shopify intergration."
 ---
 
 
