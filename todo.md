@@ -42,3 +42,4 @@ Stuff i still need todo
 - ~~add dev and production mode for analytics~~
 - ~~load Apercu font and build into gulp workflow~~
 - ~~add contact button to consultancy page~~
+- ~~update colophon~~
