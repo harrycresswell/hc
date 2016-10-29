@@ -63,6 +63,14 @@
   margin-top: 2 * $spacing-unit;
 }
 
+.c-post__related {
+  margin-bottom: $spacing-unit / 2;  
+}
+
+.c-post__tags {
+  margin-top: 2 * $spacing-unit;
+}
+
 .markdown p {
   margin: $spacing-unit 0;
 }

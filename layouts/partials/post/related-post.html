@@ -1,8 +1,8 @@
 <!-- Related post. -->
 <h3>Read this next:</h3>
-<ul class="post-rels">
+<ul class="c-post__related-list">
 {{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
-  <li class="relatedPost">
+  <li class="c-post__related">
     <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a><br />
   </li>
 {{ end }}

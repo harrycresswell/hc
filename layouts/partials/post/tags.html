@@ -1,0 +1,10 @@
+<div class="c-post__tags">
+    <!-- Tags. -->
+    <h4>Tags</h4>
+    <ul>
+      {{ $baseurl := .Site.BaseURL }}
+      {{ range .Params.tags }}
+        <li><a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a> </li>
+      {{ end }}
+    </ul>
+</div>
