@@ -48,7 +48,7 @@
   font-size: $font-size--l;
   font-weight: $font-weight-light;
   line-height: $line-height-xl;
-  margin-top: $spacing-unit / 2;
+  margin: $spacing-unit / 2 0;
 }
 
 .c-post__excerpt {
@@ -67,8 +67,13 @@
   margin-bottom: $spacing-unit / 2;
 }
 
+.c-post__tag-list {
+  margin: 2 * $spacing-unit 0;
+}
+
 .c-post__tags {
-  margin-top: 2 * $spacing-unit;
+  font-size: $font-size--xs;
+    margin-top: $spacing-unit / 2;
 }
 
 .markdown p {
