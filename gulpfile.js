@@ -23,20 +23,6 @@ gulp.task('scss', function () {
         .pipe(gulp.dest('data/css'))
 });
 
-
-// Hash images
-gulp.task('images', function () {
-    del(['static/images/**/*'])
-    gulp.src('src/images/**/*')
-        .pipe(hash())
-        .pipe(gulp.dest('static/images'))
-        //Create a hash map
-        .pipe(hash.manifest('hash.json'))
-        //Put the map in the data directory
-        .pipe(gulp.dest('data/images'))
-});
-
-
 // Hash javascript
 gulp.task('js', function () {
     del(['static/js/**/*'])
@@ -49,11 +35,18 @@ gulp.task('js', function () {
         .pipe(gulp.dest('data/js'))
 });
 
+// pipe images
+gulp.task('images', function () {
+    del(['static/images/**/*'])
+    gulp.src('src/images/**/*')
+        .pipe(gulp.dest('static/images'))
+});
+
 // pipe fonts
 gulp.task('fonts', function() {
     del(['static/fonts/**/*'])
     gulp.src(['src/fonts/**/*'])
-      .pipe(gulp.dest('static/fonts'));
+      .pipe(gulp.dest('static/fonts'))
 });
 
 
