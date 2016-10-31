@@ -45,9 +45,9 @@
 }
 
 .c-post__subtitle {
-  font-size: $font-size--xl;
+  font-size: $font-size--l;
   font-weight: $font-weight-light;
-  line-height: $line-height-l;
+  line-height: $line-height-xl;
   margin-top: $spacing-unit / 2;
 }
 
@@ -64,7 +64,7 @@
 }
 
 .c-post__related {
-  margin-bottom: $spacing-unit / 2;  
+  margin-bottom: $spacing-unit / 2;
 }
 
 .c-post__tags {
