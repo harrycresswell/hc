@@ -3,13 +3,11 @@ Stuff i still need todo
 
 
 ##pre-launch
-- add an image to about page
-- add favicon
 - build welcome mailchimp template
 - build typeform survey
 - re-write copy on design consultancy page
 - write some articles
-- link to CDN like [netlify]https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/
+- link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)
 - check analytics is working
 
 ##future
@@ -45,3 +43,6 @@ Stuff i still need todo
 - ~~update colophon~~
 - ~~finish line-height scale for headings in base.typography~~
 - ~~create a thanks page for mailing list sign ups like [this](https://pjrvs.com/thanks/).~~
+- ~~add an image to about page~~
+- ~~remove hashing from image cos i can't work out how to call them via shortcode~~
+- ~~add favicon~~
