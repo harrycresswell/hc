@@ -73,11 +73,7 @@ pre {
 figure {
 
     @media screen and (min-width: 1380px) {
-        margin-left: -128px; /* [1] */
-    }
-
-    > img {
-        border-radius: 4px;
+      //  margin-left: -128px; /* [1] */
     }
 
 }
@@ -85,7 +81,7 @@ figure {
     figcaption {
 
         @media screen and (min-width: 1380px) {
-            margin-left: 128px; /* [2] */
+            //margin-left: 128px; /* [2] */
         }
 
     }
