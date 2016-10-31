@@ -10,11 +10,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     {{ .Hugo.Generator }}
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/{{ index .Site.Data.css.hash "main.css" }}" />
-
     <!-- RSS -->
     <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico" type="image/x-icon">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/{{ index .Site.Data.css.hash "main.css" }}" />
+
 
 </head>
 <body>
