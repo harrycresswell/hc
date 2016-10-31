@@ -115,6 +115,22 @@ mark {
 }
 
 
+/**
+ * Heading line heights
+ */
+
 h1 {
   line-height: $line-height-l;
+}
+
+h2 {
+  line-height: $line-height-m;
+}
+
+h3 {
+  line-height: $line-height-s;
+}
+
+h4 {
+  line-height: $line-height-xs;
 }
