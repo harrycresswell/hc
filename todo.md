@@ -3,6 +3,7 @@ Stuff i still need todo
 
 
 ##pre-launch
+- fix meta for fb and twitter
 - build welcome mailchimp template
 - build typeform survey
 - re-write copy on design consultancy page
@@ -11,7 +12,6 @@ Stuff i still need todo
 - check analytics is working
 
 ##future
-- add meta for fb and twitter
 - build a resources landing page
 - add some testimonials
 - add sourcemaps and linting to gulpfile
@@ -46,3 +46,4 @@ Stuff i still need todo
 - ~~add an image to about page~~
 - ~~remove hashing from image cos i can't work out how to call them via shortcode~~
 - ~~add favicon~~
+- ~~make a better favicon~~
