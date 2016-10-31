@@ -18,9 +18,9 @@ All the code can be found on my [github](https://github.com/harrycresswell/hc). 
 
 
 ### Recent work
-- [Albion Cycling – British cycling gear for all sorts of weather](http://www.albioncycling.com/)
+- [Albion Cycling – British cycling gear for all sorts of weather](http://www.albioncycling.com/). *Read more about this project [here](Http://www.com).*
 
 
 ### Other things i've made
 
-- [In Detail – Visual interviews with jewellery collectors and influencers](https://indtl.com/).
+- [In Detail – Visual interviews with jewellery collectors and influencers](https://indtl.com/). *I co-founded and continue to work on In Detail with jewellery expert [Beanie Major](http://www.pushpr.co.uk/2015/12/16/interview-meet-beanie-major-founder-of-in-detail/).*
