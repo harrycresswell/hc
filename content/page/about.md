@@ -4,10 +4,9 @@ date: "2016-10-24T17:23:17+01:00"
 description: "Harry who?"
 ---
 
-{{< figure src="/images/hello.jpg" title="Steve Francia" >}}
-
-
 I’m Harry Cresswell, a brand consultant and digital product designer from London. **I help young companies get the results they want.** Over the years I’ve had a lot of experience building and marketing websites, brands and digital products from the ground up.
+
+{{< img class="image-wrapper" src="hello.jpg" caption="Hi, I'm Harry!" >}}
 
 ### Colophon
 
