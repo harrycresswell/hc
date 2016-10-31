@@ -1,10 +1,10 @@
-<div class="c-post__tags">
+<div class="c-post__tag-list">
     <!-- Tags. -->
-    <h4>Tags</h4>
-    <ul>
+    <h4>Filed under:</h4>
+    <div class="c-post__tags">
       {{ $baseurl := .Site.BaseURL }}
       {{ range .Params.tags }}
-        <li><a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a> </li>
+        <a class="nav-link u-font--mono" href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a>
       {{ end }}
-    </ul>
+    </div>
 </div>
