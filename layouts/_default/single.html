@@ -16,9 +16,9 @@
         <div class="o-wrap">
 
             <header class="c-post__header">
-                <time class="c-post__meta u-font--mono">{{ .Date.Format "Mon Jan 2, 2006" }}</time>
                 <h1 class="c-post__title">{{ .Title }}</h1>
                 {{ if .Params.description }}<h3 class="c-post__subtitle">{{ .Params.description }}</h3>{{ end }}
+
             </header>
 
             <div class="c-post__content markdown">
@@ -28,7 +28,7 @@
             <aside class="c-post__footer">
                 {{ partial "post/related-post.html" . }}
                 {{ partial "post/tags.html" . }}
-
+                <time class="c-post__meta u-font--mono">{{ .Date.Format "Mon Jan 2, 2006" }}</time>
             </aside>
 
         </div>
