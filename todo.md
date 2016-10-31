@@ -3,21 +3,21 @@ Stuff i still need todo
 
 
 ##pre-launch
-- finish line-height scale for headings in base.typography
-- build a newsletter landing page
-- add an image to about
-- create a thanks page for mailing list sign ups like [this](https://pjrvs.com/thanks/).
+- add an image to about page
+- add favicon
+- build welcome mailchimp template
+- build typeform survey
 - re-write copy on design consultancy page
 - write some articles
-- build mailchimp template
 - link to CDN like [netlify]https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/
 - check analytics is working
 
 ##future
+- add meta for fb and twitter
 - build a resources landing page
 - add some testimonials
 - add sourcemaps and linting to gulpfile
-
+- build a newsletter landing page
 
 ##resources
 - [this](https://github.com/IvanChou/hugo-theme-vec) is helpful
@@ -43,3 +43,5 @@ Stuff i still need todo
 - ~~load Apercu font and build into gulp workflow~~
 - ~~add contact button to consultancy page~~
 - ~~update colophon~~
+- ~~finish line-height scale for headings in base.typography~~
+- ~~create a thanks page for mailing list sign ups like [this](https://pjrvs.com/thanks/).~~
