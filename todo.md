@@ -4,8 +4,6 @@ Stuff i still need todo
 
 ##pre-launch
 - fix meta for fb and twitter
-- build welcome mailchimp template
-- build typeform survey
 - re-write copy on design consultancy page
 - write some articles
 - link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)
@@ -47,3 +45,4 @@ Stuff i still need todo
 - ~~remove hashing from image cos i can't work out how to call them via shortcode~~
 - ~~add favicon~~
 - ~~make a better favicon~~
+- ~~build welcome mailchimp template~~

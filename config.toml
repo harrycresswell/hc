@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Harry Cresswell: Honest actionable advice for creatives and independent business owners."
+title = "Harry Cresswell: Honest advice for independent creatives and small business owners."
 
 MetaDataFormat = ""
 theme = ""
@@ -30,7 +30,7 @@ googleAnalytics = "UA-84736644-1"
 
 [params]
   Keywords = "keywords go in here"
-  Description = "Honest actionable advice for creatives and independent business owners."
+  Description = "Honest advice for independent creatives and small business owners."
   Location = "London, UK"
   Email = "studio@harrycresswell.com"
   GithubID = "Your Github ID"

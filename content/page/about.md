@@ -10,7 +10,7 @@ I’m Harry Cresswell, a brand consultant and digital product designer from Lond
 
 ### Colophon
 
-For those who are interested in how I buit this site, here's a quick overview. I'm using [Hugo](https://gohugo.io/), a lightening fast static site engine. It's hosted for free using [Github Pages](https://pages.github.com/).
+For those who are interested in how I built this site, here's a quick overview. I'm using [Hugo](https://gohugo.io/), a lightening fast static site engine. It's hosted for free using [Github Pages](https://pages.github.com/).
 
 The CSS is written in [Sass](http://sass-lang.com/), and follows the [BEM](https://css-tricks.com/bem-101/) methodology for writing scaleable CSS architecture. I use [GulpJS](http://gulpjs.com/) for the build system.
 
