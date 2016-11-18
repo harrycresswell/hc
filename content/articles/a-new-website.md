@@ -3,18 +3,12 @@ Author: "Harry Cresswell"
 Description: ""
 slug: ""
 date: "2016-10-26T21:34:41+01:00"
-title: "Every good book starts with a Preface"
-tags: ["positioning", "design"]
+title: "A new website with a brand new direction"
+tags: ["positioning", "start-here"]
 ---
 
-
-I’m pretending to write a book here. The old way. Pen paper ink typewriter. Take your pick. I spend far to much time staring at a screen, my eyes hurt and it shows. Visualisation might be the only fix.<!--more-->
-
-Ok, Vamonos. On with the show.
-
-So every good book begins with a preface right? and seeing as now i’m this wannabe hot shot writer guy I figured I’d kick things off in typical paperback fashion.. yep you guest it.. with a preface.
-
-To my knowledge, [the Preface](http://www.com) is all about outlining the subject matter of the book you’re about to read . So that seems like a fairly good place to start.
+I wanted to take a moment to write a bit about why I have waited until now to re-launch my website and why it's so heavily focused on writing.
+<!--more-->
 
 
 ## What i’ll be writing about and who for
