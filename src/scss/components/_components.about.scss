@@ -1,0 +1,14 @@
+.c-about {
+  border-top: solid 1px #E7E7E7;
+  margin-top: 4 * $spacing-unit;
+  padding: 90px 0 0 0 ;
+}
+
+.c-about__excerpt {
+  font-size: $font-size--m;
+}
+
+.c-about__footer {
+  margin-top: 2 * $spacing-unit;
+  font-size: $font-size--s;
+}
