@@ -8,12 +8,13 @@
   display: table;
   width: 100%;
   height: 200px;
-  margin-top: 8 * $spacing-unit;
+  margin-top: 6 * $spacing-unit;
 }
 
 .c-hero__wrap {
   margin: 0 auto;
   vertical-align: middle;
+  text-align: center;
 }
 
 .c-hero__title {
@@ -29,14 +30,5 @@
 
 .c-hero__button {
   margin-top: 2 * $spacing-unit;
-}
-
-.c-hero__excerpt {
-  margin-top: 4 * $spacing-unit;
-  font-size: $font-size--m;
-}
-
-.c-hero__footer {
-  margin-top: 2 * $spacing-unit;
-  font-size: $font-size--s;
+  height: 50px;
 }
