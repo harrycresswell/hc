@@ -15,10 +15,10 @@
 
 .c-post__header {
   margin: 0 auto;
-  padding: 0 0 2 * $spacing-unit 0;
+  padding: 0 0 $spacing-unit 0;
 
   @include media-query($on-laptop) {
-      padding: 0 0 2 * $spacing-unit 0;
+      padding: 0 0 $spacing-unit 0;
   }
 
 }
@@ -48,7 +48,7 @@
   font-size: $font-size--l;
   font-weight: $font-weight-light;
   line-height: $line-height-xl;
-  margin: $spacing-unit / 2 0;
+  margin: 8 * $spacing-unit / 2 0 0;
 }
 
 .c-post__excerpt {
