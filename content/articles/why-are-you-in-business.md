@@ -1,21 +1,30 @@
 ---
 title: "Why are you in business?"
 author: "Harry Cresswell"
-description: "Knowing why will help to find your purpose, your cause, your belief that inspires you to do what it is you do."
+description: "Finding a purpose, a cause or something you believe in, is the best way to stay inspired and build an ethical business you’re proud to call your own."
 slug: ""
 date: "2016-04-05"
 tags: ["start here", "positioning"]
 ---
+
+
+The place to start is with a simple three letter word. Why.
 
 The first time I speak to potential clients, I always begin by asking a simple question. **Why are you in business?**
 <!--more-->
 
 It’s a great question. Most business owners either haven’t thought about it, or they’ve forgotten.
 
-When you forget, you loose sight of why you started in the first place. For some it becomes just about the money. Then the product suffers and the brand weakens. For others, well in the end they just get sick of it altogether and end up moving on to something else.
+To forget means to you loose sight of your vision. You loose sight of what it's all about, why you started out in the first place. For a lot of companies it becomes all about the money. Often the product suffers and the brand weakens. Customers stop believing after a while and move on.
+
+Employees can also have a tough time. Those that believed in your vision notice the change. After a while they get sick of the grind. It's difficult to grind when there isn't a cause. Eventually they also move on.
+
+You might have noticed this pattern if you've ever worked for other companies. I know I have.
+
+It's a big reason why people go off to set up their own businesses. They know they can do it better.
 
 
-## But why is it so important to ask ourselves why?
+## But why is it so important to start with why?
 
 Knowing why will help you to find your purpose, your cause, your belief that inspires you to do what you do.
 
@@ -40,7 +49,7 @@ Think about this:
 - What are you making better?
 - How are you helping your customer?
 
-Whatever it is you’re doing right now might well be what you believe in. If your business isn’t on the right track, then you might just need to re-evaluate your purpose.
+Whatever it is you’re doing right now might well be what you believe in. But if your business isn’t on the right track, for whatever reason, then you might just need to re-evaluate your purpose.
 
 The chances are your why is right in front of you. Staring you in the face. You just need to given it some thought. Maybe you just need to work on your alignment a bit.
 
