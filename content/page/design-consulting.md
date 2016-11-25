@@ -11,12 +11,16 @@ If you're trying to build a business online but don't know where to start I can 
 - Optimise your current website to increase customer conversions and sell more products.
 
 
-## Why I do this
-
-For me it's all about exciting new experiences. I love helping inspiring people bring their ideas to life by building great sustainable businesses. If that's not a good enough reason; I wrote a whole article on [why i'm in business](start with why).
-
-
 ## How we can work together
+
+It can be a big decision deciding who to work with to build your business. To be honest, there are a lot of ways to do things on your own. The reason I decided to write in the first place, was so I could help my clients do a lot of work themselves.
+
+For various reasons this isn't always practical or to everyones needs.
+
+Below I have outline some of the ways I have successfully worked with previous clients. To build their vision and produce results.
+
+If you feel you're needs don't fit within these areas, then no problem. I still might be able to help so we should discuss you're requirements.
+
 
 #### Design Strategy
 
@@ -30,8 +34,9 @@ A redesign of a single page on your website, or the creation of a new one. After
 
 I'll design and build a beautifully simple website which is easy for you to update, and delivers maximum impact for your business.
 
+{{< button-contact >}}<p></p>{{< /button-contact >}}
+
+
 ## It's not just about the money
 
 Even if you're in the arctic with zero budget we should have a chat. If we're on the same page then we still might be able to work something out. Whatever the case, I sure i'll have some friendly advise. I'm always happy to help point you in the right direction.
-
-{{< button-contact >}}<p></p>{{< /button-contact >}}
