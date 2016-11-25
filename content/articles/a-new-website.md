@@ -3,7 +3,7 @@ Author: "Harry Cresswell"
 Description: ""
 slug: ""
 date: "2016-10-26T21:34:41+01:00"
-title: "A new website with a brand new direction"
+title: "A new website. A new direction."
 tags: ["positioning", "start-here"]
 ---
 
