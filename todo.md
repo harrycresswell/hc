@@ -3,13 +3,16 @@ Stuff i still need todo
 
 
 ##pre-launch
+- work out bg cover image for about me
+- figure out external links
 - fix meta for fb and twitter
-- re-write copy on design consultancy page
+- re-write package options on design consultancy page
 - write some articles
 - link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)
 - check analytics is working
 
 ##future
+- finish building reading list
 - build a resources landing page
 - add some testimonials
 - add sourcemaps and linting to gulpfile
@@ -46,3 +49,4 @@ Stuff i still need todo
 - ~~add favicon~~
 - ~~make a better favicon~~
 - ~~build welcome mailchimp template~~
+- ~~finish why article~~
