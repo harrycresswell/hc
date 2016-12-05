@@ -4,11 +4,13 @@ date: "2016-10-23T21:47:14+01:00"
 description: "Let's make your business better. Together."
 ---
 
-If you're trying to build a business online but don't know where to start I can help you:
+ I'm here to help you bring your project to life. If you're aiming to grow your business online I can help you:
 
-- Build a website for your business *(which you can manage!)*.
-- Create a strategy to find more clients and increase your revenue.
-- Optimise your current website to increase customer conversions and sell more products.
+- **Evaluate your business goals** and make a solid plan of action.
+- **Build a website** *(which you can manage!)*.
+- Create a strategy to **find more clients and increase your revenue**.
+- Optimise your current website to **increase customer conversions**.
+- **Build and market your product** to the right audience.
 
 
 ## How we can work together
@@ -22,15 +24,15 @@ Below I have outline some of the ways I have successfully worked with previous c
 If you feel you're needs don't fit within these areas, then no problem. I still might be able to help so we should discuss you're requirements.
 
 
-#### Design Strategy
+### Design Strategy
 
 We'll discuss your business objectives in depth, then I'll pick apart your design and content (up to three key pages from your site), and write a detailed 1,000+ word report on how to make things better.
 
-#### Design/Single
+### Design/Single
 
 A redesign of a single page on your website, or the creation of a new one. After a brainstorming session, I'll create a design for you (delivered as a Photoshop file) and write a single-page report on extracting maximum juice from your new baby. If you don't have a web developer to build my design, I can advise on that too.
 
-#### Design/Build
+### Design/Build
 
 I'll design and build a beautifully simple website which is easy for you to update, and delivers maximum impact for your business.
 
