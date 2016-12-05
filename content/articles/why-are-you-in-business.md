@@ -7,15 +7,15 @@ date: "2016-04-05"
 tags: ["start here", "positioning"]
 ---
 
-
-The place to start is with a simple three letter word. Why.
-
 The first time I speak to potential clients, I always begin by asking a simple question. **Why are you in business?**
 <!--more-->
 
-It’s a great question. Most business owners either haven’t thought about it, or they’ve forgotten.
+The reason I ask this is because most business owners either haven’t thought about it, or they’ve forgotten. They've lost sight of what it's all about, and why they started out in the first place.
 
-To forget means to you loose sight of your vision. You loose sight of what it's all about, why you started out in the first place. For a lot of companies it becomes all about the money. Often the product suffers and the brand weakens. Customers stop believing after a while and move on.
+If you've forgotten, then you've lost sight of your vision. If you've never thought about it then you don't have a vision at all. We all need a vision in order to stay focused and inspired.
+
+
+For a lot of companies it becomes all about the money. Often the product suffers and the brand weakens. Customers stop believing after a while and move on.
 
 Employees can also have a tough time. Those that believed in your vision notice the change. After a while they get sick of the grind. It's difficult to grind when there isn't a cause. Eventually they also move on.
 
