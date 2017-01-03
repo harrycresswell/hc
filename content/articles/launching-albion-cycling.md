@@ -6,6 +6,7 @@ description: "A client case study: designing and building a Wordpress site with 
 categories: "case studies"
 tags: ["sketch3", "wordpress", "Shopify", "design"]
 featured_image: http://localhost:1313/images/albion-cycling.jpg
+spot: white
 ---
 
 
