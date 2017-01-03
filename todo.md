@@ -1,20 +1,29 @@
 #todo
 Stuff i still need todo
 
-
 ##pre-launch
-- work out bg cover image for about me
-- figure out external links
+- create an if statement for o-header--cover when no image is set in post front matter
+- build resources landing page
+- finish building reading list
+- remove unused fonts
+- remove spots
+- remove typed
+- add bg cover image to posts
+- remove projects
+- require smaller image for mobile landing page
+- https
+- re-write design consultancy
+- re-write hire me page
+- add a testimonial to homepage
 - fix meta for fb and twitter
-- re-write package options on design consultancy page
 - write some articles
 - link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)
 - check analytics is working
 
 ##future
-- finish building reading list
+- rebuild scss with tachyons
+- build better breakpoint mixin like [this](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.3wje0ib56)
 - build a resources landing page
-- add some testimonials
 - add sourcemaps and linting to gulpfile
 - build a newsletter landing page
 
@@ -23,6 +32,7 @@ Stuff i still need todo
 
 
 ##complete
+- ~~remove grid as now have flexbox~~
 - ~~fix return link color~~
 - ~~work out seperate articles page~~
 - ~~add scss modules~~
@@ -50,3 +60,4 @@ Stuff i still need todo
 - ~~make a better favicon~~
 - ~~build welcome mailchimp template~~
 - ~~finish why article~~
+- ~~re-work why i made this site~~
