@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Harry Cresswell: Honest advice for independent creatives and small business owners."
+title = "Harry Cresswell"
 
 MetaDataFormat = ""
 theme = ""
@@ -12,25 +12,40 @@ disqusShortname = "Your Disqus shortname"
 googleAnalytics = "UA-84736644-1"
 
 [permalinks]
+    projects = "/:year/:month/:day/:title/"
     articles = "/:year/:month/:day/:title/"
     page = "/:title/"
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Home"
+    url = "/"
+    weight = 0
 [[menu.main]]
-    name = "Hire me"
-    url = "/design-consulting/"
+    name = "Projects"
+    url = "/projects/"
+    weight = 5
 [[menu.main]]
     name = "Articles"
     url = "/articles/"
+    weight = 10
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/harrycresswell"
+    name = "Reading List"
+    url = "/reading-list/"
+    weight = 15
+
+[[menu.footer]]
+    name = "Articles"
+    url = "/articles/"
+[[menu.footer]]
+    name = "Resources"
+    url = "/resources/"
+[[menu.footer]]
+    name = "About"
+    url = "/about/"
 
 [params]
   Keywords = "keywords go in here"
-  Description = "Honest advice for independent creatives and small business owners."
+  Description = "I help small businesses grow – using design, code and a good bit of content marketing know-how."
   Location = "London, UK"
   Email = "studio@harrycresswell.com"
   GithubID = "Your Github ID"
