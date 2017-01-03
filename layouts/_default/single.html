@@ -1,14 +1,16 @@
 {{ partial "header.html" . }}
 
-{{ with .Params.featured_image }}
-<header class="o-header o-header--cover" style="background: url({{ . }}) no-repeat center; background-size: cover;   height: 50vh;">
+{{ if isset .Params "featured_image" }}
+<header class="o-header o-header--cover" style="background: url({{ index .Params "featured_image" }}) no-repeat center; background-size: cover; height: 50vh; color: {{ index .Params "spot" }};">
+  {{else}}
+<header class="o-header">
   {{ end }}<div class="o-wrap">
         <section class="c-nav">
             <div class="c-nav__item">
-              <a href="{{ .Site.BaseURL }}/articles" class="c-nav__link u-font--mono u-link--white">← Return</a>
+              <a href="{{ .Site.BaseURL }}/articles" class="c-nav__link u-font--mono u-link--bare">← Return</a>
             </div>
         </section>
-        <h1 class="c-post__title u-link--white">{{ .Title }}</h1>
+        <h1 class="c-post__title">{{ .Title }}</h1>
     </div>
 </header>
 
