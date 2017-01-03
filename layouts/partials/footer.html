@@ -2,16 +2,16 @@
 
     <div class="o-wrap">
 
-        <section class="c-footer__social u-font--mono u-float--left">
+        <section class="c-footer__social u-font--mono">
 
-          {{ range .Site.Menus.main }}
+          {{ range .Site.Menus.footer }}
           <a class="nav-link" href="{{ .URL }}"><span>{{ .Name }}</span></a>
           {{ end }}
 
         </section>
 
 
-        <section class="c-footer__location u-float--right">
+        <section class="c-footer__location u-float--left">
 
           <div class="u-float--left">
                 <div class="blip">
