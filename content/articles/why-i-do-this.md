@@ -7,9 +7,9 @@ slug = ""
 
 +++
 
-## Why I do this
+I've always loved building things. As a kid I always had a project on the go. I'd either be painting it or taking it apart. Fixing and rebuilding, changing bits as I went. <!--more-->
 
-I've always loved building things. As a kid I always had a project on the go. I'd either be painting it or taking it apart. Fixing and rebuilding, changing bits as I went. Sometimes i'd get whatever it was working again. Other times pieces would lay abandoned. A heap of broken junk on the floor.
+Sometimes i'd get whatever it was working again. Other times pieces would lay abandoned. A heap of broken junk on the floor.
 
 Looking back I guess I was interested in how stuff worked.
 
