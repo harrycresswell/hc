@@ -1,14 +1,17 @@
 {{ partial "header.html" . }}
 
-<header class="o-header">
-    <div class="o-wrap">
+{{ with .Params.featured_image }}
+<header class="o-header o-header--cover" style="background: url({{ . }}) no-repeat center; background-size: cover;   height: 50vh;">
+  {{ end }}<div class="o-wrap">
         <section class="c-nav">
             <div class="c-nav__item">
-              <a href="{{ .Site.BaseURL }}/articles" class="c-nav__link u-font--mono u-link--bare">← Return</a>
+              <a href="{{ .Site.BaseURL }}/articles" class="c-nav__link u-font--mono u-link--white">← Return</a>
             </div>
         </section>
+        <h1 class="c-post__title u-link--white">{{ .Title }}</h1>
     </div>
 </header>
+
 
 <main role="main">
 
@@ -16,8 +19,8 @@
         <div class="o-wrap">
 
             <header class="c-post__header">
-                <h1 class="c-post__title">{{ .Title }}</h1>
-                {{ if .Params.description }}<h3 class="c-post__subtitle">{{ .Params.description }}</h3>{{ end }}
+
+                {{ if .Params.description }}<h2 class="c-post__subtitle">{{ .Params.description }}</h2>{{ end }}
 
             </header>
 
