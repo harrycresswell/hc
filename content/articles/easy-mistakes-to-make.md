@@ -7,9 +7,9 @@ title = "Easy mistakes to make"
 
 +++
 
-## The problem
-
 Clients often say they need a website, because that's what they *think* they should be asking for.
+<!--more-->
+
 
 >I need a logo and a website, can you help me!
 
