@@ -1,4 +1,12 @@
+/*------------------------------------*\
+    #HEADER
+\*------------------------------------*/
+
 .o-header {
- width: 100%;
- padding: 2 * $spacing-unit 0 6 * $spacing-unit 0;
+    width: 100%;
+    padding: 2 * $spacing-unit 0 6 * $spacing-unit 0;
+}
+
+.o-header--cover {
+    background-color: $color-dark;
 }

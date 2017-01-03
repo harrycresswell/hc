@@ -1,69 +1,68 @@
 .c-newsletter {
-  background: $color-white;
-  color: $color-body;
-  border-top: solid 1px $color-lighter;
-  border-bottom: solid 1px $color-lighter;
-  padding: 3 * $spacing-unit 0;
-  margin-top: 4 * $spacing-unit;
+    background: $color-white;
+    color: $color-body;
+    border-top: solid 1px $color-lighter;
+    border-bottom: solid 1px $color-lighter;
+    padding: 3 * $spacing-unit 0;
 }
 
 .c-newsletter__title {
-  color: $color-dark;
-  font-size: $font-size--xl;
-  font-weight: $font-weight-medium;
-  margin: 0;
+    color: $color-dark;
+    font-size: $font-size--xl;
+    font-weight: $font-weight-medium;
+    margin: 0;
 }
 
 .c-newsletter__description {
-  padding: 1 * $spacing-unit 0;
+    padding: 1 * $spacing-unit 0;
 }
 
 // .Form {}
 
 .c-newsletter__form-field {
-  background-color: rgba(255, 255, 255, 0);
-  border: 1px solid $color-lighter;
-  color: $color-body;
-  float: left;
-  font-family: $secondary-font-family;
-  font-size: $font-size--xs;
-  padding: 1rem;
-  width: 65%;
-  border-radius: 4px;
-  transition: border .2s ease-in-out;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid $color-lighter;
+    color: $color-body;
+    float: left;
+    font-family: $secondary-font-family;
+    font-size: $font-size--xs;
+    padding: 1rem;
+    width: 65%;
+    border-radius: 4px;
+    transition: border .2s ease-in-out;
 
-  &::-webkit-input-placeholder {
-    color: $color-grey;
-    opacity: 1;
-  }
+    &::-webkit-input-placeholder {
+        color: $color-grey;
+        opacity: 1;
+    }
 
-  &::-moz-placeholder {
-    color: $color-grey;
-    opacity: 1;
-  }
+    &::-moz-placeholder {
+        color: $color-grey;
+        opacity: 1;
+    }
 
-  &:-ms-input-placeholder {
-    color: $color-grey;
-    opacity: 1;
-  }
+    &:-ms-input-placeholder {
+        color: $color-grey;
+        opacity: 1;
+    }
 
-  &:hover, &:focus {
-    outline: none;
-    border: 1px solid $color-light;
-  }
+    &:hover, &:focus {
+        outline: none;
+        border: 1px solid $color-light;
+    }
 
-  @include media-query($on-palm) {
-      width: 100%;
-  }
+    @include breakpoint(xs) {
+        width: 100%;
+    }
 }
 
 .c-newsletter__form-button {
-  float: right;
-  width: 30%;
+    float: right;
+    width: 30%;
 
-  @include media-query($on-palm) {
-      width: 100%;
-      margin-top: $spacing-unit / 2;
-  }
+    @include breakpoint(xs) {
+        width: 100%;
+        margin-top: $spacing-unit / 2;
+    }
 
 }

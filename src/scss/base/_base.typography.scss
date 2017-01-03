@@ -51,7 +51,7 @@ pre {
     padding: $spacing-unit;
     background-color: $color-dark;
     border-radius: 4px;
-    @include media-query(lap-and-up) {
+    @include breakpoint(ml) {
       margin-right: -$spacing-unit;
       margin-left:  -$spacing-unit;
     }
@@ -120,11 +120,11 @@ h1 {
 }
 
 h2 {
-  line-height: $line-height-m;
+  line-height: $line-height-l;
 }
 
 h3 {
-  line-height: $line-height-s;
+  line-height: $line-height-l;
 }
 
 h4 {

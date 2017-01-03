@@ -1,18 +1,11 @@
-// Global namespace for header component
-$header-namespace: "c-header" !default;
+.c-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding-top: 1.5rem;
+		padding-bottom: 1.5rem;
+}
 
-.#{$header-namespace} {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	padding-top: 1.5rem;
-	padding-bottom: 1.5rem;
-
-	&__title {
+	.c-header__title {
 		text-decoration: none;
 	}
-
-	&__nav {
-
-	}
-}

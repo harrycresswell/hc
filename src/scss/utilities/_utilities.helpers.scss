@@ -101,28 +101,29 @@
 
 // Margins
 .u-margin--none {
-  margin: 0 !important;
+    margin: 0 !important;
 }
 
 // Paragraphs
 .u-p--intro {
-  font-size: 26px !important;
-  line-height: 1.7;
-  margin-bottom: 2 * $spacing-unit;
+    font-size: 26px !important;
+    line-height: 1.7;
+    margin-bottom: 2 * $spacing-unit;
 }
 
 // Type
 
 .u-font--mono {
-  font-family: $secondary-font-family;
+    font-family: $secondary-font-family;
+    font-size: $font-size--s;
 }
 
 .u-font--normal{
-  font-family: $base-font-family;
+    font-family: $base-font-family;
 }
 
 // Alignment
 
 .u-align-center {
-  text-align: center;
+    text-align: center;
 }

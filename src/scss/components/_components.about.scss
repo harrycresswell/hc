@@ -1,11 +1,19 @@
 .c-about {
-  border-top: solid 1px #E7E7E7;
+  background: url(../images/about-me.jpg) no-repeat center;
+  background-size: cover;
   margin-top: 4 * $spacing-unit;
-  padding: 90px 0 0 0 ;
+  padding: 4 * $spacing-unit 0 0 0 ;
+  height: 100vh;
+}
+
+.c-about__title {
+  color: $color-brand;
 }
 
 .c-about__excerpt {
-  font-size: $font-size--m;
+  color: $color-brand;
+  font-size: $font-size--xxl;
+  margin-top: 2 * $spacing-unit;
 }
 
 .c-about__footer {

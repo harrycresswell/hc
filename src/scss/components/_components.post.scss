@@ -1,148 +1,137 @@
 .c-post-list__title {
-  font-weight: $font-weight-medium;
-  font-size: $font-size--l;
-  line-height: 2;
-  margin: 0.67em 0;
+    font-weight: $font-weight-medium;
+    font-size: $font-size--l;
+    line-height: 2;
+    margin: 0.67em 0;
 }
 
 .c-post-list {
-  margin-top: 3 * $spacing-unit;
+    margin-top: 3 * $spacing-unit;
 }
 
 .c-post {
-  margin-top: 2 * $spacing-unit;
-}
-
-.c-post__header {
-  margin: 0 auto;
-  padding: 0 0 $spacing-unit 0;
-
-  @include media-query($on-laptop) {
-      padding: 0 0 $spacing-unit 0;
-  }
-
+    margin-top: 2 * $spacing-unit;
+    padding-bottom: 2 * $spacing-unit;
 }
 
 .c-post__meta {
-  font-size: $font-size--xs;
-  color: $color-dark;
+    font-size: $font-size--xs;
+    color: $color-dark;
 }
 
 .c-post__link {
-  display: block;
-  font-size: $font-size--xs;
-  line-height: 40px;
-  margin-top: $spacing-unit;
+    display: block;
+    font-size: $font-size--xs;
+    line-height: 40px;
+    margin-top: $spacing-unit;
 }
 
 .c-post__title {
-  font-size: $font-size--xxxl;
-  font-weight: $font-weight-medium;
+    font-size: $font-size--xxxl;
+    font-weight: $font-weight-medium;
+    margin: 2 * $spacing-unit 0;
 
-  @include media-query($on-palm) {
-      font-size: $font-size--xxl;
-  }
+    @include breakpoint(xs) {
+        font-size: $font-size--xxl;
+    }
 }
 
 .c-post__subtitle {
-  font-size: $font-size--l;
-  font-weight: $font-weight-light;
-  line-height: $line-height-xl;
-  margin: 8 * $spacing-unit / 2 0 0;
+    padding: $spacing-unit 0 0;
 }
 
 .c-post__excerpt {
-  margin-top: $spacing-unit;
+    margin-top: $spacing-unit;
 }
 
 .c-post__content {
-  margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit;
 }
 
 .c-post__footer {
-  margin-top: 2 * $spacing-unit;
+    margin-top: 2 * $spacing-unit;
 }
 
 .c-post__related {
-  margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 2;
 }
 
 .c-post__tag-list {
-  margin: 2 * $spacing-unit 0;
+    margin: 2 * $spacing-unit 0;
 }
 
 .c-post__tags {
-  font-size: $font-size--xs;
     margin-top: $spacing-unit / 2;
 }
 
 .markdown p {
-  margin: $spacing-unit 0;
+    margin: $spacing-unit 0;
 }
 
 .markdown h2 {
-  font-size: 30px;
-  font-weight: $font-weight-medium;
-  margin: 70px 0 $spacing-unit 0;
+    font-size: 30px;
+    font-weight: $font-weight-medium;
+    margin: 70px 0 $spacing-unit 0;
 
-  @include media-query($on-laptop) {
-      font-size: 28px;
-  }
+    @include breakpoint(xs) {
+        font-size: 28px;
+    }
 }
 
 .markdown h3 {
-  font-size: 26px;
-  font-weight: $font-weight-medium;
-  margin: 60px 0 30px 0;
+    font-size: 26px;
+    font-weight: $font-weight-medium;
+    margin: 60px 0 30px 0;
 
-  @include media-query($on-laptop) {
-      font-size: 24px;
-  }
+    @include breakpoint(xs) {
+        font-size: 24px;
+    }
 }
 
 .markdown h4 {
-  font-size: 22px;
-  font-weight: $font-weight-medium;
+    font-size: 22px;
+    font-weight: $font-weight-medium;
+    margin: 60px 0 30px 0;
 
-  @include media-query($on-laptop) {
-      font-size: 18px;
-  }
+    @include breakpoint(xs) {
+        font-size: 18px;
+    }
 }
 
 .markdown em {
-  color: $color-grey;
+    color: $color-grey;
 }
 
 .markdown img {
-  position: relative;
-  max-width: 125%;
-  margin: 50px 0 10px -12.5%;
-  height: auto;
-  position: relative;
+    position: relative;
+    max-width: 125%;
+    margin: 50px 0 10px -12.5%;
+    height: auto;
+    position: relative;
 }
 
 .markdown .image-caption {
-  color: $color-grey;
-  border-left: 2px solid $color-light;
-  padding-left: $spacing-unit / 2;
-  margin: 10px 0 10px -12.5%;
+    color: $color-grey;
+    border-left: 2px solid $color-light;
+    padding-left: $spacing-unit / 2;
+    margin: 10px 0 10px -12.5%;
 
-  @include media-query($on-laptop) {
-      max-width: 100%;
-      margin: 20px 0;
-  }
+    @include breakpoint(xs) {
+        max-width: 100%;
+        margin: 20px 0;
+    }
 }
 
 .markdown .image-caption p {
-  font-size: $font-size--xs;
-  margin: 0;
-  line-height: 1.6em;
+    font-size: $font-size--xs;
+    margin: 0;
+    line-height: 1.6em;
 }
 
 .markdown .message {
-  background: #F8F8F8;
-  font-size: $font-size--s;
-  margin-bottom: 50px;
-  padding: $spacing-unit;
-  line-height: 2;
+    background: #F8F8F8;
+    font-size: $font-size--s;
+    margin-bottom: 50px;
+    padding: $spacing-unit;
+    line-height: 2;
 }

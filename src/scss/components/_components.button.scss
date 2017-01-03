@@ -3,40 +3,39 @@
 \*------------------------------------*/
 
 .c-button-wrap {
-  margin: 3 * $spacing-unit 0;
-  text-align: center;
+    margin: 3 * $spacing-unit 0;
+    text-align: center;
 }
 .c-button {
-  border-width: 0;
-  box-sizing: border-box;
-  cursor: pointer;
-  font-family: $secondary-font-family;
-  font-size: $font-size--xs;
-  outline-style: none;
-  text-align: center;
-  text-decoration: none;
-  transition-duration: 0.4s;
-  vertical-align: middle;
-  -webkit-transition-duration: 0.4s; /* Safari */
-  white-space: nowrap;
+    border-width: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-family: $secondary-font-family;
+    font-size: $font-size--xs;
+    outline-style: none;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    vertical-align: middle;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    white-space: nowrap;
 
-  &:focus {
-    outline: none;
-  }
+    &:focus {
+        outline: none;
+    }
 
-  @include media-query($on-palm) {
-      margin-top: 20px;
-      width: 100%;
-  }
+    @include breakpoint(xs) {
+        width: 100%;
+    }
 }
 
 .c-button--primary {
-  border: none;
-  color: $color-white;
-  background: $color-brand;
-  margin: 0 auto;
-  border-radius: 4px;
-  padding: 1rem 3rem;
+    border: none;
+    color: $color-white;
+    background: $color-brand;
+    margin: 0 auto;
+    border-radius: 4px;
+    padding: 1rem 3rem;
 }
 
 /**
@@ -47,8 +46,7 @@
 .c-button--primary:focus,
 .c-button--primary:active,
 .c-button--primary.is-pressed {
-  color: $color-white;
-  opacity: 0.8;
-  border: none;
-
+    color: $color-white;
+    opacity: 0.8;
+    border: none;
 }
