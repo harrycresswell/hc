@@ -18,7 +18,7 @@ I've been **designing and coding websites**, both as a freelance and a contracto
 
 More recently i've been helping clients **understand the nuts and bolts of bootstrapping a business**. For a lot of creatives, business isn't all that interesting, but having a solid understanding of the basics is essential. If you want to grow and reach your goals, business strategy is something you need to understand – it will help you build a better business.
 
-{{< img class="image-wrapper" src="hello.jpg" caption="Hi, I'm Harry!" >}}
+{{< img class="image-wrapper" src="about-me.jpg" caption="Hi, I'm Harry!" >}}
 
 ### Where to go next
 
