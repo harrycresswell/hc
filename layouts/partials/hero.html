@@ -1,14 +1,11 @@
-<section class="c-hero c-hero-home">
+<section class="o-section">
     <div class="o-wrap">
-        <div class="c-hero__wrap">
-          <div class="c-hero__title u-font--mono">{{ .Site.Title }}</div>
-            {{ if .Site.Params.Description }}<h1 class="c-hero__description">{{ .Site.Params.Description }}</h1>{{ end }}
+          <div class="u-font--mono">{{ .Site.Title }}</div>
+            {{ if .Site.Params.Description }}<h1 class="u-marginTop-l">{{ .Site.Params.Description }}</h1>{{ end }}
             <!--<h3 class="c-hero__subtitle">I help small businesses <!-- element makes typed.js work --><!--<span class="element"></span></h3>-->
 
             <!--<div class="c-hero__button">
               <a class="u-link--white" href="{{ .Site.BaseURL }}/tags/start-here/"><span class="c-button c-button--primary">Start here</span></a>
             </div>-->
-
-        </div>
     </div>
 </section>
