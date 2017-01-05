@@ -1,16 +1,5 @@
 .c-newsletter {
-    background: $color-white;
-    color: $color-body;
-    border-top: solid 1px $color-lighter;
-    border-bottom: solid 1px $color-lighter;
-    padding: 3 * $spacing-unit 0;
-}
 
-.c-newsletter__title {
-    color: $color-dark;
-    font-size: $font-size--xl;
-    font-weight: $font-weight-medium;
-    margin: 0;
 }
 
 .c-newsletter__description {
@@ -25,7 +14,7 @@
     color: $color-body;
     float: left;
     font-family: $secondary-font-family;
-    font-size: $font-size--xs;
+    font-size: $font-size--s;
     padding: 1rem;
     width: 65%;
     border-radius: 4px;
