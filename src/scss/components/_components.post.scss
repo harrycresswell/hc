@@ -15,24 +15,24 @@
 }
 
 .c-post__meta {
-    font-size: $font-size--xs;
+    font-size: $font-size--s;
     color: $color-dark;
 }
 
 .c-post__link {
     display: block;
-    font-size: $font-size--xs;
+    font-size: $font-size--s;
     line-height: 40px;
     margin-top: $spacing-unit;
 }
 
 .c-post__title {
-    font-size: $font-size--xxxl;
+    font-size: $font-size--xl;
     font-weight: $font-weight-medium;
     margin: 2 * $spacing-unit 0;
 
     @include breakpoint(xs) {
-        font-size: $font-size--xxl;
+        font-size: $font-size--xl;
     }
 }
 
@@ -123,7 +123,7 @@
 }
 
 .markdown .image-caption p {
-    font-size: $font-size--xs;
+    font-size: $font-size--s;
     margin: 0;
     line-height: 1.6em;
 }
