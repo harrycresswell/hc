@@ -1,12 +1,8 @@
-// Border Radius
-
-.u-border-radius {
-  border-radius: 4px;
-}
+/*------------------------------------*\
+    #UTILITIES: HELPERS
+\*------------------------------------*/
 
 // Hide only visually, but have it available for screenreaders
-
-
 .u-visually-hidden {
   border: 0;
   clip: rect(0 0 0 0);
@@ -44,95 +40,7 @@
     clear: both;
 }
 
-// Floats
-.u-float--left {
-    float: left
-}
-
-.u-float--right {
-    float: right
-}
-
-
-// Links
-.u-link--bare {
-  color: $color-dark !important;
-  text-decoration: none !important;
-  border: none !important;
-
-  &:hover, &:focus, &:visited {
-    border: none !important;
-  }
-}
-
-.u-link--natural {
-  color: $color-dark !important;
-  text-decoration: underline !important;
-  border: none !important;
-
-  &:focus, &:visited {
-    border: none !important;
-  }
-
-  &:hover {
-    color: $color-brand !important;
-    text-decoration: underline !important;
-  }
-}
-
-
-
-.u-link--white {
-  color: $color-white !important;
-  padding: 0 0 2px 0 !important;
-  border: none !important;
-}
-
-
-// Margins
-.u-margin--none {
-    margin: 0 !important;
-}
-
-.u-marginTop-l {
-  margin-top: 2 * $spacing-unit;
-}
-
-.u-marginTop-m {
-  margin-top: 1 * $spacing-unit;
-}
-
-.u-marginTop-s {
-  margin-top: $spacing-unit / 2;
-}
-
-// Paragraphs
-.u-p--intro {
-    font-size: 26px !important;
-    line-height: 1.7;
-    margin-bottom: 2 * $spacing-unit;
-}
-
-// Type
-
-.u-font--mono {
-    font-family: $secondary-font-family;
-    font-size: $font-size--s;
-}
-
-.u-font--normal{
-    font-family: $base-font-family;
-}
-
 // Alignment
-
 .u-align-center {
     text-align: center;
-}
-
-
-// Colors
-
-.u-color-brand {
-  color: $color-brand;
 }

@@ -1,0 +1,35 @@
+/*------------------------------------*\
+    #UTILITIES: LINKS
+\*------------------------------------*/
+
+.u-link--bare {
+  color: $color-dark !important;
+  text-decoration: none !important;
+  border: none !important;
+
+  &:hover, &:focus, &:visited {
+    border: none !important;
+  }
+}
+
+.u-link--natural {
+  border-bottom: 1px dotted $color-dark !important;
+  color: $color-dark !important;
+  text-decoration: none !important;
+
+  &:focus, &:visited {
+    border: none !important;
+  }
+
+  &:hover {
+    border-bottom: 1px solid $color-dark !important;
+    color: $color-dark !important;
+    text-decoration: none !important;
+  }
+}
+
+.u-link--white {
+  color: $color-white !important;
+  padding: 0 0 2px 0 !important;
+  border: none !important;
+}

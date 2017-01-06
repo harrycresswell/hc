@@ -1,6 +1,6 @@
-/* ==========================================================================
-   #HEADINGS
-   ========================================================================== */
+/*------------------------------------*\
+    #UTILITIES: HEADINGS
+\*------------------------------------*/
 
 /**
  * Redefine all of our basic heading styles against utility classes so as to
@@ -13,16 +13,24 @@
 
 .u-h1 {
   font-size: $font-size--xl;
+  line-height: $line-height-l;
+
+  @include breakpoint(xs) {
+      font-size: $font-size--l;
+  }
 }
 
 .u-h2 {
   font-size: $font-size--l;
+  line-height: $line-height-m;
 }
 
 .u-h3 {
   font-size: $font-size--m;
+  line-height: $line-height-s;
 }
 
 .u-h4 {
   font-size: $font-size--s;
+  line-height: $line-height-xs;
 }
