@@ -1,3 +1,7 @@
+/*------------------------------------*\
+    #ABSTRACTS: TYPOGRAPHY
+\*------------------------------------*/
+
 // Load Apercu font
 @font-face {
   font-family: Apercu;
@@ -22,11 +26,8 @@ $secondary-font-family: 'Roboto Mono', monospace;
 $tertiary-font-family: 'Apercu', sans-serif;
 
 // Font weight scale
-$font-weight-light:   300;
 $font-weight-regular: 400;
 $font-weight-medium:  500;
-$font-weight-bold:  600;
-
 
 // Font size scale
 $font-size--xl: 2em;  // 36px
@@ -35,11 +36,10 @@ $font-size--m: $base-font-size;   // 18x
 $font-size--s: 0.778em;   // 14px
 
 // Line height scale
-$line-height-l: 1.5em;
+$line-height-l: 1.7em;
 $line-height-m: $base-line-height;
 $line-height-s: 1.4em;
 $line-height-xs: 1.2em;
-
 
 // Spacing
 $spacing-unit:     30px;

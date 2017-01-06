@@ -1,5 +1,14 @@
+/*------------------------------------*\
+    #ABSTRACTS: COLORS
+\*------------------------------------*/
+
+// Spots
+$blue:   #004FFF;
+$orange: #ff4f4f;
+$green:  #0cc471;
+
 // Global colors
-$brand-color: #004FFF;
+$brand-color: $blue;
 $color-brand: $brand-color;
 
 $color-white: #ffffff !default;
@@ -8,18 +17,3 @@ $color-body: #464646 !default;
 $color-grey: #636F7B !default;
 $color-light: #CCD7E4 !default;
 $color-lighter: #E7E7E7 !default;
-
-// Spots
-$yellow:    #f39c12;
-$orange:    #ea632a;
-$red:       #ff4a47;
-$magenta:   #fa429b;
-$violet:    #5069D3;
-$active:    $color-brand;
-$cyan:      #2a9d94;
-$green:     #0cc471;
-$blue:      #004FFF;
-$blue-2:   #1665d9;
-$orange-2: #ff4f4f;
-$pink:     #fc2161;
-$blue-3:  #011eff;
