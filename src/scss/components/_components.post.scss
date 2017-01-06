@@ -1,56 +1,8 @@
-.c-post-list__title {
-    font-weight: $font-weight-medium;
-    font-size: $font-size--l;
-    line-height: 2;
-    margin: 0.67em 0;
-}
+/*------------------------------------*\
+    #POST
+\*------------------------------------*/
 
-.c-post-list {
-    margin-top: 3 * $spacing-unit;
-}
-
-.c-post {
-    margin-top: 2 * $spacing-unit;
-    padding-bottom: 2 * $spacing-unit;
-}
-
-.c-post__meta {
-    font-size: $font-size--s;
-    color: $color-dark;
-}
-
-.c-post__link {
-    display: block;
-    font-size: $font-size--s;
-    line-height: 40px;
-    margin-top: $spacing-unit;
-}
-
-.c-post__title {
-    font-size: $font-size--xl;
-    font-weight: $font-weight-medium;
-    margin: 2 * $spacing-unit 0;
-
-    @include breakpoint(xs) {
-        font-size: $font-size--xl;
-    }
-}
-
-.c-post__subtitle {
-    padding: $spacing-unit 0 0;
-}
-
-.c-post__excerpt {
-    margin-top: $spacing-unit;
-}
-
-.c-post__content {
-    margin-bottom: $spacing-unit;
-}
-
-.c-post__footer {
-    margin-top: 2 * $spacing-unit;
-}
+// .c-post {}
 
 .c-post__related {
     margin-bottom: $spacing-unit / 2;
@@ -79,17 +31,27 @@
 }
 
 .markdown h3 {
-    font-size: 26px;
+    font-size: 30px;
     font-weight: $font-weight-medium;
     margin: 60px 0 30px 0;
 
     @include breakpoint(xs) {
-        font-size: 24px;
+        font-size: 28px;
     }
 }
 
 .markdown h4 {
-    font-size: 22px;
+    font-size: 24px;
+    font-weight: $font-weight-medium;
+    margin: 60px 0 30px 0;
+
+    @include breakpoint(xs) {
+        font-size: 20px;
+    }
+}
+
+.markdown h5 {
+    font-size: 20px;
     font-weight: $font-weight-medium;
     margin: 60px 0 30px 0;
 
@@ -104,8 +66,8 @@
 
 .markdown img {
     position: relative;
-    max-width: 125%;
-    margin: 50px 0 10px -12.5%;
+    max-width: 150%;
+    margin: 50px 0 10px -25.5%;
     height: auto;
     position: relative;
 }
@@ -114,7 +76,7 @@
     color: $color-grey;
     border-left: 2px solid $color-light;
     padding-left: $spacing-unit / 2;
-    margin: 10px 0 10px -12.5%;
+    margin: 10px 0 10px -25.5%;
 
     @include breakpoint(xs) {
         max-width: 100%;
