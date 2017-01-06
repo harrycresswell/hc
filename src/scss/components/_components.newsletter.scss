@@ -1,43 +1,37 @@
-.c-newsletter {
+/*------------------------------------*\
+    #NEWSLETTER
+\*------------------------------------*/
 
-}
-
-.c-newsletter__description {
-    padding: 1 * $spacing-unit 0;
-}
-
-// .Form {}
+// .newsletter {}
 
 .c-newsletter__form-field {
     background-color: rgba(255, 255, 255, 0);
-    border: 1px solid $color-lighter;
-    color: $color-body;
-    float: left;
+    color: $color-brand;
+    border-bottom: 1px solid $color-brand;
     font-family: $secondary-font-family;
     font-size: $font-size--s;
-    padding: 1rem;
-    width: 65%;
-    border-radius: 4px;
+    padding: 2rem;
     transition: border .2s ease-in-out;
 
     &::-webkit-input-placeholder {
-        color: $color-grey;
+        color: $color-brand;
         opacity: 1;
     }
 
     &::-moz-placeholder {
-        color: $color-grey;
+        color: $color-brand;
         opacity: 1;
     }
 
     &:-ms-input-placeholder {
-        color: $color-grey;
+        color: $color-brand;
         opacity: 1;
     }
 
     &:hover, &:focus {
         outline: none;
-        border: 1px solid $color-light;
+        border-bottom: 1px solid $color-brand;
+        color: darken($color-brand, 15%);
     }
 
     @include breakpoint(xs) {
@@ -45,13 +39,13 @@
     }
 }
 
-.c-newsletter__form-button {
-    float: right;
-    width: 30%;
+.c-newsletter__form-field {
+    width: 100%;
+    margin-bottom: $spacing-unit;
 
     @include breakpoint(xs) {
-        width: 100%;
-        margin-top: $spacing-unit / 2;
+
+
     }
 
 }
