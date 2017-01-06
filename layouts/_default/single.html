@@ -1,36 +1,43 @@
 {{ partial "header.html" . }}
 
 {{ if isset .Params "featured_image" }}
-<header class="o-header o-header--cover" style="background: url({{ index .Params "featured_image" }}) no-repeat center; background-size: cover; height: 50vh; color: {{ index .Params "spot" }};">
-  {{else}}
-<header class="o-header">
-  {{ end }}<div class="o-wrap">
-        <section class="c-nav">
-            <div class="c-nav__item">
+<section>
+  <div class="o-header-cover" style="background: url({{ index .Params "featured_image" }}) no-repeat center;"></div>
+  <div class="o-wrap">
+        <header class="u-marginTop-l">
               <a href="{{ .Site.BaseURL }}/articles" class="c-nav__link u-font--mono u-link--bare">← Return</a>
-            </div>
-        </section>
-        <h1 class="c-post__title">{{ .Title }}</h1>
+        </header>
+        <h1 class="u-marginTop-m">{{ .Title }}</h1>
     </div>
-</header>
+</section>
+
+  {{else}}
+<section class="o-section">
+  <div class="o-wrap">
+        <header>
+            <a href="{{ .Site.BaseURL }}/articles" class="c-nav__link u-font--mono u-link--bare">← Return</a>
+            <h1 class="u-marginTop-l">{{ .Title }}</h1>
+        </header>
+    </div>
+</section>
+{{ end }}
+
+<section class="o-wrap">
+    {{ if .Params.description }}<h2 class="u-marginTop-m u-font--mono">{{ .Params.description }}</h2>{{ end }}
+
+</section>
 
 
 <main role="main">
 
-    <article class="c-post">
+    <article class="c-post u-marginTop-l">
         <div class="o-wrap">
-
-            <header class="c-post__header">
-
-                {{ if .Params.description }}<h2 class="c-post__subtitle">{{ .Params.description }}</h2>{{ end }}
-
-            </header>
 
             <div class="c-post__content markdown">
               {{ .Content }}
             </div>
 
-            <aside class="c-post__footer">
+            <aside class="c-post__footer u-marginTop-l">
                 {{ partial "post/related-post.html" . }}
                 {{ partial "post/tags.html" . }}
                 <time class="c-post__meta u-font--mono">{{ .Date.Format "Mon Jan 2, 2006" }}</time>

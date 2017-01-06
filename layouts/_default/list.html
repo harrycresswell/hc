@@ -1,31 +1,31 @@
 {{ partial "header.html" . }}
 
-<header class="o-header">
+<section class="o-section">
     <div class="o-wrap">
-        <section class="c-nav">
-            <div class="c-nav__item">
-              <a href="{{ .Site.BaseURL }}" class="c-nav__link u-font--mono u-link--bare">← Return</a>
-            </div>
-        </section>
+        <header>
+              <a href="{{ .Site.BaseURL }}" class="u-font--mono u-link--bare">← Return</a>
+        </header>
     </div>
-</header>
+</section>
 
 <main role="main">
     <div class="o-wrap">
-      <section class="c-hero">
-        <h1 class="c-hero__title">Articles</h1>
-        <p class="c-hero__subtitle">Every other Sunday I publish exclusively to <a class="spot-link-obvious-brand" href ="#newsletter">my newsletter</a>. Some of those articles appear below a few weeks later.</p>
-      </section>
-        <section class="c-post-list">
+        <header class="u-marginTop-l">
+            <h1 class="u-h1">Articles</h1>
+            <h2 class="u-marginTop-m u-font--mono">Every other Sunday I publish exclusively to <a href ="#newsletter">my newsletter</a>. Some of those articles appear below a few weeks later.</h2>
+        </header>
+        <section class="u-marginTop-l">
             {{ range .Data.Pages.ByPublishDate }}
             {{ if eq .Type "articles" }}
-                <article class="c-post">
-                    <h4 class="c-post-list__title">
+                <article class="c-post u-marginTop-xl">
+                    <h3 class="u-h2">
                         <a class="u-link--natural" href="{{ .Permalink }}">
                             {{ .Title }}
                         </a>
-                    </h4>
+                    </h3>
+                    <p class="u-marginTop-m">
                     {{ .Summary }}
+                  </p>
                 </article>
             {{ end }}
             {{ end }}
