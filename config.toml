@@ -37,8 +37,8 @@ googleAnalytics = "UA-84736644-1"
     name = "Articles"
     url = "/articles/"
 [[menu.footer]]
-    name = "Resources"
-    url = "/resources/"
+    name = "Github"
+    url = "https://github.com/harrycresswell/"
 [[menu.footer]]
     name = "About"
     url = "/about/"
