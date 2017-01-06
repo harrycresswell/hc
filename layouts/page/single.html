@@ -1,25 +1,19 @@
 {{ partial "header.html" . }}
 
-<header class="o-header">
+<section class="o-section">
     <div class="o-wrap">
-
-      <section class="c-nav">
-
-        <div class="c-nav__item">
-          <a href="{{ .Site.BaseURL }}" class="nav-link u-font--mono u-link--bare">← Return</a>
-        </div>
-
-      </section>
-
+        <header class="u-marginTop-l">
+                <a href="{{ .Site.BaseURL }}" class="u-font--mono u-link--bare">← Return</a>
+        </header>
     </div>
-</header>
+</section>
 
 <main role="main">
     <div class="o-wrap">
-        <section class="c-hero">
-            <h1 class="c-hero__title">{{ .Params.description }}</h1>
+        <section class="u-marginTop-l">
+            <h1>{{ .Params.description }}</h1>
         </section>
-        <section class="c-post">
+        <section class="c-post u-marginTop-l">
             <div class="c-post__content markdown">
               {{ .Content }}
             </div>
