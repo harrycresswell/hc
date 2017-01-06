@@ -1,14 +1,17 @@
+/*------------------------------------*\
+    #BASE: LINKS
+\*------------------------------------*/
 a {
     color: $color-brand;
     padding: 0 0 2px 0;
     border-bottom: 1px dotted $color-brand;
     text-decoration: none;
-    transition: color .2s ease-in-out;3
+    transition: color .2s ease-in-out;
 
     &:hover {
+      text-decoration: none;
         border-bottom: 1px solid $color-brand;
         color: darken($color-brand, 15%);
-        text-decoration: none;
     }
 
     &:visited {
