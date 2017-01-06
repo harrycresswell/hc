@@ -2,36 +2,32 @@
 Stuff i still need todo
 
 ##pre-launch
-- create an if statement for o-header--cover when no image is set in post front matter
-- build resources landing page
-- finish building reading list
-- remove unused fonts
-- remove spots
-- remove typed
-- add bg cover image to posts
-- remove projects
-- require smaller image for mobile landing page
-- https
+- replace syntax highlighting
+- write albion article
 - re-write design consultancy
 - re-write hire me page
-- add a testimonial to homepage
+- https
 - fix meta for fb and twitter
-- write some articles
 - link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)
 - check analytics is working
 
 ##future
-- rebuild scss with tachyons
-- build better breakpoint mixin like [this](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.3wje0ib56)
-- build a resources landing page
+- fix landing project cover image
+- add a testimonials
+- finish building reading list
+- build resources landing page
 - add sourcemaps and linting to gulpfile
-- build a newsletter landing page
 
 ##resources
 - [this](https://github.com/IvanChou/hugo-theme-vec) is helpful
 
 
 ##complete
+- ~~build better breakpoint mixin like [this](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.3wje0ib56)~~
+- ~~rebuild scss with tachyons~~
+- ~~add bg cover image to posts~~
+- ~~remove projects~~
+- ~~remove unused fonts~~
 - ~~remove grid as now have flexbox~~
 - ~~fix return link color~~
 - ~~work out seperate articles page~~
