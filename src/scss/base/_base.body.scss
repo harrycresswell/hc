@@ -1,3 +1,7 @@
+/*------------------------------------*\
+    #BASE: BODY
+\*------------------------------------*/
+
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     background-color: $color-white;
@@ -14,9 +18,11 @@ body {
 }
 
 ::-moz-selection {
-    background: lighten($blue, 45%);
+    color: $color-white;
+    background: lighten($color-brand, 5%);
 }
 
 ::selection {
-    background: lighten($blue, 45%);
+    color: $color-white;
+    background: lighten($color-brand, 5%);
 }
