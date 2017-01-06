@@ -1,36 +1,16 @@
 <footer class="c-footer">
 
     <div class="o-wrap">
-
-        <section class="c-footer__social u-font--mono">
+        <section class="c-footer__social">
 
           {{ range .Site.Menus.footer }}
-          <a class="nav-link" href="{{ .URL }}"><span>{{ .Name }}</span></a>
+          <a class="nav-link u-font--tertairy u-link--bare" href="{{ .URL }}"><span class="u-color-brand">{{ .Name }}</span></a>
           {{ end }}
 
         </section>
-
-
-        <section class="c-footer__location u-float--left">
-
-          <div class="u-float--left">
-                <div class="blip">
-                  <div class="blip-base spot-bg-light-brand"></div>
-                  <div class="blip-pulse spot-bg-lighter-brand"></div>
-                </div>
-          </div>
-          <div class="c-footer__currently u-float--right u-font--mono">
-          {{ .Site.Params.Location }}
-          </div>
-
-        </section>
-
-
     </div>
 
 </footer>
-
-{{ partial "scripts.html" . }}
 
 {{ partial "analytics.html" . }}
 
