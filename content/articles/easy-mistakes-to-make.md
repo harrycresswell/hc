@@ -4,7 +4,7 @@ Description = ""
 slug = ""
 date = "2016-11-26T12:06:02Z"
 title = "Easy mistakes to make"
-
+draft = "true"
 +++
 
 Clients often say they need a website, because that's what they *think* they should be asking for.

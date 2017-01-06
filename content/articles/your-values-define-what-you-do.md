@@ -6,6 +6,7 @@ date: "2016-11-18T15:51:04Z"
 title: "Your values define what it is you choose to do"
 tags: ["start here", "positioning"]
 featured_image: http://localhost:1313/images/albion-cycling.jpg
+draft: "true"
 ---
 
 Have you ever thought about what it is you value? Not just in business but in life. Whatever you value in life should be your shining light. Guiding your business. Every step of the way. <!--more-->

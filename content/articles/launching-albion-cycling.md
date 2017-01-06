@@ -19,21 +19,21 @@ You’ll find this post in your `_posts` directory. Go ahead and **edit it and r
 
 
 
-## Creating Pie & Donut Charts
+### Creating Pie & Donut Charts
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 
-### Segmented Circles Plugin
+#### Segmented Circles Plugin
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ullamcorper magna ac nulla fermentum, nec dignissim quam gravida. Nulla vel ultrices felis, sit amet sollicitudin urna. Fusce dignissim purus et lectus iaculis euismod. Nam risus justo, efficitur mollis pellentesque et, blandit quis sem. Sed eleifend, arcu quis laoreet tempus, dui dui tempus sapien, id faucibus lectus risus nec velit.
 
 
-### Code snippets
+#### Code snippets
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-#### Code snippets
+##### Code snippets
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 

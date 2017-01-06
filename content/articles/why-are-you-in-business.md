@@ -5,6 +5,7 @@ description: "Finding a purpose, a cause or something you believe in, is the bes
 slug: ""
 date: "2016-04-05"
 tags: ["start here", "positioning"]
+draft: "true"
 ---
 
 The first time I speak to potential clients, I always begin by asking a simple question. **Why are you in business?**

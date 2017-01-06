@@ -5,10 +5,27 @@ author: "Harry Cresswell"
 description: "Working on giant web apps in bloated sketch files can get tiresome. Here are my tips to make the process more managable."
 slug: ""
 tags: ["sketch3", "Shopify", "design"]
-draft: "true"
 ---
 
 You’ll find this post in your `_posts` directory. **Go ahead and edit it and re-build the site to** see your changes. The best way to rebuild the site is to run `gulp`, which launches a web server and auto-regenerates your site when a file is updated.<!--more-->
+
+
+<pre>
+<code class="language-css">
+{{<highlight js>}}
+
+var foo = "English men"
+var bar = "bar"
+
+function getJoke(foo, bar) {
+    return
+        "two " + foo + " walk into a " + bar
+}
+
+{{</highlight>}}
+</code>
+</pre>
+
 
 Sometimes you want numbered lists:
 

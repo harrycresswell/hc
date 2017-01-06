@@ -5,6 +5,7 @@ slug: ""
 date: "2016-10-26T21:34:41+01:00"
 title: "A new website. A new direction."
 tags: ["positioning", "start-here"]
+draft: "true"
 ---
 
 I wanted to take a moment to write a bit about why I have waited until now to re-launch my website and why it's so heavily focused on writing.
