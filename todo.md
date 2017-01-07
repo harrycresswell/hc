@@ -2,7 +2,9 @@
 Stuff i still need todo
 
 ##pre-launch
-- replace syntax highlighting
+- update favicon
+- use some flexbox
+- remove unused images
 - write albion article
 - re-write design consultancy
 - re-write hire me page
@@ -23,6 +25,7 @@ Stuff i still need todo
 
 
 ##complete
+- ~~replace syntax highlighting~~
 - ~~build better breakpoint mixin like [this](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.3wje0ib56)~~
 - ~~rebuild scss with tachyons~~
 - ~~add bg cover image to posts~~
