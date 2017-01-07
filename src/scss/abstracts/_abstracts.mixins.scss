@@ -2,40 +2,7 @@
     #ABSTRACTS: MIXINS
 \*------------------------------------*/
 
-// Spit out vendor prefixes in one go. Very pragmatic, far from perfect.
-@mixin vendor($property, $value...) {
-    -webkit-#{$property}: $value;
-       -moz-#{$property}: $value;
-            #{$property}: $value;
-}
-
-// Apply ‘attention’ styles in one go.
-@mixin attention($self: false) {
-
-    @if($self != false) {
-
-        &,
-        &:hover,
-        &:active,
-        &:focus {
-            @content;
-        }
-
-    }
-
-    @else {
-
-        &:hover,
-        &:active,
-        &:focus {
-            @content;
-        }
-
-    }
-
-}
-
-// Generate Helvetica Neue’s numbered font-weights from their aliases.
+// Generate font-weights from their aliases.
 @mixin font-weight($font-weight) {
 
     @if ($font-weight == "regular") {
