@@ -45,17 +45,21 @@ code, kbd, samp {
     border-radius: 4px;
     position: relative;
     top: -0.05em;
-    font-size: 0.8em;
     margin: 0 4px;
+    background: #F8F8F8;
+
 }
 
 pre {
+    font-family: 'Roboto Mono', monospace;
     white-space: pre;
+    color: $color-white;
+    font-size: 0.9em;
     word-wrap: normal;
-    overflow: auto;
-    padding: $spacing-unit;
-    background-color: $color-dark;
     border-radius: 4px;
+    overflow: auto;
+    padding: 20px 28px;
+    background-color: $color-dark;
     @include breakpoint(ml) {
       margin-right: -$spacing-unit;
       margin-left:  -$spacing-unit;
@@ -63,7 +67,7 @@ pre {
 
     &,
     code, kbd, samp {
-        color: $color-grey;
+        color: $color-white;
     }
 
 }
