@@ -5,6 +5,8 @@ title = "Harry Cresswell"
 MetaDataFormat = ""
 theme = ""
 
+pygmentsuseclasses = false
+
 # Enable comments by entering your Disqus shortname
 disqusShortname = "Your Disqus shortname"
 
