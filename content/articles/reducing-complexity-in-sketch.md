@@ -10,8 +10,7 @@ tags: ["sketch3", "Shopify", "design"]
 You’ll find this post in your `_posts` directory. **Go ahead and edit it and re-build the site to** see your changes. The best way to rebuild the site is to run `gulp`, which launches a web server and auto-regenerates your site when a file is updated.<!--more-->
 
 
-<pre>
-<code class="language-css">
+
 {{<highlight js>}}
 
 var foo = "English men"
@@ -23,8 +22,7 @@ function getJoke(foo, bar) {
 }
 
 {{</highlight>}}
-</code>
-</pre>
+
 
 
 Sometimes you want numbered lists:
@@ -49,9 +47,26 @@ Alternatively,
 
 Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
 
+{{<highlight html>}}
+
+<section class="o-section">
+    <div class="o-wrap">
+        <header class="u-marginTop-l">
+                <a href="{{ .Site.BaseURL }}" class="u-font--mono u-link--bare">← Return</a>
+        </header>
+    </div>
+</section>
+
+{{</highlight>}}
+
 ## This is a second-tier heading
 
 You can use  one `#` all the way up to `######` six for different heading sizes.
+
+```
+hugo server -wv
+
+```
 
 ### This is a third-tier heading
 
@@ -64,16 +79,18 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
 Check out the [Jekyll docs](jekyll-docs) for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo](jekyll-gh). If you have questions, you can ask them on [Jekyll Talk](jekyll-talk).
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+
+{{<highlight css>}}
+
+body {
+  background: #CCCCCC;
+}
+
+{{</highlight>}}
+
+
+Check out the [Jekyll docs](jekyll-docs) for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo](jekyll-gh). If you have questions, you can ask them on [Jekyll Talk](jekyll-talk).

@@ -14,10 +14,17 @@ spot: white
 
 You’ll find this post in your `_posts` directory. Go ahead and **edit it and re-build** the site to see your changes. The best way to rebuild the site is to run `gulp`, which launches a web server and auto-regenerates your site when a file is updated.
 
+
 **Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Praesent ullamcorper magna ac nulla fermentum, nec dignissim quam gravida. Nulla vel ultrices felis, sit amet sollicitudin urna. Fusce dignissim purus et lectus iaculis euismod. Nam risus justo, efficitur mollis pellentesque et, blandit quis sem. Sed eleifend, arcu quis laoreet tempus, dui dui tempus sapien, id faucibus lectus risus nec velit.
 
 
+{{<highlight css>}}
 
+body {
+  background: #CCCCCC;
+}
+
+{{</highlight>}}
 
 ### Creating Pie & Donut Charts
 
