@@ -3,7 +3,7 @@ Stuff i still need todo
 
 ##pre-launch
 - update favicon
-- use some flexbox
+- use some flexbox for reading list
 - remove unused images
 - write albion article
 - re-write design consultancy
