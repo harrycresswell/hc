@@ -8,6 +8,7 @@ ul, ol {
 }
 
 li {
+    margin-bottom: $spacing-unit;
     > ul,
     > ol {
         margin-bottom: 0;
