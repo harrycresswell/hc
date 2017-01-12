@@ -25,7 +25,7 @@ More recently i've been helping clients **understand the nuts and bolts of boots
 There are a few places to go from here. You can [read some of my articles](http://localhost:1313/articles/) or [see my bookshelf](http://localhost:1313/reading-list/) for some great books on starting a successful business.
 
 You can also follow me on [Twitter](https://twitter.com/harrycresswell) or see my full resume on [LinkedIn](https://uk.linkedin.com/in/harrycresswell
-)
+).
 
 If you’re interested in [working with me](http://localhost:1313/design-consulting/), you can also check out a few recent projects below:
 
