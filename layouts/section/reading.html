@@ -1,0 +1,55 @@
+{{ partial "header.html" . }}
+
+<section class="o-section">
+    <div class="o-wrap">
+        <header>
+              <a href="{{ .Site.BaseURL }}" class="u-font--mono u-link--bare">← Return</a>
+        </header>
+    </div>
+</section>
+
+<main role="main">
+    <div class="o-wrap">
+        <header class="u-marginTop-l">
+            <h1 class="u-h1">The most important things i've learned has come from the book's i've read.</h1>
+            <h2 class="u-marginTop-m u-font--mono">For the last 4 years, most of the important things I’ve learned have come from books, articles, speeches, and other media.</h2>
+        </header>
+        <section class="u-marginTop-xl">
+          <h3 class="u-h2">On Business</h3>
+          {{ range .Site.Taxonomies.series.business }}
+              <article class="c-post u-marginTop-l">
+                  <h4 class="u-h2">
+                      <a class="" href="{{ .Page.RelPermalink }}">
+                          {{ .Page.Title }}
+                      </a>
+                  </h3>
+                  <p class="u-marginTop-s">
+                      {{ .Page.Summary }}
+                  </p>
+              </article>
+          {{ end }}
+
+          <section class="u-marginTop-xl">
+            <h3 class="u-h2">On Productivity</h3>
+            {{ range .Site.Taxonomies.series.productivity }}
+                <article class="c-post u-marginTop-l">
+                    <h4 class="u-h2">
+                        <a class="" href="{{ .Page.RelPermalink }}">
+                            {{ .Page.Title }}
+                        </a>
+                    </h3>
+                    <p class="u-marginTop-s">
+                        {{ .Page.Summary }}
+                    </p>
+                </article>
+            {{ end }}
+
+
+
+        </section>
+    </div>
+</main>
+
+{{ partial "newsletter.html" . }}
+
+{{ partial "footer.html" . }}
