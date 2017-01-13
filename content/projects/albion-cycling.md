@@ -5,6 +5,7 @@ author: "Harry Cresswell"
 description: "A client case study: designing and building a Wordpress site with Shopify intergration."
 categories: "case studies"
 tags: ["sketch3", "wordpress", "Shopify", "design"]
+draft: "true"
 ---
 
 ## Overview
