@@ -14,7 +14,6 @@ disqusShortname = "Your Disqus shortname"
 googleAnalytics = "UA-84736644-1"
 
 [permalinks]
-    projects = "/:year/:month/:day/:title/"
     articles = "/:year/:month/:day/:title/"
     page = "/:title/"
 
