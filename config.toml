@@ -15,6 +15,7 @@ googleAnalytics = "UA-84736644-1"
 
 [permalinks]
     articles = "/:section/:title/"
+    reading = "/:section/:title/"
     page = "/:title/"
 
 [[menu.footer]]
@@ -22,21 +23,21 @@ googleAnalytics = "UA-84736644-1"
     url = "/articles/"
     weight = 0
 [[menu.footer]]
+    name = "Reading List"
+    url = "/reading/"
+    weight = 5
+[[menu.footer]]
     name = "About"
     url = "/about/"
-    weight = 5
+    weight = 10
 [[menu.footer]]
     name = "Github"
     url = "https://github.com/harrycresswell/"
-    weight = 10
-[[menu.footer]]
-    name = "Twitter"
-    url = "https://twitter.com/harrycresswell"
     weight = 15
 
 [params]
   Keywords = "keywords go in here"
-  Description = "I help small businesses grow – using design, code and a good bit of content marketing know-how."
+  Description = "Hi, I'm Harry. I help small businesses grow — using design, code and a good bit of content marketing know-how."
   Location = "London, UK"
   Email = "studio@harrycresswell.com"
   GithubID = "Your Github ID"
@@ -45,3 +46,4 @@ googleAnalytics = "UA-84736644-1"
 [taxonomies]
   tag = "tags"
   category = "categories"
+  series = "series"
