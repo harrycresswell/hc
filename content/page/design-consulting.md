@@ -36,7 +36,7 @@ A redesign of a single page on your website, or the creation of a new one. After
 
 I'll design and build a beautifully simple website which is easy for you to update, and delivers maximum impact for your business.
 
-{{< button-contact >}}<p></p>{{< /button-contact >}}
+{{"< button-contact >"}}<p></p>{{"< /button-contact >"}}
 
 
 ## It's not just about the money
