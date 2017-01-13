@@ -14,10 +14,10 @@ Stuff i still need todo
 - check analytics is working
 
 ##future
-- fix landing project cover image
+-
 - add a testimonials
-- finish building reading list
-- build resources landing page
+- add a section type for reading and build list view for books i've read
+- add section type for resources and build a list view
 - add sourcemaps and linting to gulpfile
 
 ##resources
