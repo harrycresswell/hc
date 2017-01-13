@@ -2,8 +2,8 @@
 Stuff i still need todo
 
 ##pre-launch
+- move site to theme folder
 - update favicon
-- use some flexbox for reading list
 - remove unused images
 - write albion article
 - re-write design consultancy
@@ -14,9 +14,10 @@ Stuff i still need todo
 - check analytics is working
 
 ##future
--
+- replace spot colors for post types
 - add a testimonials
 - add a section type for reading and build list view for books i've read
+- use some flexbox for reading list
 - add section type for resources and build a list view
 - add sourcemaps and linting to gulpfile
 
