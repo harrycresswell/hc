@@ -11,11 +11,11 @@
 <main role="main">
     <div class="o-wrap">
         <header class="u-marginTop-l">
-            <h1 class="u-h1">Articles about design, code and running a small business that doesn't suck.</h1>
+            <h1 class="u-h1">Articles about design, code and building products that don't suck.</h1>
             <h2 class="u-marginTop-m u-font--mono">Every other Sunday I publish exclusively to <a href ="#newsletter">my newsletter</a>. Some of those articles appear below a few weeks later.</h2>
         </header>
         <section class="u-marginTop-l">
-            {{ range .Data.Pages.ByPublishDate }}
+          {{ range .Data.Pages.ByPublishDate }}
             {{ if eq .Type "articles" }}
                 <article class="c-post u-marginTop-xl">
                     <h3 class="u-h2">
@@ -29,6 +29,7 @@
                 </article>
             {{ end }}
             {{ end }}
+
         </section>
     </div>
 </main>
