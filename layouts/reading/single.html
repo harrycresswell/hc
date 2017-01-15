@@ -16,19 +16,28 @@
 
 <section class="o-section">
   <div class="o-wrap">
-        <header>
-            <a href="{{ .Site.BaseURL }}/articles" class="c-nav__link u-font--mono u-link--bare">← Return</a>
-            <h1 class="u-h1 u-marginTop-l">{{ .Title }}</h1>
-        </header>
+      <a href="{{ .Site.BaseURL }}/reading" class="c-nav__link u-font--mono u-link--bare">← Return</a>
+      <header class="u-marginTop-l">
+          <div class="o-flex">
+              <div class="o-flex--2">
+                  <img src="{{ .Site.BaseURL }}/images/{{ .Params.book_cover }}" alt="{{ .Title }}">
+              </div>
+              <div class="o-flex--2">
+                  <h1 class="u-h1 u-marginTop-m">{{ .Title }}</h1>
+                  <div class="u-marginTop-s">
+                      <p class="u-font--mono">{{ .Params.description }}</p>
+                      <p class="u-font--mono u-marginTop-s">Rating: {{ .Params.rating }}</p>
+                      <p class="u-marginTop-s">
+                          <a class="u-font--mono" href="{{ .Params.external_link }}" target="_blank">Find out more</a>
+                      </p>
+                  </div>
+
+              </div>
+          </div>
+      </header>
     </div>
 </section>
 {{ end }}
-
-<section class="o-wrap">
-
-
-</section>
-
 
 <main role="main">
 
