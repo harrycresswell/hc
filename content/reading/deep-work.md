@@ -7,6 +7,7 @@ Description = "The ability to focus without distraction."
 Author = "Harry Cresswell"
 external_link = ""
 rating = "8/10"
+book_cover = "let-my-people-go-surfing-by-yvon-chouinard.jpg"
 
 +++
 
