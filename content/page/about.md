@@ -13,7 +13,8 @@ My main aim is to **help independent creatives trying to grow their business**. 
 
 ### A little more about me
 
-I’m Harry Cresswell. My journey hasn't been the most conventional. 6 years ago I quit my job in Insurance and went freelance right away. Not something that tends to be advised, but in my case it work out fine.
+I’m Harry Cresswell. My journey hasn't been the most conventional. In 2010, I quit my job in Insurance, printed some business cards and started building websites. I've been pretending to be a designer ever since.
+
 I've been **designing and coding websites**, both as a freelance and a contractor ever since.
 
 More recently i've been helping clients **understand the nuts and bolts of bootstrapping a business**. For a lot of creatives, business isn't all that interesting, but having a solid understanding of the basics is essential. If you want to grow and reach your goals, business strategy is something you need to understand – it will help you build a better business.
