@@ -4,6 +4,7 @@ title: "Reducing Complexity in Sketch"
 author: "Harry Cresswell"
 description: "Working on giant web apps in bloated sketch files can get tiresome. Here are my tips to make the process more managable."
 slug: ""
+draft: "true"
 tags: ["sketch3", "Shopify", "design"]
 ---
 
