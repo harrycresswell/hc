@@ -2,6 +2,8 @@
 Stuff i still need todo
 
 ##pre-launch
+- add book thumbnail to list view
+- add buy in UK, Buy in US link to book reviews
 - move site to theme folder
 - update favicon
 - remove unused images
@@ -14,6 +16,7 @@ Stuff i still need todo
 - check analytics is working
 
 ##future
+- image grid with photo meta lightbox on landing page?
 - replace spot colors for post types
 - add a testimonials
 - add a section type for reading and build list view for books i've read
