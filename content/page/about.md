@@ -11,7 +11,7 @@ You'll mostly find **ideas on how to build a sustainable business you're proud o
 My main aim is to **help independent creatives trying to grow their business**. If that's you, then you're in the right place. If you're a designer, hacker or a side project geek – like myself, you might also find some of what I write useful.
 
 
-### A little more about me
+## A little more about me
 
 I’m Harry Cresswell. My journey hasn't been the most conventional. In 2010, I quit my job in Insurance, printed some business cards and started building websites. I've been pretending to be a designer ever since.
 
@@ -21,7 +21,7 @@ More recently i've been helping clients **understand the nuts and bolts of boots
 
 {{< img class="image-wrapper" src="about-me.jpg" caption="Hi, I'm Harry!" >}}
 
-### Where to go next
+## Where to go next
 
 There are a few places to go from here. You can [read some of my articles](http://localhost:1313/articles/) or [see my bookshelf](http://localhost:1313/reading-list/) for some great books on starting a successful business.
 
@@ -30,17 +30,17 @@ You can also follow me on [Twitter](https://twitter.com/harrycresswell) or see m
 
 If you’re interested in [working with me](http://localhost:1313/design-consulting/), you can also check out a few recent projects below:
 
-#### Recent projects
+### Recent projects
 
 - [Albion Cycling – British cycling gear for all sorts of weather](http://www.albioncycling.com/). *Read more about this project [here](Http://www.com).*
 
 
-#### Other things i've made
+### Other things i've made
 
 - [In Detail – Visual interviews with jewellery collectors and influencers](https://indtl.com/). *I co-founded and continue to work on In Detail with jewellery expert [Beanie Major](http://blake-ldn.com/journal/2016/11/8/blake-woman-beanie-major).*
 
 
-### How I made this site
+## How I made this site
 
 For those who are interested in how I built this site, here's a quick overview:
 
@@ -50,7 +50,7 @@ The CSS is written in [Sass](http://sass-lang.com/), and follows the [BEM](https
 
 All the code can be found on my [github](https://github.com/harrycresswell/hc). Use it for your own learning and development but please don't just rip off the code. If you have any questions [drop me an email](mailto:studio@harrycresswell.com) or a [tweet](https://twitter.com/harrycresswell). I'd be more than happy to help.
 
-### Thanks
+## Thanks
 
 If you made it this far, then thanks, I appreciate you taking the time to look at my website and I hope you enjoyed what you've been reading.
 
