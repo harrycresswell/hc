@@ -12,25 +12,30 @@
  */
 
 .u-h1 {
-  font-size: $font-size--xl;
+  font-size: $font-size--xxl;
   line-height: $line-height-l;
 
   @include breakpoint(xs) {
-      font-size: $font-size--l;
+      font-size: $font-size--xl;
   }
 }
 
 .u-h2 {
+  font-size: $font-size--xl;
+  line-height: $line-height-l;
+}
+
+.u-h3 {
   font-size: $font-size--l;
   line-height: $line-height-m;
 }
 
-.u-h3 {
+.u-h4 {
   font-size: $font-size--m;
-  line-height: $line-height-s;
+  line-height: $line-height-m;
 }
 
-.u-h4 {
+.u-h5 {
   font-size: $font-size--s;
   line-height: $line-height-xs;
 }
