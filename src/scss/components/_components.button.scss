@@ -2,8 +2,9 @@
     #BUTTON
 \*------------------------------------*/
 
+
 .c-button-wrap {
-  margin: $spacing-unit * 3 0;
+  margin: $spacing-unit * 2 0;
 }
 .c-button {
     width: 100%;
@@ -22,9 +23,9 @@
 }
 
 .c-button--primary {
-    border: solid 1px $color-brand;
+    border: solid 1px $color-dark;
     color: $color-white;
-    background: $color-brand;
+    background: $color-dark;
     margin: 0 auto;
     padding: 1rem 3rem;
 }
@@ -38,7 +39,7 @@
 .c-button--primary:active,
 .c-button--primary.is-pressed {
     background: $color-white;
-    color: $color-brand;
-    border: solid 1px $color-brand;
+    color: $color-dark;
+    border: solid 1px $color-dark;
     outline: none;
 }
