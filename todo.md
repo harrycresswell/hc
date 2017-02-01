@@ -2,6 +2,7 @@
 Stuff i still need todo
 
 ##pre-launch
+- responsive cover image
 - add book thumbnail to list view
 - add buy in UK, Buy in US link to book reviews
 - move site to theme folder
