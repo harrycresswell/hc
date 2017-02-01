@@ -6,7 +6,7 @@
         <header class="u-marginTop-l">
             <a href="{{ .Site.BaseURL }}/reading/" class="c-nav__link u-font--mono u-link--bare">← Return</a>
             <h1 class="u-h1 u-marginTop-l">{{ .Title }}</h1>
-            {{ if .Params.description }}<h2 class="u-marginTop-m u-font--mono">{{ .Params.description }}</h2>{{ end }}
+            {{ if .Params.description }}<h2 class="u-h4 u-marginTop-m u-font--normal">{{ .Params.description }}</h2>{{ end }}
         </header>
     </div>
     <div class="o-header-cover u-marginTop-xl" style="background-image: url({{ index .Params "featured_image" }}); background-repeat: no-repeat; background-position: center;"></div>
