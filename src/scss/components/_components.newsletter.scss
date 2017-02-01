@@ -6,32 +6,32 @@
 
 .c-newsletter__form-field {
     background-color: rgba(255, 255, 255, 0);
-    color: $color-brand;
-    border-bottom: 1px solid $color-brand;
+    color: $color-dark;
+    border-bottom: 1px solid $color-dark;
     font-family: $secondary-font-family;
     font-size: $font-size--s;
     padding: 2rem;
     transition: border .2s ease-in-out;
 
     &::-webkit-input-placeholder {
-        color: $color-brand;
+        color: $color-dark;
         opacity: 1;
     }
 
     &::-moz-placeholder {
-        color: $color-brand;
+        color: $color-dark;
         opacity: 1;
     }
 
     &:-ms-input-placeholder {
-        color: $color-brand;
+        color: $color-dark;
         opacity: 1;
     }
 
     &:hover, &:focus {
         outline: none;
-        border-bottom: 1px solid $color-brand;
-        color: darken($color-brand, 15%);
+        border-bottom: 1px solid $color-dark;
+        color: darken($color-dark, 15%);
     }
 
     @include breakpoint(xs) {
