@@ -12,14 +12,14 @@
     <div class="o-wrap">
         <header class="u-marginTop-l">
             <h1 class="u-h1">Articles about design, code and building products that don't suck.</h1>
-            <h2 class="u-marginTop-m u-font--mono">Here are some articles i've taken from various topics I discuss in <a href ="#newsletter">my weekly newsletter</a>. I'd like to add you to my list if you enjoy what you're reading.</h2>
+            <h2 class="u-h4 u-marginTop-m u-font--mono">Here are some articles i've taken from various topics I discuss in <a href ="#newsletter">my weekly newsletter</a>. I'd like to add you to my list if you enjoy what you're reading.</h2>
         </header>
         <section class="u-marginTop-l">
           {{ range .Data.Pages.ByPublishDate }}
             {{ if eq .Type "articles" }}
                 <article class="c-post u-marginTop-xl">
-                    <h3 class="u-h2">
-                        <a class="u-link--natural" href="{{ .Permalink }}">
+                    <h3 class="u-h3">
+                        <a class="u-link--brand" href="{{ .Permalink }}">
                             {{ .Title }}
                         </a>
                     </h3>
