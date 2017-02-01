@@ -21,22 +21,23 @@
 }
 
 .markdown h2 {
-    font-size: 30px;
+    font-size: $font-size--xl;
     font-weight: $font-weight-medium;
-    margin: 70px 0 $spacing-unit 0;
+    margin: 70px 0 50px 0;
 
     @include breakpoint(xs) {
-        font-size: 28px;
+        font-size: $font-size--xl;
+        line-height: $line-height-l;
     }
 }
 
 .markdown h3 {
-    font-size: 24px;
+    font-size: $font-size--l;
     font-weight: $font-weight-medium;
-    margin: 60px 0 30px 0;
+    margin: 60px 0 40px 0;
 
     @include breakpoint(xs) {
-        font-size: 28px;
+        font-size: $font-size--l;
     }
 }
 
@@ -70,9 +71,10 @@
 
 .markdown .image-caption {
     color: $color-grey;
-    border-left: 2px solid $color-light;
+    /*border-left: 2px solid $color-light;
     padding-left: $spacing-unit / 2;
-    margin: 10px 0 10px -25.5%;
+    margin: 10px 0 10px -25.5%;*/
+    text-align: center;
 
     @include breakpoint(xs) {
         max-width: 100%;
