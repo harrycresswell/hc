@@ -12,13 +12,13 @@
     <div class="o-wrap">
         <header class="u-marginTop-l">
             <h1 class="u-h1">The most important things i've learned has come from the book's i've read.</h1>
-            <h2 class="u-marginTop-m u-font--mono">Ok, well not just books, but articles, talks, and conversations I've had. I'm using this area to keep notes on everything I learn so you can learn from it too.</h2>
+            <h2 class="u-h4 u-marginTop-m u-font--mono">Ok, well not just books, but articles, talks, and conversations I've had. I'm using this area to keep notes on everything I learn so you can learn from it too.</h2>
         </header>
         <section class="u-marginTop-xl">
-          <h3 class="u-h2">On Business</h3>
+          <h3 class="u-h3">On Business</h3>
           {{ range .Site.Taxonomies.series.business }}
               <article class="c-post u-marginTop-l">
-                  <h4 class="u-h2">
+                  <h4 class="u-h3">
                       <a class="" href="{{ .Page.RelPermalink }}">
                           {{ .Page.Title }}
                       </a>
@@ -30,10 +30,10 @@
           {{ end }}
 
           <section class="u-marginTop-xl">
-            <h3 class="u-h2">On Productivity</h3>
+            <h3 class="u-h3">On Productivity</h3>
             {{ range .Site.Taxonomies.series.productivity }}
                 <article class="c-post u-marginTop-l">
-                    <h4 class="u-h2">
+                    <h4 class="u-h3">
                         <a class="" href="{{ .Page.RelPermalink }}">
                             {{ .Page.Title }}
                         </a>
