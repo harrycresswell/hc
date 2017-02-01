@@ -4,7 +4,7 @@ date: "2016-10-24T17:23:17+01:00"
 description: "About this website"
 ---
 
-I created this website **to share the things I've learnt about design and marketing**, so (hopefully) you can skip to what works and avoid what doesn't.
+I created this website **to share the things I've learnt about design and coding websites**, so (hopefully) you can skip to what works and avoid what doesn't.
 
 You'll mostly find **ideas on how to build a sustainable business you're proud of**. There might also be the odd tutorial here and there, and a few thoughts on life i've picked up along the way.
 
@@ -13,17 +13,17 @@ My main aim is to **help independent creatives trying to grow their business**. 
 
 ## A little more about me
 
-I’m Harry Cresswell. My journey hasn't been the most conventional. In 2010, I quit my job in Insurance, printed some business cards and started building websites. I've been pretending to be a designer ever since.
+I’m Harry Cresswell. My journey hasn't been the most conventional. In 2010, I quit my job in Insurance, printed some business cards and started building websites.
 
 I've been **designing and coding websites**, both as a freelance and a contractor ever since.
 
-More recently i've been helping clients **understand the nuts and bolts of bootstrapping a business**. For a lot of creatives, business isn't all that interesting, but having a solid understanding of the basics is essential. If you want to grow and reach your goals, business strategy is something you need to understand – it will help you build a better business.
+Recently i've been helping clients **understand the nuts and bolts of bootstrapping a business**. For a lot of creatives, business isn't all that interesting, but having a solid understanding of the basics is essential. If you want to grow and reach your goals, business strategy is something you need to understand – it will help you build a better business.
 
 {{< img class="image-wrapper" src="about-me.jpg" caption="Hi, I'm Harry!" >}}
 
 ## Where to go next
 
-There are a few places to go from here. You can [read some of my articles](http://localhost:1313/articles/) or [see my bookshelf](http://localhost:1313/reading-list/) for some great books on starting a successful business.
+There are a few places to go from here. You can [read some of my articles](http://localhost:1313/articles/) or [see my bookshelf](http://localhost:1313/reading/) for some great books on starting a successful business.
 
 You can also follow me on [Twitter](https://twitter.com/harrycresswell) or see my full resume on [LinkedIn](https://uk.linkedin.com/in/harrycresswell
 ).
