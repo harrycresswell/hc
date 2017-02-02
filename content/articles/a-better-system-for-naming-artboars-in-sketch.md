@@ -8,8 +8,8 @@ Description = "Naming your Artboard naming system is an essential part of any wo
 featured_image = "http://localhost:1313/images/naming-artboards-in-sketch-banner-flip.png"
 +++
 
-<p class="message">Disclaimer: this article assumes you know your Artboards from your Text Styles. If you're looking for a primer on how to use Artboards, then I recommend checking out the <a href="https://www.sketchapp.com/learn/documentation/grouping/artboards/">Sketch Documentation</a> first.</p>
- <!--more-->
+<p class="message">Disclaimer: this article assumes you know your Artboards from your Text Styles. If you're looking for a primer on how to use Artboards, then I recommend checking out the <a href="https://www.sketchapp.com/learn/documentation/grouping/artboards/">Sketch Documentation</a> before reading this.. it will make a lot more sense!</p>
+
 I think we can all agree Artboards are an essential part of any workflow.
 
 
