@@ -9,7 +9,7 @@ draft: "true"
 ---
 
 I wanted to take a moment to write a bit about why I have waited until now to re-launch my website and why it's so heavily focused on writing.
-<!--more-->
+
 
 
 ## What i’ll be writing about and who for
