@@ -28,7 +28,7 @@ All successful people fail.
 
 Transparent sense of purpose and a force of good challenging ethics and ideology.
 
-Seeing something that needs to be done better.
+Solving problems. Seeing something that needs to be done better.
 
 **Proof of concept** — _"I started telling people my idea as if it already existed. I had customers. I had a business"_. Reminds me of <a href="https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it" target="_blank">Buffer's landing page POC</a>.
 
@@ -64,3 +64,15 @@ The most satisfying thing is knowing your business is a force of good and can ma
 **10,000 hours** — in order to be an expert you have to spend 10,000 hours (approx. 10 years) practicing it. _From Malcom Gladwell: Outliers_.
 
 Trust your own judgement. Have faith in your decisions. Take advise from people you respect an be prepared to act on it.
+
+Behind most Challenger brands there is usually someone on a mission to solve a problem they have encountered in their lives.
+
+Challengers change the way we think, act, feel, see and behave using design to express their vision.
+
+It's not about building it fast, but building it right.
+
+It's not the government who is going to solve our environmental issues, it's business.
+
+_"Everytime I've done the right thing for the environment, i've mae a profit"_ — Yvon Chouinard.
+
+"Business is the most powerful man-made force on the planet, so it is important for businesses to use that power to do the most good. It doesn't matter if a business is the biggest. It doesn't matter if it's the fastest growing. It matters if a business is the best in the world at being the best for the world."
