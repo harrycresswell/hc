@@ -37,7 +37,7 @@ googleAnalytics = "UA-84736644-1"
 
 [params]
   Keywords = "keywords go in here"
-  Description = "Hi, I'm Harry. I help small businesses grow — using design, code and a good bit of photography know-how."
+  Description = "Helping small businesses grow — using design, code and photography."
   Location = "London, UK"
   Email = "studio@harrycresswell.com"
   GithubID = "Your Github ID"
