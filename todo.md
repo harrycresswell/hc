@@ -3,14 +3,10 @@ Stuff i still need todo
 
 ##pre-launch
 - responsive cover image
-- add book thumbnail to list view
-- add buy in UK, Buy in US link to book reviews
 - move site to theme folder
-- update favicon
 - remove unused images
 - write albion article
 - re-write design consultancy
-- re-write hire me page
 - https
 - fix meta for fb and twitter
 - link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)
