@@ -21,7 +21,7 @@ For various reasons this isn't always practical or to everyones needs.
 
 Below I have outline some of the ways I have successfully worked with previous clients. To build their vision and produce results.
 
-If you feel you're needs don't fit within these areas, then no problem. I still might be able to help so we should discuss you're requirements.
+If you feel you're needs don't fit within these areas, then no problem. I still might be able to help so we should discuss your requirements.
 
 
 ### Design Strategy
@@ -30,7 +30,7 @@ We'll discuss your business objectives in depth, then I'll pick apart your desig
 
 ### Design/Single
 
-A redesign of a single page on your website, or the creation of a new one. After a brainstorming session, I'll create a design for you (delivered as a Photoshop file) and write a single-page report on extracting maximum juice from your new baby. If you don't have a web developer to build my design, I can advise on that too.
+A redesign of a single page on your website, or the creation of a new one. After a brainstorming session, I'll create a design for you (delivered as a Sketch file) and write a single-page report on extracting maximum juice from your new baby. If you don't have a web developer to build my design, I can advise on that too.
 
 ### Design/Build
 
