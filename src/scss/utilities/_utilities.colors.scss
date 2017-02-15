@@ -7,7 +7,11 @@
 }
 
 .u-color-body {
-  color: rgba(35,37,40,0.8);
+  color: $color-body;
+}
+
+.u-color-grey {
+  color: $color-grey;
 }
 
 .u-color-white {
