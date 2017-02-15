@@ -18,15 +18,17 @@
   <div class="o-wrap">
       <a href="{{ .Site.BaseURL }}/reading" class="c-nav__link u-font--mono u-link--bare">← Return</a>
       <header class="u-marginTop-l">
-          <div class="o-flex">
+          <h1 class="u-h1">{{ .Title }}</h1>
+          <div class="o-flex u-marginTop-m">
               <div class="o-flex--2">
                   <img src="{{ .Site.BaseURL }}/images/{{ .Params.book_cover }}" alt="{{ .Title }}">
               </div>
               <div class="o-flex--2">
-                  <h1 class="u-h1 u-marginTop-m">{{ .Title }}</h1>
+
                   <div class="u-marginTop-s">
-                      <p class="u-font--mono">{{ .Params.description }}</p>
                       <p class="u-font--mono u-marginTop-s">Rating: {{ .Params.rating }}</p>
+                      <p class="u-font--mono">Finished: {{ .Params.finished }}</p>
+                      <p class="u-font--mono">Subjects: {{ .Params.subjects }}</p>
                       <p class="u-marginTop-s">
                           <a class="u-font--mono" href="{{ .Params.external_link }}" target="_blank">Find out more</a>
                       </p>
@@ -43,6 +45,8 @@
 
     <article class="c-post u-marginTop-l">
         <div class="o-wrap">
+
+            {{ if .Params.description }}<h2 class="u-h4 u-font--normal u-color-body">{{ .Params.description }}</h2>{{ end }}
 
             <div class="c-post__content markdown">
               {{ .Content }}
