@@ -4,22 +4,20 @@ date: "2016-10-24T17:23:17+01:00"
 description: "About this website"
 ---
 
-I created this website **to share the things I've learnt about design and coding websites**, so (hopefully) you can skip to what works and avoid what doesn't.
+If you are here for the first time, I made this site as a place to share my experience of **designing and coding websites**.
 
-You'll mostly find **ideas on how to build a sustainable business you're proud of**. There might also be the odd tutorial here and there, and a few thoughts on life i've picked up along the way.
-
-My main aim is to **help independent creatives trying to grow their business**. If that's you, then you're in the right place. If you're a designer, hacker or a side project geek – like myself, you might also find some of what I write useful.
-
+You'll also find notes on **everything I'm learning from books, articles and various other material**. Hopefully you might pick up some useful lessons whilst you're here.
 
 ## A little more about me
 
-I’m Harry Cresswell. My journey hasn't been the most conventional. In 2010, I quit my job in Insurance, printed some business cards and started building websites.
+I started teaching myself design and code in 2006 whilst I was studying art.
 
-I've been **designing and coding websites**, both as a freelance and a contractor ever since.
+I tried a *"real job"* in Insurance after graduating, but quit in 2010 to focus on **making websites for a living**. I realised my time was probably better spent doing something I really enjoyed — designing and building products.
 
-Recently i've been helping clients **understand the nuts and bolts of bootstrapping a business**. For a lot of creatives, business isn't all that interesting, but having a solid understanding of the basics is essential. If you want to grow and reach your goals, business strategy is something you need to understand – it will help you build a better business.
+I now live between London and Hamburg, where **I work remotely** for a handful of clients.
 
-{{< img class="image-wrapper" src="about-me.jpg" caption="Hi, I'm Harry!" >}}
+
+{{< img class="image-wrapper" src="about-me.jpg" caption="This is me!" >}}
 
 ## Where to go next
 
@@ -59,3 +57,10 @@ If you wish to read more, i'd like your email address so I can send you **well t
 I only send one a week, on a Sunday.
 
 This is where I focus most my time and effort – providing useful actionable advice for my subscribers.
+
+
+### Props
+
+This list could go on for a country mile but i'll keep it short.
+
+The people who have most inspired me to start emptying my brain on the screen in front of you are — in no particular order — Paul Jarvis, Zell Liew, Tim Ferris, Nat Eliason, James Greig, Pat Flynn, Joel Gascoigne and Chris Coyier to name but a few.
