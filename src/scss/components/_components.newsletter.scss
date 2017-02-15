@@ -31,7 +31,7 @@
     &:hover, &:focus {
         outline: none;
         border-bottom: 1px solid $color-dark;
-        color: darken($color-dark, 15%);
+        color: darken($color-grey, 15%);
     }
 
     @include breakpoint(xs) {
