@@ -6,18 +6,4 @@
 </script>
 
 <!-- Load javascripts -->
-<script src="{{ .Site.BaseURL }}/js/{{ index .Site.Data.js.hash "app.js" }}"></script>
-
-<!-- Load typed -->
-<script>
-    $(function(){
-        $(".element").typed({
-            strings: ["grow online.", "reach their audience.", "with content marketing.", "with business strategy.", "build websites.", "with copywriting for the web.", "improve their users experience.", "think more ethically." ],
-            typeSpeed: 100,
-            // loop
-            loop: true,
-            // time before backspacing
-            backDelay: 2000
-        });
-    });
-</script>
+<script src="{{ .Site.BaseURL }}js/{{ index .Site.Data.js.hash "app.js" }}"></script>
