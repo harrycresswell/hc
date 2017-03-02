@@ -2,17 +2,23 @@
 Stuff i still need todo
 
 ##pre-launch
+- fix tags archive page
+- set up article resources like
+http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/
+- is SEO set up correctly http://blog.el-chavez.me/2015/11/26/go-hugo-seo/
 - responsive cover image
 - move site to theme folder
 - remove unused images
 - write albion article
-- re-write design consultancy
 - https
 - fix meta for fb and twitter
 - link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)
 - check analytics is working
 
+
+
 ##future
+- consider gzipping https://css-tricks.com/snippets/htaccess/active-gzip-compression/
 - image grid with photo meta lightbox on landing page?
 - replace spot colors for post types
 - add a testimonials
