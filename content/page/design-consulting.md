@@ -33,9 +33,9 @@ _*This can take place via Skype or in person_.
 
 ### Marketing: Landing page and mailing list
 
-If you have a product or even just an idea for one, then you should probably get it out in the real world and start to collect data. This is a low risk way of finding out if your idea has potential.
+If you have a product or even just an idea for one, then it's time to get it out into the real world and collect some data. This is the a great, low risk way of finding out if your product has potential.
 
-I'll design and build **a simple one page landing page** and set you up with **a mailing list**, so you can collect emails (interest) and start building your customer base.  
+I'll design and build **a simple one page landing page** and set you up with **a mailing list**, so you can collect emails and start building your customer base.  
 
 Remember those old *'coming soon'* pages, sort of like that but super charged with function and filled with purpose.
 
