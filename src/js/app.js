@@ -1,4 +1,4 @@
-// JS Goes here
+// POST form data to zapier on submit
 $('#myForm').submit(function(e){
     e.preventDefault();
     $.ajax({
@@ -6,7 +6,7 @@ $('#myForm').submit(function(e){
         type:'post',
         data:$('#myForm').serialize(),
         success:function(){
-          // On submit, redirect to another page
+          // Redirect to success page
           window.location = "http://localhost:1313/success";
         }
     });
