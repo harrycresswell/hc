@@ -24,12 +24,12 @@ I now spend my time between London and Hamburg, where **I work remotely** for a 
 
 ## Where to go next
 
-There are a few places to go from here. You can [read some of my articles](http://localhost:1313/articles/) or [see my bookshelf](http://localhost:1313/reading/) for some great books on starting a successful business.
+There are a few places to go from here. You can [read some of my articles](http://localhost:1313/articles/) or [check out my bookshelf](http://localhost:1313/reading/) where I keep notes on things I'm learning.
 
 You can also follow me on [Twitter](https://twitter.com/harrycresswell) or see my full resume on [LinkedIn](https://uk.linkedin.com/in/harrycresswell
 ).
 
-If you’re interested in [working with me](http://localhost:1313/design-consulting/), you can also check out a few recent projects below:
+If you’re interested in [working with me](http://localhost:1313/design-consulting/), you might be interested in a few recent projects i've worked on:
 
 ### Recent projects
 
