@@ -1,23 +1,20 @@
 #todo
-Stuff i still need todo
+Stuff i still need to do..
 
 ##pre-launch
 - fix tags archive page
-- set up article resources like
-http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/
+- fix responsive cover image
+- load responsive images https://internetingishard.com/html-and-css/responsive-images/
+- remove unused images from src
 - is SEO set up correctly http://blog.el-chavez.me/2015/11/26/go-hugo-seo/
-- responsive cover image
-- move site to theme folder
-- remove unused images
-- write albion article
 - https
 - fix meta for fb and twitter
 - link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)
 - check analytics is working
 
 
-
 ##future
+- move site to theme folder
 - consider gzipping https://css-tricks.com/snippets/htaccess/active-gzip-compression/
 - image grid with photo meta lightbox on landing page?
 - replace spot colors for post types
@@ -27,11 +24,16 @@ http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-j
 - add section type for resources and build a list view
 - add sourcemaps and linting to gulpfile
 
+
 ##resources
 - [this](https://github.com/IvanChou/hugo-theme-vec) is helpful
 
 
 ##complete
+- ~~set up article resources like
+http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/~~
+- ~~fix syntax highlighting~~
+- ~~fix spot colour like https://kyusuf.com/post/completely-css-progressively-collapsing-navigation~~
 - ~~replace syntax highlighting~~
 - ~~build better breakpoint mixin like [this](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.3wje0ib56)~~
 - ~~rebuild scss with tachyons~~
