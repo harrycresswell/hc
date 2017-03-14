@@ -1,24 +1,26 @@
 +++
-tags = "Automation, Zapier"
+tags = ["Automation", "Zapier", "code"]
 title = "Building a simple contact form for your static site with Zapier "
-date = "2016-10-26T21:34:41+01:00"
+date = "2017-03-06T21:34:41+01:00"
 slug = ""
-Description = "A simple way to receive form data directly to your email using Zapier. No server side coding required."
+Description = "A simple way to receive form data directly to your email using Zapier. No server side code nonsense required."
 Author = "Harry Cresswell"
 featured_image = "http://localhost:1313/images/zapier-contact-form.png"
 spot = "cyan"
 
 +++
 
-In this article we’re going to look at how you can use [Zapier](https://zapier.com/) to build a contact form for your static website.
+Have you ever felt overwhelmed by the amount of server side code it takes to get a simple contact form working on a website site? I know I have. I'm still trying to forget the number of hours i've spent in _dev monkey mode_, fumbling around late at night with PHP, not really knowing what hell I was doing. 😡
 
-We will be using Zapier's Webhooks to collect data submitted in our form, then set up an automated email (to ourselves) containing the data.
+What a bore. It should be easier right?
 
-Pretty simple.
+In this article we’re going to look at how to build a super simple contact form using [Zapier](https://zapier.com/). Forget about the server side code — php i'm looking at you — because our form doesn't need it.
 
-The cool thing about our form is that it doesn’t require any server side code, so can forget about all that php junk.
+Instead we'll be using Zapier, and a little something called Webhooks to collect the data submitted in our form. We'll then set up an automated email which sends us an email containing the data.
 
 If your building a static website with a generator like Jekyll, Hugo, Middleman or even just in vanilla HTML, then this is a great solution to get a form working on your site with minimal fuss.
+
+Sounds simple right? The good news... it is.
 
 ## Why Zapier
 
@@ -30,9 +32,7 @@ Zapier recommends several workflows you can use to integrate different apps, but
 
 [Webhooks](https://zapier.com/zapbook/webhook/) are a powerful Zapier feature which collect `POST` or `JSON` data and send it to a URL. You can then process this data pretty much however you like.
 
-If you are a developer then you might be familiar with endpoints. Webhooks are pretty much the same thing.
-
-If you have no idea what i'm talking about, don't worry, it's really quite straight forward to implement.
+If you are a developer then you might be familiar with endpoints. Webhooks are pretty much the same thing. If you have no idea what i'm talking about, don't worry, it's really quite straight forward to implement.
 
 
 ### Why not use a static form provider instead
@@ -51,7 +51,7 @@ I kept coming back to Zapier because it’s familiar. I already use Zapier for s
 
 Zapier is the most flexible solution.
 
-Although the form in this tutorial is a very simple one, If we wanted to add further steps to process our form data, then Zapier makes this super easy.
+Although the form we're about to build is a very simple one, if we wanted to add further steps to process our form data, then Zapier makes this easy.
 
 Say for example, we wanted to send the data via an email and then afterwards add the form submitter to our mailing list (pretty cool right?). We can do this easily with [multi-step Zaps](https://zapier.com/learn/getting-started-guide/multi-step-zaps/).
 
@@ -59,9 +59,9 @@ Then, let's say, we wanted to send an automated email response, or send a “Get
 
 With Zapier our form can trigger any series of automated occurrences we want and connect our form up to a variety of different apps.
 
-As cool as this stuff is, it's not something I’ll get into in any more detail now.
+As cool as this stuff is, it's not something I’ll get into in any more detail now. Hopefully you can still appreciate the potential power Zapier can bring to a contact form.
 
-So you have my reasons for going with Zapier, i'm sure you can appreciate the potential power it can bring to your static contact form.
+So now you have my reasons for going with Zapier, let's get on with building this form.
 
 ## Building the form
 
@@ -149,13 +149,13 @@ If you haven’t already got a Zapier account, then before you do anything else 
 
 ### Create a new Zap
 
-Next you will need to make a new Zap. Give your new Zap a name, then search for the "Webhooks by Zapier" trigger.
+Next you will need to make a new Zap. Give your new Zap a name, then search for the **Webhooks by Zapier** trigger.
 
 {{< img class="image-wrapper" src="zapier-contact-form-create-a-zap.gif" caption="Create your first Zap and find the webhooks trigger" >}}
 
-Make sure you select "Catch Hook", then hit save and continue.
+Make sure you select **Catch Hook**, then hit **save and continue**.
 
-As we want to collect all the data submitted in our form, we'll leave "Pick off a child key" blank and hit continue.
+As we want to collect all the data submitted in our form, we'll leave **Pick off a child key** blank and then hit **continue**.
 
 {{< img class="image-wrapper" src="zapier-contact-form-webhook-url.gif" caption="Grab your webhook URL" >}}
 
@@ -189,7 +189,7 @@ If all went well your browser window should be redirected to the Zapier webhook 
 
 Now let's head back to Zapier to see if our data was received.
 
-Hit the "Ok I did this" button to test the connection. You should now see a nice green banner confirming your test was successful. Great job!
+Hit **Ok I did this** to test the connection. You should now see a nice green banner confirming your test was successful. Great job!
 
 {{< img class="image-wrapper" src="zapier-contact-form-webhook-succesful.gif" caption="Test Succesfull. Woohoo!" >}}
 
@@ -202,9 +202,9 @@ The next step is to automate an email to our inbox, which sends every time someo
 
 ### Create an outbound email action
 
-Search for "Email by Zapier" in the "Choose an action app" step.
+Search for **Email by Zapier** in the "Choose an action app" step.
 
-Hit "save and continue" on Send an outbound email. This will create your action step sequence and bring up the email template where we can decide what our automated email will say.   
+Hit **save and continue** on Send an outbound email. This will create your action step sequence and bring up the email template where we can decide what our automated email will say.   
 
 {{< img class="image-wrapper" src="zapier-contact-form-add-outbound-email-action-step.gif" caption="Add outbound email action step" >}}
 
@@ -301,6 +301,8 @@ Something I haven’t tackled in this article is form validation. Validating you
 Although I only used a first name and an email address in this example, you might want to process a whole lot more data with your form. Just remember to include a `name` attribute on every form element in order for Zapier to catch the data.
 
 I hope this has been a helpful introduction into using Zapier to process form data on static sites. You can find all the resources I used for this technique below.
+
+If you want to grab the source code from this tutorial you can get hold of that on [github](http://github.com/).
 
 As always if you have any questions, [drop me a tweet](https://twitter.com/harrycresswell), i'd be happy to help.
 

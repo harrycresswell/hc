@@ -1,6 +1,6 @@
 +++
 Author = "Harry Cresswell"
-tags = ["sketch", "design", "workflow"]
+tags = ["sketch", "design"]
 title = "A better technique for naming Artboards in Sketch"
 date = "2016-10-26T21:34:41+01:00"
 slug = ""
@@ -40,9 +40,14 @@ If someone in your team or even a client wants to discuss the design on a partic
 
 Again, this will make you life a hell of a lot easier when it comes to finding that particular Artboard — if and when you need to go back and make some changes.
 
-> “Project manager: The primary button radius on one of the Artboards in the checkout flow is wrong.. can you update that?”
+Does this sound familiar:
 
->“Designer: Yeah sure, just let me know the Artboard number!”
+<blockquote>The primary button radius on one of the Artboards in the checkout flow is wrong.. can you update that?
+<cite>Project manager</cite>
+</blockquote>
+
+<blockquote class="u-marginTop-m">Yeah sure, just let me know the Artboard number? <cite>Designer</cite>
+</blockquote>
 
 ### 3. Scaleability
 A good naming system will allow your project to scale without any major problems. If some time in the future you need to update the sequence by adding an Artboard into the flow, then you need a system which will prevent you from having to go back to re-name the sequence of every other Artboard in your entire document — all because you added a new one.
