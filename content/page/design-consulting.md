@@ -41,9 +41,9 @@ Remember those old *'coming soon'* pages, sort of like that but super charged wi
 
 ### Bespoke: Design & code
 
-Do you need **a bespoke Wordpress site** (that's your very own unique theme built from scratch) or perhaps **a way to sell your products online** (using Shopify)?
+Do you need **a bespoke Wordpress site** (that's your very own unique theme built from scratch) or perhaps **a way to sell your products online** (using Shopify)? Maybe you just need something simple like **a static site**.
 
-If you want full control of your website and it's user experience, then I can design and build a full website experience for your audience.
+Whatever it may be, if you want full control of your website and it's user experience, then I can design and build a full website experience for you and your audience.
 
 <div class="c-button-wrap u-align-center">
   <a href="/contact"><span class="c-button c-button--primary">Let's work together</span></a>

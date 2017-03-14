@@ -17,14 +17,14 @@ I started teaching myself design and code in 2006 whilst I was studying art.
 
 I tried a *"real job"* in Insurance after graduating, but quit in 2010 to focus on **making websites for a living**. I quickly realised my time was better spent doing something I enjoyed — helping people solve problems with design.
 
-I now spend my time between London and Hamburg, where **I work remotely** for a handful of clients.
+I now spend my time between London and Hamburg, where **I work remotely** with a handful of clients.
 
 
 {{< img class="image-wrapper" src="about-me.jpg" caption="This is me!" >}}
 
 ## Where to go next
 
-There are a few places to go from here. You can [read some of my articles](http://localhost:1313/articles/) or [check out my bookshelf](http://localhost:1313/reading/) where I keep notes on things I'm learning.
+There are a few places to go from here. You can [read some of my articles](http://localhost:1313/articles/) or [check out my bookshelf](http://localhost:1313/reading/) where I keep notes on the things I'm learning.
 
 You can also follow me on [Twitter](https://twitter.com/harrycresswell) or see my full resume on [LinkedIn](https://uk.linkedin.com/in/harrycresswell
 ).
