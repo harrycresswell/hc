@@ -5,50 +5,6 @@ description = "Let's find out if we're a good fit."
 
 +++
 
-<p>I'm really glad you're keen to work together. In order to find out if i'm the right person for the job, please tell me a little bit more about you and your project.</p>
+<p>I'm really glad you're keen to work together. In order to find out if i'm the right person for the job, please tell me a little bit more about yourself and your project.</p>
 
-
-<form id="myForm" >
-		<div class="u-marginTop-s">
-				<input class="c-form c-form__input" type="text" name="full-name" placeholder="What is your name?">
-		</div>
-
-		<div class="u-marginTop-s">
-				<input class="c-form c-form__input" type="email" name="email-address" placeholder="What is your email address?">
-		</div>
-		<div class="u-marginTop-s">
-			<label class="u-font--mono">Which of the follow best describes the type of project?</label>
-		</div>
-		<div class="c-form c-form__select u-marginTop-s">
-				<select name="project-type">
-						<option value="Design Strategy">Design Strategy</option>
-						<option value="Design Only">Design Only</option>
-						<option value="Design and Code">Design and Code</option>
-						<option value="Marketing &amp; Content">Marketing &amp; Content</option>
-						<option value="Other">Other</option>
-				</select>
-		</div>
-		<!-- /.Select -->
-
-		<div class="u-marginTop-s">
-				<label class="c-form-label u-font--mono">What is your estimated budget for the project?</label>
-		</div>
-		<div class="c-form c-form__select u-marginTop-s">
-				<select name="budget">
-						<option value="£0 - £750">£0 - £750</option>
-						<option value="£750 – £2500">£750 – £2500</option>
-						<option value="£2,500 – £5,000">£2,500 – £5,000</option>
-						<option value="£5,000 – £10,000">£5,000 – £10,000</option>
-						<option value="£10,000 – £25,00">£10,000 – £25,000</option>
-				</select>
-		</div>
-		<!-- /.Select -->
-
-		<div class="u-marginTop-s">
-				<input name="message" class="c-form c-form__input" type="text" placeholder="Are there any specific details about the project?"/>
-		</div>
-
-		<div class="u-marginTop-s">
-		<input type="submit" value="Submit" id="Form-submit" class="c-button c-button--primary"/>
-		</div>
-</form>
+{{< contact-form >}}<p></p>{{< /contact-form >}}
