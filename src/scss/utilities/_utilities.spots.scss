@@ -63,7 +63,11 @@ $spot-colors: (
   }
 
   .post-#{$name} strong {
-    font-weight: $font-weight-medium;
+    font-weight: 600;
+  }
+
+  .post-#{$name} blockquote {
+    color: $color;
   }
 
 }
