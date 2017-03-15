@@ -1,0 +1,10 @@
+<!-- Topics. -->
+<div class="c-post__tag-list">
+    <h4>Topics</h4>
+    <div class="c-post__tags">
+      {{ $baseurl := .Site.BaseURL }}
+      {{ range .Params.topics }}
+        <a class="nav-link u-font--mono" href="{{ $baseurl }}/topics/{{ . | urlize }}">{{ . }}</a>
+      {{ end }}
+    </div>
+</div>
