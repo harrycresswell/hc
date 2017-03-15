@@ -1,6 +1,6 @@
 +++
 Author = "Harry Cresswell"
-tags = ["sketch", "design"]
+tags = ["Sketch", "Design", "code"]
 title = "A better technique for naming Artboards in Sketch"
 date = "2016-10-26T21:34:41+01:00"
 slug = ""
