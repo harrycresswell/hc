@@ -1,26 +1,36 @@
 #todo
 Stuff i still need to do..
 
-##pre-launch
-- fix tags archive page
+
+##pre launch
+- update images in artboards post to reflect spot colour
+- remove CSS and JS hashing
+- link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)
+
+- fix testimonial (like typeform blog)
+- create 'welcome to my mailing list email'
+- add basic form validation to zapier form tutorial
+
+
+##post launch
 - fix responsive cover image
 - load responsive images https://internetingishard.com/html-and-css/responsive-images/
-- remove unused images from src
 - is SEO set up correctly http://blog.el-chavez.me/2015/11/26/go-hugo-seo/
 - https
 - fix meta for fb and twitter
-- link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)
 - check analytics is working
 
 
 ##future
+- consider grey code highlighting http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
+- add reading time https://www.typeform.com/blog/inspiration/15-typeforms-for-customers-success/
+- add a night theme http://demo.lovethemes.co/rw/category/design/
+- fix tags archive page
 - move site to theme folder
+- add scroll indication http://youmightnotneedjs.com/
 - consider gzipping https://css-tricks.com/snippets/htaccess/active-gzip-compression/
 - image grid with photo meta lightbox on landing page?
-- replace spot colors for post types
 - add a testimonials
-- add a section type for reading and build list view for books i've read
-- use some flexbox for reading list
 - add section type for resources and build a list view
 - add sourcemaps and linting to gulpfile
 
