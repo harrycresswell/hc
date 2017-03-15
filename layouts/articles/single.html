@@ -1,5 +1,4 @@
 {{ partial "header.html" . }}
-
 <article class="o-section">
     {{ if isset .Params "featured_image" }}
     <section>
@@ -36,8 +35,9 @@
                 </div>
 
                 <footer class="c-post__footer u-marginTop-l">
-                    {{ partial "post/related-post.html" . }}
                     {{ partial "post/tags.html" . }}
+                    {{ partial "post/related-post.html" . }}
+                    {{ partial "post/author.html" . }}
                 </footer>
 
             </div>
