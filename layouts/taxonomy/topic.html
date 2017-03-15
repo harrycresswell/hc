@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+
+<main role="main" class="o-section">
+      <div class="o-wrap">
+          <header class="u-marginTop-l">
+              <span class="c-post__meta u-font--mono">Topic</span>
+               <h1 class="u-h1 u-marginTop-l">{{ .Title }}</h1>
+          </header>
+          <section class="u-marginTop-l">
+            <ul class="c-list">
+               {{ range .Data.Pages }}
+                <li class="c-list__item u-marginTop-m">
+                  <time class="c-list__secondary-content u-h5 u-font--mono">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+                  <div class="c-list__primary-content u-marginTop-s">
+                      <a class="u-h3 u-font--tertairy u-link--normal" href="{{ .Permalink }}">{{ .Title }}</a>
+                  </div>
+
+                </li>
+                {{ end }}
+            </ul>
+          </section>
+      </div>
+</main>
+
+{{ partial "footer.html" . }}
