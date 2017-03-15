@@ -27,10 +27,13 @@ q {
  * 1. Hang opening punctuation.
  */
 blockquote {
-    font-style: italic;
+
+    font-family: $base-font-family;
+    font-size: 24px;
     quotes: "“" "”";
-    color: $color-dark;
-    border-left: 2px solid #f5f5f5;
+    color: $color-brand;
+    margin: 0;
+    line-height: 1.6;
 
     p {
         text-indent: -0.41em; /* [1] */
@@ -66,6 +69,19 @@ blockquote {
             content: close-quote;
         }
 
+    }
+
+    cite:before {
+      content: '\2014 ';
+    }
+
+    cite {
+      font-size: 20px;
+      margin-top: 15px;
+      display: block;
+      font-style: normal;
+      color: $color-dark;
+      line-height: 1.8;
     }
 
 }
