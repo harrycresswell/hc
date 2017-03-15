@@ -8,12 +8,10 @@
 
 .o-flex--3 {
     flex-basis: 30%;
-//    background: #ccc;
 }
 
 .o-flex--2 {
     flex-basis: 47%;
-//    background: #ccc;
 }
 
 @include breakpoint(ml) {
