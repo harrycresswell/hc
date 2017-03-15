@@ -33,9 +33,9 @@ _*This can take place via Skype or in person_.
 
 ### Marketing: Landing page and mailing list
 
-If you have a product or even just an idea for one, then it's time to get it out into the real world and collect some data. This is the a great, low risk way of finding out if your product has potential.
+If you have a product or even just an idea for one, then it's time to get it out in the real world and collect some data. This is the a great, low risk way of finding out if your product has potential.
 
-I'll design and build **a simple one page landing page** and set you up with **a mailing list**, so you can collect emails and start building your customer base.  
+I'll design and build **a simple one page landing page** and set you up with **a mailing list**, so you can collect emails and start building your client leads.  
 
 Remember those old *'coming soon'* pages, sort of like that but super charged with function and filled with purpose.
 
@@ -50,4 +50,4 @@ Whatever it may be, if you want full control of your website and it's user exper
 </div>
 
 
-_Note: These are just a few of the ways I have successfully worked with some of my clients. If your needs don't quite fit within one of these areas no problem. Hit the button above to get a copy of my "Getting Started" PDF. This will help you work out if I'm the right person for the job!_
+_Note: These are just a few of the ways I have successfully worked with some of my clients. If your needs don't quite fit within one of these areas no problem. Hit the button above to get a copy of my "Getting Started" PDF. This will help you work out if I'm really the right person for the job!_

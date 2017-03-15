@@ -3,13 +3,13 @@ Stuff i still need to do..
 
 
 ##pre launch
+- update links in about page
+- fix code highlight shortcode issue
 - apple-touch-icon.png
 - update images in artboards post to reflect spot colour
-- update gulpfile like weartlondon
-- link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)
-
+- create 'welcome to my mailing list email' (consider using zapier to automatic from Gmail)
+- point hc.com to netlify
 - fix testimonial (like typeform blog)
-- create 'welcome to my mailing list email'
 - add basic form validation to zapier form tutorial
 
 
@@ -26,9 +26,7 @@ Stuff i still need to do..
 - consider grey code highlighting http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
 - add reading time https://www.typeform.com/blog/inspiration/15-typeforms-for-customers-success/
 - add a night theme http://demo.lovethemes.co/rw/category/design/
-- fix tags archive page
 - move site to theme folder
-- add scroll indication http://youmightnotneedjs.com/
 - consider gzipping https://css-tricks.com/snippets/htaccess/active-gzip-compression/
 - image grid with photo meta lightbox on landing page?
 - add a testimonials
@@ -41,6 +39,8 @@ Stuff i still need to do..
 
 
 ##complete
+- ~~add scroll indication http://youmightnotneedjs.com/~~
+- ~~link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)~~
 - ~~fix tag, categories and series single page~~
 - ~~set up article resources like
 http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/~~
