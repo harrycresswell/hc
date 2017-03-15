@@ -7,7 +7,7 @@ $('#myForm').submit(function(e){
         data:$('#myForm').serialize(),
         success:function(){
           // Redirect to success page
-          window.location = "http://localhost:1313/success";
+          window.location = "{{ .Site.BaseURL }}success";
         }
     });
 });
