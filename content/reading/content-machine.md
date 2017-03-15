@@ -1,5 +1,6 @@
 +++
-series = "writing"
+series = ["Writing"]
+subjects = ["Content marketing"]
 date = "2016-10-26T21:34:41+01:00"
 rating = "7/10"
 slug = ""
@@ -9,7 +10,6 @@ Author = "Harry Cresswell"
 book_cover = "content-machine.jpg"
 Description = "Use Content Marketing to Build a 7-figure Business With Zero Advertising."
 finished = "2017"
-subjects = "content marketing"
 
 +++
 

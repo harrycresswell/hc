@@ -1,5 +1,6 @@
 +++
-series = "productivity"
+series = ["productivity"]
+subjects = ["Productivity"]
 title = "Deep Work by Cal Newport"
 date = "2016-10-26T21:34:41+01:00"
 slug = ""
@@ -9,7 +10,6 @@ external_link = "http://amzn.eu/5yz9QJw"
 rating = "8/10"
 book_cover = "deep-work.jpg"
 finished = "2016"
-subjects = "Productivity"
 draft = "true"
 
 +++

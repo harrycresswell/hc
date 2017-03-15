@@ -1,7 +1,8 @@
 +++
+series = ["Health"]
+subjects = ["Food", "Farming", "Health", "Sustainability"]
 Description = "A long hard look at the current impact the meat industry is having on the health of humanity and the world we live in."
 Author = "Harry Cresswell"
-series = "Health"
 external_link = "http://amzn.eu/d5XwqO9"
 slug = ""
 book_cover = "eating-animals.jpg"
@@ -9,7 +10,6 @@ rating = "9/10"
 title = "Eating Animals by Jonathan Safran Foer"
 date = "2016-10-26T21:34:41+01:00"
 finished = "2017"
-subjects = "Food, farming, health, sustainability"
 
 +++
 

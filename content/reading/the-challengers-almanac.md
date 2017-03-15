@@ -1,5 +1,6 @@
 +++
-series = "business"
+series = ["Business"]
+subjects = ["Business", "Brands"]
 title = "Lessons from The Challenger's Almanac"
 date = "2016-10-26T21:34:41+01:00"
 slug = ""
@@ -9,7 +10,6 @@ external_link = "http://www.thechallengersalmanac.co.uk/"
 book_cover = "the-challengers-almanac.png"
 rating = "10/10"
 finished = "2016"
-subjects = "Business, brands"
 
 +++
 

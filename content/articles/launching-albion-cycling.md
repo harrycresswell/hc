@@ -3,7 +3,7 @@ date: "2016-04-04"
 title: "Case Study: Albion Cycling"
 author: "Harry Cresswell"
 description: "A client case study: designing and building a Wordpress site with Shopify intergration."
-categories: "case studies"
+topics: ["case study"]
 tags: ["sketch3", "wordpress", "Shopify", "design"]
 featured_image: "http://localhost:1313/images/albion-cycling.jpg"
 spot: "white"

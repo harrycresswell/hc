@@ -1,5 +1,6 @@
 +++
 Author = "Harry Cresswell"
+topics = ["design"]
 tags = ["Sketch", "Design", "code"]
 title = "A better technique for naming Artboards in Sketch"
 date = "2016-10-26T21:34:41+01:00"
@@ -7,7 +8,6 @@ slug = ""
 Description = "If you're trying to design well organised, scaleable applications then you better make sure have a good Artboard naming technique."
 featured_image = "http://localhost:1313/images/naming-artboards-in-sketch-banner-flip.png"
 spot = "red"
-topics = ["design"]
 +++
 
 <p class="message">Disclaimer: this article assumes you know your Artboards from your Text Styles. If you're looking for a primer on how to use Artboards, then I recommend checking out the <a href="https://www.sketchapp.com/learn/documentation/grouping/artboards/">Sketch Documentation</a> before reading this.. it will make a lot more sense!</p>

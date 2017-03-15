@@ -1,4 +1,6 @@
 +++
+series = ["Writing"]
+subjects = ["Content marketing"]
 slug = ""
 Description = "Your go-to guide to creating ridiculously good content."
 date = "2016-10-26T21:34:41+01:00"
@@ -6,8 +8,6 @@ Author = "Harry Cresswell"
 title = "Everybody Writes by Ann Handley"
 rating = "7/10"
 book_cover = "everybody-writes.jpg"
-series = "Writing"
-subjects = "Writing"
 external_link = "http://amzn.eu/eBtAxv4"
 finished = "2016"
 

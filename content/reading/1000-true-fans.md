@@ -1,6 +1,6 @@
 +++
-subject = "creativity"
-series = "business"
+series = ["Business"]
+subjects = ["Creativity"]
 Description = "To be a successful creator you need only thousands of true fans."
 rating = ""
 title = "1,000 true fans"
