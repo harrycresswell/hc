@@ -48,6 +48,7 @@ code, kbd, samp {
     top: -0.05em;
     margin: 0 4px;
     background: #F8F8F8;
+    color: #315082;
 
 }
 
@@ -140,4 +141,9 @@ h3 {
 
 h4 {
   line-height: $line-height-xs;
+}
+
+
+p {
+  margin-top: 1.05rem;
 }
