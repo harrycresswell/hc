@@ -16,6 +16,10 @@
     margin-top: $spacing-unit / 2;
 }
 
+.c-post__author-card {
+  position: relative;
+}
+
 .markdown p {
     margin: $spacing-unit 0;
 }
@@ -34,7 +38,7 @@
 .markdown h3 {
     font-size: $font-size--l;
     font-weight: $font-weight-medium;
-    margin: 60px 0 40px 0;
+    margin: 40px 0 20px 0;
 
     @include breakpoint(xs) {
         font-size: $font-size--l;
