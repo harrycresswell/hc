@@ -3,8 +3,9 @@ Stuff i still need to do..
 
 
 ##pre launch
+- apple-touch-icon.png
 - update images in artboards post to reflect spot colour
-- remove CSS and JS hashing
+- update gulpfile like weartlondon
 - link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)
 
 - fix testimonial (like typeform blog)
@@ -40,6 +41,7 @@ Stuff i still need to do..
 
 
 ##complete
+- ~~fix tag, categories and series single page~~
 - ~~set up article resources like
 http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/~~
 - ~~fix syntax highlighting~~
