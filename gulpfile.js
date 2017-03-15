@@ -18,18 +18,18 @@ gulp.task('scss', function () {
         .pipe(gulp.dest('static/css')) // Write the renamed files
 });
 
-// Pipe JS to static folder
-gulp.task('js', function () {
-    del(['static/js/**/*'])
-    gulp.src('src/js/**/*')
-        .pipe(gulp.dest('static/js'))
-});
-
 // Pipe images to static folder
 gulp.task('images', function () {
     del(['static/images/**/*'])
     gulp.src('src/images/**/*')
         .pipe(gulp.dest('static/images'))
+});
+
+// Pipe JS to static folder
+gulp.task('js', function () {
+    del(['static/js/**/*'])
+    gulp.src('src/js/**/*')
+        .pipe(gulp.dest('static/js'))
 });
 
 // Pipe fonts to static folder
