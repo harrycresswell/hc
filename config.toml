@@ -43,7 +43,7 @@ googleAnalytics = "UA-84736644-1"
   GithubID = "Your Github ID"
   TwitterID = "Your Twitter ID"
 
-[taxonomies]
+[indexes]
   tag = "tags"
-  category = "categories"
+  topic = "topics"
   series = "series"
