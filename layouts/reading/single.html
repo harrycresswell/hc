@@ -28,7 +28,7 @@
                       <div class="u-marginTop-s">
                           {{ if .Params.rating }}<p class="u-font--mono u-marginTop-s">Rating: {{ .Params.rating }}</p>{{ end }}
                           {{ if .Params.finished }}<p class="u-font--mono">Finished: {{ .Params.finished }}</p>{{ end }}
-                          {{ if .Params.subjects }}<p class="u-font--mono">Subjects: {{ .Params.subjects }}</p>{{ end }}
+
                           <p class="u-marginTop-s">
                               <a class="u-font--mono" href="{{ .Params.external_link }}" target="_blank">Find out more</a>
                           </p>
@@ -51,6 +51,11 @@
                 <div class="c-post__content markdown">
                   {{ .Content }}
                 </div>
+
+                <footer class="c-post__footer u-marginTop-l">
+                    {{ partial "lessons/series.html" . }}
+                    {{ partial "post/author.html" . }}
+                </footer>
 
             </div>
         </section>
