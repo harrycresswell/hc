@@ -1,5 +1,6 @@
 +++
 series = ["Business"]
+what = "Article"
 subjects = ["Creativity"]
 Description = "To be a successful creator you need only thousands of true fans."
 rating = ""

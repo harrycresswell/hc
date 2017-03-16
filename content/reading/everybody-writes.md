@@ -1,5 +1,6 @@
 +++
 series = ["Writing"]
+what = "Book Notes"
 subjects = ["Content marketing"]
 slug = ""
 Description = "Your go-to guide to creating ridiculously good content."

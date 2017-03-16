@@ -1,5 +1,6 @@
 +++
 series = ["Health"]
+what = "Book Notes"
 subjects = ["Food", "Farming", "Health", "Sustainability"]
 Description = "A long hard look at the current impact the meat industry is having on the health of humanity and the world we live in."
 Author = "Harry Cresswell"

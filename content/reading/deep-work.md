@@ -1,5 +1,6 @@
 +++
-series = ["productivity"]
+series = ["Productivity"]
+what = "Book Notes"
 subjects = ["Productivity"]
 title = "Deep Work by Cal Newport"
 date = "2016-10-26T21:34:41+01:00"

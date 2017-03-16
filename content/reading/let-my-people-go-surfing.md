@@ -1,5 +1,6 @@
 +++
 date = "2017-01-13T15:46:38Z"
+what = "Book Notes"
 title = "Let My People Go Surfing by Yvon Chouinard"
 series = ["Business"]
 subjects = ["Business", "Ethics", "Environment"]

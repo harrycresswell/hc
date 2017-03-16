@@ -1,5 +1,6 @@
 +++
 series = ["Productivity"]
+what = "Book Notes"
 subjects = ["Productivity", "Success"]
 date = "2016-10-26T21:34:41+01:00"
 Description = "The breakthrough power of lateral thinking."
