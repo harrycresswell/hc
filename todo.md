@@ -3,11 +3,12 @@ Stuff i still need to do..
 
 
 ##pre launch
-- relink featured images
-- update links in about page
 - fix code highlight shortcode issue
-- apple-touch-icon.png
+- make reading pages like articles with hero banner
+- make style guide for spot colours
 - update images in artboards post to reflect spot colour
+- update links in about page
+- apple-touch-icon.png
 - create 'welcome to my mailing list email' (consider using zapier to automatic from Gmail)
 - point hc.com to netlify
 - fix testimonial (like typeform blog)

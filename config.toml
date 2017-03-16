@@ -1,4 +1,4 @@
-baseurl = "http://dancer-development-38716.netlify.com/"
+baseurl = "https://dancer-development-38716.netlify.com/"
 
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -26,19 +26,19 @@ googleAnalytics = "UA-84736644-1"
 [[menu.footer]]
     name = "Articles"
     url = "/articles/"
-    weight = "0"
+    weight = 0
 [[menu.footer]]
     name = "Reading List"
     url = "/reading/"
-    weight = "5"
+    weight = 5
 [[menu.footer]]
     name = "About"
     url = "/about/"
-    weight = "10"
+    weight = 10
 [[menu.footer]]
     name = "Github"
     url = "https://github.com/harrycresswell/"
-    weight = "15"
+    weight = 15
 
 [params]
   Keywords = "keywords go in here"
