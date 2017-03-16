@@ -1,12 +1,17 @@
-baseurl = "https://dancer-development-38716.netlify.com/"
+baseurl = "/"
+
 languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "Harry Cresswell"
+canonifyURLs = true
+metaDataFormat = "toml"
+buildDrafts = false
 
-MetaDataFormat = ""
-theme = ""
-
+# color-codes for highlighting derived from this style
+pygmentsStyle = "monokai"
 pygmentsuseclasses = true
 
+enableEmoji = true
 # Enable comments by entering your Disqus shortname
 disqusShortname = "Your Disqus shortname"
 
@@ -21,19 +26,19 @@ googleAnalytics = "UA-84736644-1"
 [[menu.footer]]
     name = "Articles"
     url = "/articles/"
-    weight = 0
+    weight = "0"
 [[menu.footer]]
     name = "Reading List"
     url = "/reading/"
-    weight = 5
+    weight = "5"
 [[menu.footer]]
     name = "About"
     url = "/about/"
-    weight = 10
+    weight = "10"
 [[menu.footer]]
     name = "Github"
     url = "https://github.com/harrycresswell/"
-    weight = 15
+    weight = "15"
 
 [params]
   Keywords = "keywords go in here"
