@@ -33,8 +33,8 @@ If you’re interested in [working with me](http://localhost:1313/design-consult
 
 ### Recent projects
 
-- [Albion Cycling – British cycling gear for all sorts of weather](http://www.albioncycling.com/). *Read more about this project [here](http://localhost:1313/articles/case-study-albion-cycling/).*
-- [We Art London — All the latest art exhibitions directly to your inbox ](http://www.weartlondon.com/) *Read more about the project [here](http://www.)*
+- [Albion Cycling – British cycling gear for all sorts of weather](http://www.albioncycling.com/).
+- [We Art London — All the latest art exhibitions directly to your inbox ](http://www.weartlondon.com/)
 
 
 ### Other things i've made
