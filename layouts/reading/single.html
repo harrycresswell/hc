@@ -4,7 +4,7 @@
     <section>
         <div class="o-wrap">
             <header class="u-marginTop-l">
-                <a href="{{ .Site.BaseURL }}/reading/" class="c-nav__link u-font--mono u-link--bare">← Return</a>
+                {{ if .Params.what }}<a href="{{ .Site.BaseURL }}/reading/" class="c-nav__link u-font--mono u-link--bare">{{ .Params.what }}</a>{{ end }}
                 <h1 class="u-h1 u-marginTop-l">{{ .Title }}</h1>
                 {{ if .Params.description }}<h2 class="u-h4 u-marginTop-m u-font--normal">{{ .Params.description }}</h2>{{ end }}
             </header>
@@ -16,7 +16,7 @@
 
     <section class="o-section">
       <div class="o-wrap">
-          <a href="{{ .Site.BaseURL }}/reading" class="c-nav__link u-font--mono u-link--bare">← Return</a>
+          {{ if .Params.what }}<a href="{{ .Site.BaseURL }}/reading" class="c-nav__link u-font--mono u-link--bare">{{ .Params.what }}</a>{{ end }}
           <header class="u-marginTop-l">
               <h1 class="u-h1">{{ .Title }}</h1>
               <div class="o-flex u-marginTop-m">
