@@ -6,7 +6,7 @@ date = "2017-03-06T21:34:41+01:00"
 slug = ""
 Description = "A simple way to receive form data directly to your email using Zapier. No server side code nonsense required."
 Author = "Harry Cresswell"
-featured_image = "http://localhost:1313/images/zapier-contact-form.png"
+featured_image = "zapier-contact-form.png"
 spot = "cyan"
 
 +++
@@ -81,15 +81,13 @@ For the purpose of this tutorial our form will have two input fields — one for
 
 The end result should look something like this:
 
-{{<highlight html>}}
-
+{{< highlight html >}}
 <form id="myForm" action="#" type="POST">
   <input type="text" name="full-name" placeholder="What's your name?">
   <input type="email" name="email-address" placeholder="What's your email address?">
   <input type="submit" value="Submit" id="Form-submit"/>
 </form>
-
-{{</highlight>}}
+{{</ highlight >}}
 
 Let's break this down. First make sure you give your form a suitable `id`.
 ```
@@ -170,13 +168,11 @@ Your form should now look something like this:
 
 
 {{<highlight html>}}
-
 <form id="myForm" action="https://hooks.zapier.com/hooks/catch/1707140/mfwz91/" type="POST">
   <input type="text" name="full-name" placeholder="What's your name?">
   <input type="email" name="email-address" placeholder="What's your email address?">
   <input type="submit" value="Submit" id="Form-submit"/>
 </form>
-
 {{</highlight>}}
 
 
@@ -246,17 +242,14 @@ We can do this with a few lines of Ajax.
 Before the closing `</body>` tag in the footer of your page, load a copy of jQuery.
 
 {{<highlight html>}}
-
 <!-- Load jquery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-
 {{</highlight>}}
 
 Beneath that you will need the following Javascript:
 
 
 {{<highlight js>}}
-
 // POST form data to zapier on submit
 $('#myForm').submit(function(e){
     e.preventDefault();
@@ -271,7 +264,6 @@ $('#myForm').submit(function(e){
     });
 });
 
-
 {{</highlight>}}
 
 Make sure you replace the webhook URL with the one Zapier generated for you and the redirect URL with the page you want the submitted form to redirect to. For this example i've just used Google which is probably not what you want.
@@ -281,13 +273,11 @@ Finally, let's head back to our form and remove the `action=""` and `type=""` at
 The HTML for our form should now look something like this:
 
 {{<highlight html>}}
-
 <form id="myForm">
   <input type="text" name="full-name" placeholder="What's your name?">
   <input type="email" name="email-address" placeholder="What's your email address?">
   <input type="submit" value="Submit" id="Form-submit"/>
 </form>
-
 {{</highlight>}}
 
 

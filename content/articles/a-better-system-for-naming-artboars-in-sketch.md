@@ -6,7 +6,7 @@ title = "A better technique for naming Artboards in Sketch"
 date = "2016-10-26T21:34:41+01:00"
 slug = ""
 Description = "If you're trying to design well organised, scaleable applications then you better make sure have a good Artboard naming technique."
-featured_image = "http://localhost:1313/images/naming-artboards-in-sketch-banner-flip.png"
+featured_image = "naming-artboards-in-sketch-banner-flip.png"
 spot = "red"
 +++
 
