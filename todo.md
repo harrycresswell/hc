@@ -3,6 +3,7 @@ Stuff i still need to do..
 
 
 ##pre launch
+- relink featured images
 - update links in about page
 - fix code highlight shortcode issue
 - apple-touch-icon.png
