@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://dancer-development-38716.netlify.com/"
 
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -13,7 +13,7 @@ pygmentsuseclasses = true
 
 enableEmoji = true
 # Enable comments by entering your Disqus shortname
-disqusShortname = "Your Disqus shortname"
+# disqusShortname = "Your Disqus shortname"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-84736644-1"
