@@ -11,7 +11,9 @@ spot = "cyan"
 
 +++
 
-Have you ever felt overwhelmed by the amount of server side code it takes to get a simple contact form working on a website site? I know I have. I'm still trying to forget the number of hours i've spent in _dev monkey mode_, fumbling around late at night with PHP, not really knowing what hell I was doing. 😡
+Have you ever felt overwhelmed by the amount of server side code it takes to get a simple contact form working on a website?
+
+I'm still trying to forget the number of hours i've spent in _dev monkey mode_, fumbling around late at night with PHP, not really knowing what hell I was doing. 😡
 
 What a bore. It should be easier right?
 
