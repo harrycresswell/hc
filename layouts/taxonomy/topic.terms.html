@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<main role="main" class="o-section">
+      <div class="o-wrap">
+          <header class="u-marginTop-l">
+              <span class="c-post__meta u-font--mono">:-P</span>
+               <h1 class="u-h1 u-marginTop-l">{{ .Title }}</h1>
+          </header>
+          <section class="u-marginTop-l">
+            <ul class="c-list">
+              {{ $data := .Data }}
+              {{ range $key, $value := .Data.Terms.Alphabetical }}
+                <li><a href="{{ $value.Name | urlize }}">{{ $value.Name }}</a> {{ $value.Count }}</li>
+              {{ end }}
+            </ul>
+          </section>
+      </div>
+</main>
+
+{{ partial "footer.html" . }}
