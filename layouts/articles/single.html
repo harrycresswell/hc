@@ -9,7 +9,7 @@
                 {{ if .Params.description }}<h2 class="u-h4 u-marginTop-m u-font--mono u-color-body">{{ .Params.description }}</h2>{{ end }}
             </header>
         </div>
-        <div class="o-header-cover u-marginTop-xl" style="background-image: url({{ index .Params "featured_image" }}); background-repeat: no-repeat; background-position: center;"></div>
+        <div class="o-header-cover u-marginTop-xl" style="background-image: url({{ .Site.BaseURL }}images/{{ index .Params "featured_image" }}); background-repeat: no-repeat; background-position: center;"></div>
     </section>
 
       {{else}}
