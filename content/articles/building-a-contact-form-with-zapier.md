@@ -1,5 +1,5 @@
 +++
-tags = ["Automation", "Zapier", "Code", "Design"]
+tags = ["Automation", "Zapier", "Static sites", "Design"]
 topics = ["code"]
 title = "Building a simple contact form for your static site with Zapier "
 date = "2017-03-06T21:34:41+01:00"
@@ -13,9 +13,9 @@ spot = "cyan"
 
 Have you ever felt overwhelmed by the amount of server side code it takes to get a simple contact form working on a website?
 
-I'm still trying to forget the number of hours i've spent in _dev monkey mode_, fumbling around late at night with PHP, not really knowing what hell I was doing. 😡
+I'm still trying to forget the number of hours i've spent in _dev monkey mode_, fumbling around late at night with PHP, not really knowing what hell I was doing.
 
-What a bore. It should be easier right?
+What a bore. It should be easier right? :rage:
 
 In this article we’re going to look at how to build a super simple contact form using [Zapier](https://zapier.com/). Forget about the server side code — php i'm looking at you — because our form doesn't need it.
 
@@ -83,13 +83,13 @@ For the purpose of this tutorial our form will have two input fields — one for
 
 The end result should look something like this:
 
-{{< highlight html >}}
+```
 <form id="myForm" action="#" type="POST">
   <input type="text" name="full-name" placeholder="What's your name?">
   <input type="email" name="email-address" placeholder="What's your email address?">
   <input type="submit" value="Submit" id="Form-submit"/>
 </form>
-{{</ highlight >}}
+```
 
 Let's break this down. First make sure you give your form a suitable `id`.
 ```
@@ -164,18 +164,18 @@ Zapier then generates a custom webhook URL. Copy this URL to your clipboard. We 
 
 ### Update form with webhook URL and test
 
-Head back to your form and replace the # symbol in `action="#"` with the webhook URL Zapier just generated for you.
+Head back to your form and replace the **#** symbol in `action="#"` with the webhook URL Zapier just generated for you.
 
 Your form should now look something like this:
 
 
-{{<highlight html>}}
-<form id="myForm" action="https://hooks.zapier.com/hooks/catch/1707140/mfwz91/" type="POST">
+```
+<form id="myForm" action="https://hooks.zapier.com/hooks/catch/1707140/msf6zi/" type="POST">
   <input type="text" name="full-name" placeholder="What's your name?">
   <input type="email" name="email-address" placeholder="What's your email address?">
   <input type="submit" value="Submit" id="Form-submit"/>
 </form>
-{{</highlight>}}
+```
 
 
 Now we need to test our form to see if it's working. Fill out your form and hit submit.
@@ -243,15 +243,15 @@ We can do this with a few lines of Ajax.
 
 Before the closing `</body>` tag in the footer of your page, load a copy of jQuery.
 
-{{<highlight html>}}
+```
 <!-- Load jquery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-{{</highlight>}}
+```
 
 Beneath that you will need the following Javascript:
 
 
-{{<highlight js>}}
+```
 // POST form data to zapier on submit
 $('#myForm').submit(function(e){
     e.preventDefault();
@@ -265,8 +265,7 @@ $('#myForm').submit(function(e){
         }
     });
 });
-
-{{</highlight>}}
+```
 
 Make sure you replace the webhook URL with the one Zapier generated for you and the redirect URL with the page you want the submitted form to redirect to. For this example i've just used Google which is probably not what you want.
 
@@ -274,13 +273,13 @@ Finally, let's head back to our form and remove the `action=""` and `type=""` at
 
 The HTML for our form should now look something like this:
 
-{{<highlight html>}}
+```
 <form id="myForm">
   <input type="text" name="full-name" placeholder="What's your name?">
   <input type="email" name="email-address" placeholder="What's your email address?">
   <input type="submit" value="Submit" id="Form-submit"/>
 </form>
-{{</highlight>}}
+```
 
 
 ## Wrapping up
