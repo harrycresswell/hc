@@ -19,8 +19,10 @@ I tried a *"real job"* in Insurance after graduating, but quit in 2010 to focus 
 
 I now spend my time between London and Hamburg, where **I work remotely** with a handful of clients.
 
+When i'm not at my desk I enjoy **screen printing, painting, yoga, climbing and hiking**. I'm constantly learning and experiencing new things; German being my lasted endeavour.
 
-{{< img class="image-wrapper" src="about-me.jpg" caption="This is me!" >}}
+
+{{< img class="image-wrapper" src="about-me.jpg" caption="Hi nice to meet you." >}}
 
 ## Where to go next
 
@@ -40,6 +42,8 @@ If you’re interested in [working with me](http://localhost:1313/design-consult
 ### Other things i've made
 
 - [In Detail – Visual interviews with jewellery collectors and influencers](https://indtl.com/). *I co-founded and continue to work on In Detail with jewellery expert [Beanie Major](http://blake-ldn.com/journal/2016/11/8/blake-woman-beanie-major).*
+- [On Display – International fashion week reportage](http://ondsply.co/).
+_This was a project I pursued from 2013 - 2016. It took me from New York, to London, then onto Milan and finally Paris for 2 months of the year._
 
 
 ## How I made this site
