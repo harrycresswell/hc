@@ -2,20 +2,21 @@
 Stuff i still need to do..
 
 
-##pre launch
-- fix code highlight shortcode issue
+##urgent
+- consider http://cloudinary.com/ for image handling
 - make reading pages like articles with hero banner
 - make style guide for spot colours
 - update images in artboards post to reflect spot colour
-- update links in about page
 - apple-touch-icon.png
 - create 'welcome to my mailing list email' (consider using zapier to automatic from Gmail)
 - point hc.com to netlify
 - fix testimonial (like typeform blog)
 - add basic form validation to zapier form tutorial
+- create post captures dependent on topic and hook up to mailing list segments
 
 
-##post launch
+##sometime soon
+- Move hosting to allow for pygments syntax highlighting
 - fix responsive cover image
 - load responsive images https://internetingishard.com/html-and-css/responsive-images/
 - is SEO set up correctly http://blog.el-chavez.me/2015/11/26/go-hugo-seo/
@@ -24,7 +25,7 @@ Stuff i still need to do..
 - check analytics is working
 
 
-##future
+##future ideas
 - consider grey code highlighting http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
 - add reading time https://www.typeform.com/blog/inspiration/15-typeforms-for-customers-success/
 - add a night theme http://demo.lovethemes.co/rw/category/design/
