@@ -8,14 +8,16 @@ metaDataFormat = "toml"
 buildDrafts = false
 
 # color-codes for highlighting derived from this style
-pygmentsStyle = "monokai"
-pygmentsuseclasses = true
+#pygmentsStyle = "monokai"
+#pygmentsuseclasses = true
 
+# Because why the hell not
 enableEmoji = true
-# Enable comments by entering your Disqus shortname
-# disqusShortname = "Your Disqus shortname"
 
-# Enable analytics by entering your Google Analytics tracking ID
+# Enable Disqus by removing comments
+#disqusShortname = "harrycresswell"
+
+# Enable analytics
 googleAnalytics = "UA-84736644-1"
 
 [permalinks]
@@ -41,12 +43,10 @@ googleAnalytics = "UA-84736644-1"
     weight = 15
 
 [params]
-  Keywords = "keywords go in here"
+  Keywords = "UX Design, UI Design, Front-end Development, Small businesses, Automation"
   Description = "Helping small businesses grow — using design, code and photography."
   Location = "London, UK"
   Email = "studio@harrycresswell.com"
-  GithubID = "Your Github ID"
-  TwitterID = "Your Twitter ID"
 
 [indexes]
   tag = "tags"
