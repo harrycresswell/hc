@@ -6,13 +6,13 @@ title = "A better technique for naming Artboards in Sketch"
 date = "2016-10-26T21:34:41+01:00"
 slug = ""
 Description = "If you're trying to design well organised, scaleable applications then you better make sure have a good Artboard naming technique."
-featured_image = "naming-artboards-in-sketch-banner-flip.png"
-spot = "red"
+featured_image = "naming-artboards-in-sketch-banner.png"
+spot = "yellow"
 +++
 
 <p class="message">Disclaimer: this article assumes you know your Artboards from your Text Styles. If you're looking for a primer on how to use Artboards, then I recommend checking out the <a href="https://www.sketchapp.com/learn/documentation/grouping/artboards/">Sketch Documentation</a> before reading this.. it will make a lot more sense!</p>
 
-I think we can all agree Artboards are an essential part of any workflow. :alien:
+I think we can all agree Artboards are an essential part of any workflow. 
 
 
 What doesn’t seem to get much of a mention — in the Artboard conversation — is the best way to name your Artboards. And in particular, naming Artboards when designing large, scaleable applications.
@@ -54,7 +54,7 @@ Does this sound familiar:
 A good naming system will allow your project to scale without any major problems. If some time in the future you need to update the sequence by adding an Artboard into the flow, then you need a system which will prevent you from having to go back to re-name the sequence of every other Artboard in your entire document — all because you added a new one.
 
 
-{{< img class="image-wrapper" src="naming-artboards-overview.png" caption="There's a better way.." >}}
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-01.png" caption="There's a better way.." >}}
 
 
 ## A better way to name your screen
@@ -74,7 +74,7 @@ A written version of the sequence will then follow the numbers. This will give y
 
 Let’s break the sequence down and take a look at the 4 different levels so you understand exactly what each level means:
 
-{{< img class="image-wrapper" src="naming-artboards-breakpoint.png" caption="There's a better way.." >}}
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-02.png" caption="There's a better way.." >}}
 
 ### Level 1: Defining the screen resolution
 
@@ -84,7 +84,7 @@ In this example we are designing the layout up to a breakpoint of 1200px as it�
 
 If you prefer to use a more descriptive text based term, you could use ‘M. for Mobile’ or ‘D. for Desktop’, referring each time to a specific device.
 
-{{< img class="image-wrapper" src="naming-artboards-flow.png" caption="There's a better way.." >}}
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-03.png" caption="There's a better way.." >}}
 
 ### Level 2: Defining a particular flow
 
@@ -94,7 +94,7 @@ The second number in the sequence corresponds to the section or particular flow 
 
 Flows contain contain multiple Artboards these Artboards are the ‘Stages’. I’m getting a head of myself here — on to level 3…
 
-{{< img class="image-wrapper" src="naming-artboards-stage.png" caption="There's a better way.." >}}
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-04.png" caption="There's a better way.." >}}
 
 ### Level 3: Defining the Stage in a Flow
 
@@ -109,7 +109,7 @@ If we then wanted to design the stage for shipping details we would then go up o
 `1200.2.2. – Breakpoint — Checkout — Shipping Details`
 
 
-{{< img class="image-wrapper" src="naming-artboards-state.png" caption="There's a better way.." >}}
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-05.png" caption="There's a better way.." >}}
 
 ### Level 4: Defining the state of stage
 The forth and final number in the sequence corresponds to the different state of that particular stage.
