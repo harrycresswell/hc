@@ -4,15 +4,17 @@ topics = ["design"]
 tags = ["Sketch", "Design", "code"]
 title = "A better technique for naming Artboards in Sketch"
 date = "2016-10-26T21:34:41+01:00"
-slug = ""
+slug = "artboards-in-sketch"
 Description = "If you're trying to design well organised, scaleable applications then you better make sure have a good Artboard naming technique."
 featured_image = "naming-artboards-in-sketch-banner.png"
 spot = "yellow"
 +++
 
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-banner.png" caption="There's a better way.." >}}
+
 <p class="message">Disclaimer: this article assumes you know your Artboards from your Text Styles. If you're looking for a primer on how to use Artboards, then I recommend checking out the <a href="https://www.sketchapp.com/learn/documentation/grouping/artboards/">Sketch Documentation</a> before reading this.. it will make a lot more sense!</p>
 
-I think we can all agree Artboards are an essential part of any workflow. 
+I think we can all agree Artboards are an essential part of any workflow.
 
 
 What doesn’t seem to get much of a mention — in the Artboard conversation — is the best way to name your Artboards. And in particular, naming Artboards when designing large, scaleable applications.

@@ -3,13 +3,15 @@ tags = ["Automation", "Zapier", "Static sites", "Design"]
 topics = ["code"]
 title = "Building a simple contact form for your static site with Zapier "
 date = "2017-03-06T21:34:41+01:00"
-slug = ""
+slug = "contact-form-with-zapier"
 Description = "A simple way to receive form data directly to your email using Zapier. No server side code nonsense required."
 Author = "Harry Cresswell"
 featured_image = "zapier-contact-form.png"
 spot = "cyan"
 
 +++
+
+{{< img class="image-wrapper" src="zapier-contact-form.png" >}}
 
 Have you ever felt overwhelmed by the amount of server side code it takes to get a simple contact form working on a website?
 
