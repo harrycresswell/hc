@@ -3,14 +3,12 @@ Stuff i still need to do..
 
 
 ##urgent
-- consider http://cloudinary.com/ for image handling
-- make reading pages like articles with hero banner
-- make style guide for spot colours
-- update images in artboards post to reflect spot colour
-- apple-touch-icon.png
 - create 'welcome to my mailing list email' (consider using zapier to automatic from Gmail)
-- point hc.com to netlify
-- fix testimonial (like typeform blog)
+- fix slug issue in posts
+- consider http://cloudinary.com/ for image handling
+- make style guide for spot colours
+- apple-touch-icon.png
+- redesign blockquotes (like typeform blog)
 - add basic form validation to zapier form tutorial
 - create post captures dependent on topic and hook up to mailing list segments
 
@@ -21,7 +19,6 @@ Stuff i still need to do..
 - fix responsive cover image
 - load responsive images https://internetingishard.com/html-and-css/responsive-images/
 - is SEO set up correctly http://blog.el-chavez.me/2015/11/26/go-hugo-seo/
-- https
 - fix meta for fb and twitter
 - check analytics is working
 
@@ -43,6 +40,8 @@ Stuff i still need to do..
 
 
 ##complete
+- ~~https~~
+- ~~point hc.com to netlify~~
 - ~~add scroll indication http://youmightnotneedjs.com/~~
 - ~~link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)~~
 - ~~fix tag, categories and series single page~~
