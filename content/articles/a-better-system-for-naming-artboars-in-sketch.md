@@ -16,7 +16,6 @@ spot = "yellow"
 
 I think we can all agree Artboards are an essential part of any workflow.
 
-
 What doesn’t seem to get much of a mention — in the Artboard conversation — is the best way to name your Artboards. And in particular, naming Artboards when designing large, scaleable applications.
 
 In this article i’m going to look at why a good Artboard naming system is important and then run through the current workflow i’m using to name my Artboards.
