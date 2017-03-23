@@ -71,6 +71,11 @@
     margin: 50px 0 30px 0%;
     height: auto;
     position: relative;
+
+    @include breakpoint(xs) {
+        max-width: 120%;
+        margin: 0 0 0 -10%;
+    }
 }
 
 .markdown .image-caption {
