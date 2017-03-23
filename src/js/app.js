@@ -7,7 +7,7 @@ $('#myForm').submit(function(e){
         data:$('#myForm').serialize(),
         success:function(){
           // Redirect to success page
-          window.location = "{{ .Site.BaseURL }}success";
+          window.location = "https://www.harrycresswell.com/success";
         }
     });
 });
