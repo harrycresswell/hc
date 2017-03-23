@@ -55,13 +55,12 @@ code, kbd, samp {
 pre {
     font-family: 'Roboto Mono', monospace;
     white-space: pre;
-    color: $color-white;
     font-size: 0.9em;
     word-wrap: normal;
     border-radius: 4px;
     overflow: auto;
     padding: 20px 28px;
-    background-color: $color-dark;
+    background-color: #F0F0F0;
     @include breakpoint(ml) {
       margin-right: -$spacing-unit;
       margin-left:  -$spacing-unit;
