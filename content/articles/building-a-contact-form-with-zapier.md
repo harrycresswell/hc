@@ -11,15 +11,13 @@ spot = "cyan"
 
 +++
 
-{{< img class="image-wrapper" src="zapier-contact-form.png" >}}
+{{< img class="image-wrapper" src="zapier-contact-form.png" caption="Processing forms the easy way... with Zapier" >}}
 
 Have you ever felt overwhelmed by the amount of server side code it takes to get a simple contact form working on a website?
 
-I'm still trying to forget the number of hours i've spent in _dev monkey mode_, fumbling around late at night with PHP, not really knowing what hell I was doing.
+Part of the reason I built this website as a static site was because I didn't want the added hassle of having a server to manage. Servers make processing form data complicated. We don't need that.
 
-What a bore. It should be easier right? :rage:
-
-In this article we’re going to look at how to build a super simple contact form using [Zapier](https://zapier.com/). Forget about the server side code — php i'm looking at you — because our form doesn't need it.
+In this article we’re going to look at how to build a simple contact form using [Zapier](https://zapier.com/). Forget about the server side code — php i'm looking at you — because our form doesn't need it.
 
 Instead we'll be using Zapier, and a little something called Webhooks to collect the data submitted in our form. We'll then set up an automated email which sends us an email containing the data.
 

@@ -27,12 +27,12 @@ When I'm not at my desk i'm probably out hiking, climbing or taking pictures.
 
 ## Where to go next
 
-There are a few places to go from here. You can [read some of my articles](http://localhost:1313/articles/) or [check out my reading list](http://localhost:1313/reading/) where I keep notes on the things I'm learning.
+There are a few places to go from here. You can [read some of my articles](https://www.harrycresswell.com/articles/) or [check out my reading list](https://www.harrycresswell.com/reading/) where I keep notes on the things I'm learning.
 
 You can also follow me on [Twitter](https://twitter.com/harrycresswell) or see my full resume on [LinkedIn](https://uk.linkedin.com/in/harrycresswell
 ).
 
-If you’re interested in [working with me](http://localhost:1313/design-consulting/), you might be interested in a few recent projects i've worked on:
+If you’re interested in [working with me](https://www.harrycresswell.com/design-consulting/), you might be interested in a few recent projects i've worked on:
 
 ### Recent projects
 
@@ -63,6 +63,6 @@ All the code can be found on my [github](https://github.com/harrycresswell/hc) p
 
 If you made it this far, then thanks a lot. I appreciate you taking the time to look at my website. I hope you enjoyed what you've been reading.
 
-If you wish to read more, <a href ="http://localhost:1313/#newsletter">i'd like your email address</a> so I can send you **articles that’ll help to improve your solo business**.
+If you wish to read more, <a href ="https://www.harrycresswell.com/#newsletter">i'd like your email address</a> so I can send you **articles that’ll help to improve your solo business**.
 
 I only send one email a week, on a Sunday evening. So it will be ready, waiting for you to read when you hit the grind on a Monday morning.
