@@ -16,6 +16,7 @@ Stuff i still need to do..
 
 
 ##sometime soon
+- change syntax to light http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
 - Move hosting to allow for pygments syntax highlighting
 - fix responsive cover image
 - load responsive images https://internetingishard.com/html-and-css/responsive-images/
