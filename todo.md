@@ -3,6 +3,7 @@ Stuff i still need to do..
 
 
 ##urgent
+- add tutorial demo to github and link to in zapier tutorial
 - create 'welcome to my mailing list email' (consider using zapier to automatic from Gmail)
 - fix slug issue in posts
 - consider http://cloudinary.com/ for image handling
@@ -11,26 +12,18 @@ Stuff i still need to do..
 - redesign blockquotes (like typeform blog)
 - add basic form validation to zapier form tutorial
 - create post captures dependent on topic and hook up to mailing list segments
-
-
-##sometime soon
-- change syntax to light http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
-- Move hosting to allow for pygments syntax highlighting
-- fix responsive cover image
-- load responsive images https://internetingishard.com/html-and-css/responsive-images/
 - is SEO set up correctly http://blog.el-chavez.me/2015/11/26/go-hugo-seo/
 - fix meta for fb and twitter
-- check analytics is working
 
-
-##future ideas
+##ideas
+- Move hosting to allow for pygments syntax highlighting
+- load responsive images https://internetingishard.com/html-and-css/responsive-images/
+- change syntax to light http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
 - consider grey code highlighting http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
 - add reading time https://www.typeform.com/blog/inspiration/15-typeforms-for-customers-success/
 - add a night theme http://demo.lovethemes.co/rw/category/design/
 - move site to theme folder
 - consider gzipping https://css-tricks.com/snippets/htaccess/active-gzip-compression/
-- image grid with photo meta lightbox on landing page?
-- add a testimonials
 - add section type for resources and build a list view
 - add sourcemaps and linting to gulpfile
 
@@ -40,6 +33,7 @@ Stuff i still need to do..
 
 
 ##complete
+- ~~check analytics is working~~
 - ~~https~~
 - ~~point hc.com to netlify~~
 - ~~add scroll indication http://youmightnotneedjs.com/~~
