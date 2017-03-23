@@ -7,7 +7,7 @@ description = "About this website"
 
 If you are here for the first time, I made this site as a place to share my experience of **designing and coding websites**.
 
-You will also find me writing about **building a successful solo business around your lifestyle**. That means a business of one, where you are in charge. I figured I probably have a few tips seeing as I've done it myself.
+You will find me writing about useful topics such as **design, development and marketing**. A few of the essential skills it takes to **build a successful solo business around your lifestyle**.
 
 I'm also using it as a place to store my notes on **everything I'm learning from books, articles and various other material**. Hopefully you might pick up some useful lessons whilst you're here.
 
@@ -19,9 +19,11 @@ I tried a *"real job"* in Insurance after graduating, but in 2010 I quit to focu
 
 My **mission for 2017** is to utilise my **background in art** (which I often neglect) combined with my skills as a developer to help others achieve their goals.
 
-Right now i'm living between London and Hamburg where **I work remotely** with a handful of clients. When i'm not at my desk I enjoy **screen printing, painting, yoga, climbing and hiking**.
+Right now i'm living between London and Hamburg where **I work remotely** with a handful of clients.
 
-{{< img class="image-wrapper" src="about-me.jpg" caption="Hi nice to meet you." >}}
+When I'm not at my desk i'm probably out hiking, climbing or taking pictures.
+
+{{< img class="image-wrapper" src="about-me.jpg" caption="Hi, nice to meet you." >}}
 
 ## Where to go next
 

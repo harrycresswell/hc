@@ -45,7 +45,7 @@ Do you need **a bespoke Wordpress site** (that's your very own unique theme buil
 
 Whatever it may be, if you want full control of your website and it's user experience, then I can design and build a full website experience for you and your audience.
 
-<div class="c-button-wrap u-align-center">
+<div class="c-button-wrap">
   <a href="/contact"><span class="c-button c-button--primary">Let's work together</span></a>
 </div>
 
