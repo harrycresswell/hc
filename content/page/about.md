@@ -17,7 +17,7 @@ I started teaching myself design and code in 2006 whilst I was studying art.
 
 I tried a *"real job"* in Insurance after graduating, but in 2010 I quit to focus on **making websites for a living**. I quickly realised my time was better spent doing something I enjoyed — helping people solve problems with design.
 
-My **mission for 2017** is to utilise my **background in art** (which I often neglect) combined with my skills as a developer to help others achieve their goals.
+My **mission for 2017** is to utilise my **background in art** (which I often neglect) — combined with my skills as a developer — to help others achieve their goals.
 
 Right now i'm living between London and Hamburg where **I work remotely** with a handful of clients.
 
@@ -63,6 +63,6 @@ All the code can be found on my [github](https://github.com/harrycresswell/hc) p
 
 If you made it this far, then thanks a lot. I appreciate you taking the time to look at my website. I hope you enjoyed what you've been reading.
 
-If you wish to read more, <a href ="https://www.harrycresswell.com/#newsletter">i'd like your email address</a> so I can send you **articles that’ll help to improve your solo business**.
+If you wish to read more, <a href ="https://www.harrycresswell.com/newsletter">i'd like your email address</a> so I can send you **articles that’ll help to improve your solo business**.
 
 I only send one email a week, on a Sunday evening. So it will be ready, waiting for you to read when you hit the grind on a Monday morning.
