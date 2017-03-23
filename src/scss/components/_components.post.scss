@@ -68,17 +68,16 @@
 .markdown img {
     position: relative;
     max-width: 150%;
-    margin: 50px 0 10px -25.5%;
+    margin: 50px 0 30px 0%;
     height: auto;
     position: relative;
 }
 
 .markdown .image-caption {
     color: $color-grey;
-    /*border-left: 2px solid $color-light;
+    border-left: 2px solid $color-light;
     padding-left: $spacing-unit / 2;
-    margin: 10px 0 10px -25.5%;*/
-    text-align: center;
+    margin: 10px 0 10px 0%;
 
     @include breakpoint(xs) {
         max-width: 100%;
