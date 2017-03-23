@@ -49,7 +49,7 @@ _This was a project I pursued from 2013 - 2016. It took me from New York, to Lon
 
 ## How I made this site
 
-For those who are interested in how I built this site, here's a quick overview:
+For the geeks out there, here's a quick overview of how I built this site:
 
 I'm using [Hugo](https://gohugo.io/), a lightening fast static site engine. It's hosted for free on [Github](https://github.com/harrycresswell/hc).
 
