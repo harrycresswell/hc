@@ -1,8 +1,9 @@
----
-title: "design consulting"
-date: "2016-10-23T21:47:14+01:00"
-description: "Let's make your business better. Together."
----
++++
+title = "design consulting"
+date = "2016-10-23T21:47:14+01:00"
+description = "Let's make your business better. Together."
+
++++
 
  I'm here to help you bring your project to life. If you're aiming to grow your business online I can help you:
 
