@@ -1,19 +1,35 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>{{ .Title }}</title>
 
     {{ with .Site.Params.Keywords }}<meta name="keywords" content="{{.}}">{{ end }}
-    {{ with .Site.Params.Description }}<meta name="description" content="{{.}}">{{ end }}
+    {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+    {{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    {{ .Hugo.Generator }}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {{ if not .Site.Params.OpenGraph.hide }}
+		<meta name="og:site_name" content="{{ .Site.Title }}">
+		<meta name="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+		<meta name="og:url" content="{{ .Permalink }}">
+		<meta name="og:image" content="{{ .Site.BaseURL }}images/hc.jpg">
+		{{ end }}
+
+		{{ .Hugo.Generator }}
+
+
+    <!-- canonical link tag -->
+    <link rel="canonical" href="{{ .Permalink }}"/>
 
     <!-- RSS -->
+    {{ if .RSSLink }}
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-
-    <link rel="canonical" href="{{ .Permalink }}">
+    <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+    {{ end }}
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico" type="image/x-icon">
