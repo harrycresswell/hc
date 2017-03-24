@@ -6,6 +6,11 @@ canonifyURLs = true
 metaDataFormat = "toml"
 buildDrafts = false
 
+[author]
+    name = "Harry Cresswell"
+    email = "harry@harrycresswell.com"
+
+
 # color-codes for highlighting derived from this style
 #pygmentsStyle = "monokai"
 #pygmentsuseclasses = true
@@ -20,8 +25,8 @@ enableEmoji = true
 googleAnalytics = "UA-84736644-1"
 
 [permalinks]
-    articles = "/:section/:title/"
-    reading = "/:section/:title/"
+    articles = "/:section/:slug/"
+    reading = "/:section/:slug/"
     page = "/:title/"
 
 [[menu.footer]]
@@ -43,9 +48,9 @@ googleAnalytics = "UA-84736644-1"
 
 [params]
   Keywords = "UX Design, UI Design, Front-end Development, Small businesses, Automation"
-  Description = "Helping small businesses grow — using design, code and photography."
+  Description = "Helping small teams and solo businesses grow — using design, code and photography."
   Location = "London, UK"
-  Email = "studio@harrycresswell.com"
+  Email = "harry@harrycresswell.com"
 
 [indexes]
   tag = "tags"
