@@ -3,36 +3,35 @@ Stuff i still need to do..
 
 
 ##urgent
-- add tutorial demo to github and link to in zapier tutorial
-- create 'welcome to my mailing list email' (consider using zapier to automatic from Gmail)
-- fix slug issue in posts
-- consider http://cloudinary.com/ for image handling
-- make style guide for spot colours
-- apple-touch-icon.png
-- redesign blockquotes (like typeform blog)
-- add basic form validation to zapier form tutorial
-- create post captures dependent on topic and hook up to mailing list segments
-- is SEO set up correctly http://blog.el-chavez.me/2015/11/26/go-hugo-seo/
-- fix meta for fb and twitter
+- create 'welcome to my mailing list email' (consider using zapier to automate a Gmail response)
+- make images responsive. consider making dynamic with http://cloudinary.com/
+- create data capture shortcodes dependent on post topic and hook up to mailing list segments
+- improve SEO http://blog.el-chavez.me/2015/11/26/go-hugo-seo/
+- fix meta for fb, twitter, open graph etc
+- fix site wrapper so it doesn't cut off images
 
 ##ideas
-- Move hosting to allow for pygments syntax highlighting
+- make style guide for spot colours
+- move to domain `https://hcr.es`
+- make `www` redirect to `harrycresswell.com`
 - load responsive images https://internetingishard.com/html-and-css/responsive-images/
 - change syntax to light http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
 - consider grey code highlighting http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
 - add reading time https://www.typeform.com/blog/inspiration/15-typeforms-for-customers-success/
-- add a night theme http://demo.lovethemes.co/rw/category/design/
+- Move hosting to allow for pygments syntax highlighting
 - move site to theme folder
 - consider gzipping https://css-tricks.com/snippets/htaccess/active-gzip-compression/
 - add section type for resources and build a list view
 - add sourcemaps and linting to gulpfile
 
 
-##resources
-- [this](https://github.com/IvanChou/hugo-theme-vec) is helpful
-
+##wild ideas
+- add a night theme http://demo.lovethemes.co/rw/category/design/
 
 ##complete
+- ~~fix slug issue in posts~~
+- ~~redesign blockquotes~~
+- ~~add tutorial demo to github and link to in zapier tutorial~~
 - ~~check analytics is working~~
 - ~~https~~
 - ~~point hc.com to netlify~~
