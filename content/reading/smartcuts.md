@@ -9,7 +9,7 @@ external_link = "http://amzn.eu/5yStQ1M"
 rating = "8/10"
 finished = "2016"
 book_cover = "smartcuts.jpg"
-slug = ""
+slug = "smartcuts"
 Author = "Harry Cresswell"
 
 +++

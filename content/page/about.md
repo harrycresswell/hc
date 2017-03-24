@@ -32,7 +32,7 @@ There are a few places to go from here. You can [read some of my articles](https
 You can also follow me on [Twitter](https://twitter.com/harrycresswell) or see my full resume on [LinkedIn](https://uk.linkedin.com/in/harrycresswell
 ).
 
-If you’re interested in [working with me](https://www.harrycresswell.com/design-consulting/), you might be interested in a few recent projects i've worked on:
+If you’re interested in [working with me](https://www.harrycresswell.com/design-consulting/), you might like to check out a few recent projects i've been working on:
 
 ### Recent projects
 
@@ -45,6 +45,7 @@ If you’re interested in [working with me](https://www.harrycresswell.com/desig
 - [In Detail – Visual interviews with jewellery collectors and influencers](https://indtl.com/). *I co-founded and continue to work on In Detail with jewellery expert [Beanie Major](http://blake-ldn.com/journal/2016/11/8/blake-woman-beanie-major).*
 - [On Display – International fashion week reportage](http://ondsply.co/).
 _This was a project I pursued from 2013 - 2016. It took me from New York, to London, then onto Milan and finally Paris for 2 months of the year._
+- [Dark Sky](https://soundcloud.com/harrycresswell). _For the past few years i've created all the artwork for Dark Sky's releases_.
 
 
 ## How I made this site

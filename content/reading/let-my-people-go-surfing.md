@@ -9,7 +9,7 @@ Description = "A philosophical handbook for the employees of legendary outdoor b
 book_cover = "let-my-people-go-surfing-by-yvon-chouinard.jpg"
 external_link = "http://amzn.eu/d9VdWrE"
 finished = "2017"
-slug = ""
+slug = "surfing"
 rating = "9/10"
 draft = "true"
 +++

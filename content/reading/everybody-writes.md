@@ -2,7 +2,7 @@
 series = ["Writing"]
 what = "Book Notes"
 subjects = ["Content marketing"]
-slug = ""
+slug = "everybody-writes"
 Description = "Your go-to guide to creating ridiculously good content."
 date = "2016-10-26T21:34:41+01:00"
 Author = "Harry Cresswell"

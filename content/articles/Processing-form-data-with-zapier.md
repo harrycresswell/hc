@@ -64,20 +64,23 @@ With Zapier our form can trigger any series of automated occurrences we want and
 
 As cool as this stuff is, it's not something I’ll get into in any more detail now. Hopefully you can still appreciate the potential power Zapier can bring to a contact form.
 
-So now you have my reasons for going with Zapier, let's get on with building this form.
 
 ## Building the form
 
-Before we jump into it, let's first take a moment to break down what we would like to do. Here are the steps:
+We're almost ready to start building our form, but first lets take a moment to break down what we would like to do. Here are the steps:
 
 - Build a simple HTML form for our static website.
 - Collect the data submitted and store it in a URL using a Zapier Webhook.
 - Use Zapier to automagically send us the data in an email when someone submits the form.
 - Finally, redirect the user to a success page after they complete the form.
 
+Before we start the build, you might want to jump [over here](https://www.harrycresswell.com/contact/) to see a real world example of how i've implemented this technique.
+
 ## Step 1: Writing the HTML
 
 Let’s take a look at the HTML we’re going to use to build the form.
+
+<p class="message">If you're feeling lazy you can get hold of the source code for this tutorial on <a href="https://github.com/harrycresswell/zapier-contact-form">github</a>.</p>
 
 For the purpose of this tutorial our form will have two input fields — one for a name and one for an email address — and a button to submit the data.
 
@@ -164,7 +167,7 @@ Zapier then generates a custom webhook URL. Copy this URL to your clipboard. We 
 
 ### Update form with webhook URL and test
 
-Head back to your form and replace the **#** symbol in `action="#"` with the webhook URL Zapier just generated for you.
+Head back to your form and replace the **#** symbol in `action="#"` with the Webhook URL Zapier just generated for you.
 
 Your form should now look something like this:
 
@@ -180,7 +183,7 @@ Your form should now look something like this:
 
 Now we need to test our form to see if it's working. Fill out your form and hit submit.
 
-If all went well your browser window should be redirected to the Zapier webhook URL. You'll see a string of data. Something like this:
+If all went well your browser window should be redirected to the Zapier Webhook URL. You'll see a string of data. Something like this:
 
 ```
 {"status": "success", "attempt": "58b94713-f62a-4f1b-a418-9a4a992774c0", "id": "a0139409-2c05-4adb-a33c-111dd0e3e895", "request_id": "Nx5Ew2eUJxPBY1p5"}
@@ -288,15 +291,27 @@ In this article we've looked at building a form and using Zapier to process the 
 
 We haven't had to use any server side code or pay for a form provider in order to get this working. A great solution for use on a static website.
 
+### Validation
+
 Something I haven’t tackled in this article is form validation. Validating your form with success or error prompts would require some extra Javascript and a bit more HTML markup, but it's perfectly possible.
+
+However you might find a very basic bit of validation is enough. By adding the `required` attribute to the end of any required form elements, you can ensure the form submitter is warned of those fields that are required, in order to submit the form.
+
+```
+<input type="email" name="email-address" required>
+```
+
+This will prevent a user from submitting your form without inputting the necessary data.
+
+### Taking it further
 
 Although I only used a first name and an email address in this example, you might want to process a whole lot more data with your form. Just remember to include a `name` attribute on every form element in order for Zapier to catch the data.
 
 I hope this has been a helpful introduction into using Zapier to process form data on static sites. You can find all the resources I used for this technique below.
 
-If you want to grab the source code from this tutorial you can get hold of that on [github](http://github.com/).
+<p class="message">If you want to grab the source code from this tutorial you can get hold of that on <a href="https://github.com/harrycresswell/zapier-contact-form">github</a>.</p>
 
-As always if you have any questions, [drop me a tweet](https://twitter.com/harrycresswell), i'd be happy to help.
+If you have any questions or problems with this method then [drop me a tweet](https://twitter.com/harrycresswell), i'd be happy to help.
 
 <hr/>
 
