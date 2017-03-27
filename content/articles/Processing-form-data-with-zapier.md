@@ -13,15 +13,15 @@ spot = "cyan"
 
 {{< img class="image-wrapper" src="zapier-contact-form.png" caption="Processing forms the easy way... with Zapier" >}}
 
-Have you ever felt overwhelmed by the amount of server side code it takes to get a simple contact form working on a website?
+<p class="intro">Have you ever felt overwhelmed by the amount of server side code it takes to get a simple contact form working on a website?</p>
 
-Part of the reason I built this website as a static site was because I didn't want the added hassle of having a server to manage. Servers make processing form data complicated. We don't need that.
+<p class="intro">Part of the reason I made my site static was because I didn't want the added hassle of having a server to manage. Servers make processing form data complicated. We don't need that.</p>
 
 In this article we’re going to look at how to build a simple contact form using [Zapier](https://zapier.com/). Forget about the server side code — php i'm looking at you — because our form doesn't need it.
 
 Instead we'll be using Zapier, and a little something called Webhooks to collect the data submitted in our form. We'll then set up an automated email which sends us an email containing the data.
 
-If your building a static website with a generator like Jekyll, Hugo, Middleman or even just in vanilla HTML, then this is a great solution to get a form working on your site with minimal fuss.
+**If your building a static website with a generator like Jekyll, Hugo, Middleman or even just in vanilla HTML, then this is a great solution to get a form working on your site with minimal fuss.**
 
 Sounds simple right? The good news... it is.
 
