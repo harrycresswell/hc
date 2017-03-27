@@ -1,0 +1,36 @@
+.c-signup {
+  height: 100vh;
+}
+
+.c-signup__sidebar {
+  background: #181818;
+  color: $color-white;
+  padding: 30px;
+  text-align: center;
+
+  @include breakpoint(ml) {
+    padding: 160px 60px;
+  }
+}
+
+.c-signup__content {
+    padding: 30px;
+    overflow: scroll;
+    @include breakpoint(ml) {
+      padding: 60px;
+    }
+}
+
+.c-signup__logo {
+  font-family: $secondary-font-family;
+
+  font-size: $font-size--xxl;
+  line-height: $line-height-l;
+  color: $color-white;
+  letter-spacing: 3px;
+
+  @include breakpoint(ml) {
+      font-size: 80px;
+      line-height: 100px;
+  }
+}
