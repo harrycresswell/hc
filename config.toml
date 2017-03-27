@@ -42,8 +42,8 @@ googleAnalytics = "UA-84736644-1"
     url = "/about/"
     weight = 10
 [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/harrycresswell/"
+    name = "Newsletter"
+    url = "/newsletter/"
     weight = 15
 
 [params]
