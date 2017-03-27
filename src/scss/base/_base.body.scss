@@ -18,11 +18,9 @@ body {
 }
 
 ::-moz-selection {
-    color: $color-white;
-    background: lighten($color-brand, 5%);
+    background: #FFFFE0;
 }
 
 ::selection {
-    color: $color-white;
-    background: lighten($color-brand, 5%);
+    background: #FFFFE0;
 }
