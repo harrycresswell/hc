@@ -24,7 +24,7 @@
     margin: $spacing-unit 0;
 }
 
-.markdown p.intro {
+.markdown p.intro, p.intro {
     font-size: $font-size--l;
     line-height: $line-height-xl;
 }
