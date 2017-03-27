@@ -32,7 +32,16 @@
   color: $color-white !important;
   border-bottom: 1px dotted $color-white !important;
   padding: 0 0 2px 0 !important;
-  border: none !important;
+
+  &:focus, &:visited {
+    border: 1px dotted $color-white !important;
+  }
+
+  &:hover {
+    border-bottom: 1px solid $color-white !important;
+    color: $color-white !important;
+    text-decoration: none !important;
+  }
 }
 
 .u-link--brand {
