@@ -3,6 +3,7 @@ Stuff i still need to do..
 
 
 ##urgent
+- design newsletter landing page
 - create 'welcome to my mailing list email' (consider using zapier to automate a Gmail response)
 - make images responsive. consider making dynamic with http://cloudinary.com/
 - create data capture shortcodes dependent on post topic and hook up to mailing list segments
