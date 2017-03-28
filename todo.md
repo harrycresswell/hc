@@ -3,15 +3,15 @@ Stuff i still need to do..
 
 
 ##urgent
-- design newsletter landing page
+- fix site wrapper so it doesn't cut off images
 - create 'welcome to my mailing list email' (consider using zapier to automate a Gmail response)
+- design main email template https://goo.gl/Qh3utb
 - make images responsive. consider making dynamic with http://cloudinary.com/
-- create data capture shortcodes dependent on post topic and hook up to mailing list segments
 - improve SEO http://blog.el-chavez.me/2015/11/26/go-hugo-seo/
 - fix meta for fb, twitter, open graph etc
-- fix site wrapper so it doesn't cut off images
 
 ##ideas
+- add archive and social proof to newsletter landing
 - make style guide for spot colours
 - move to domain `https://hcr.es`
 - make `www` redirect to `harrycresswell.com`
@@ -30,6 +30,7 @@ Stuff i still need to do..
 - add a night theme http://demo.lovethemes.co/rw/category/design/
 
 ##complete
+- ~~design newsletter landing page~~
 - ~~fix slug issue in posts~~
 - ~~redesign blockquotes~~
 - ~~add tutorial demo to github and link to in zapier tutorial~~
