@@ -7,9 +7,9 @@ layout = "signup"
 
 +++
 
-<p class="intro u-color-heading">A hand-picked selection of useful tools and articles, directly to your inbox every Friday.</p>
+<h2 class="u-h3">A hand-picked selection of useful tools and articles, directly to your inbox every Friday.</h2>
 
-Brain&mdash;tactics is a brief, once-a-week newsletter with an assortment of products and articles for anyone building a solo business. **Join 6,237 other readers** and make your Friday's fun again.
+Brain&mdash;tactics is a brief, once-a-week newsletter with an assortment of products and articles for anyone building a solo business.
 
 <div class="u-marginTop-m"><form action="//harrycresswell.us14.list-manage.com/subscribe/post?u=4e8fba8d0ab4a857159c0104e&amp;id=d6ad2b65ca" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
       <label class="u-visually-hidden" for="mce-EMAIL">Email Address</label>
