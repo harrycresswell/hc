@@ -9,7 +9,7 @@
   text-align: center;
 
   @include breakpoint(ml) {
-    padding: 160px 60px;
+    padding: 180px 60px;
   }
 }
 
@@ -30,7 +30,7 @@
   letter-spacing: 3px;
 
   @include breakpoint(ml) {
-      font-size: 80px;
-      line-height: 100px;
+      font-size: 60px;
+      line-height: 80px;
   }
 }
