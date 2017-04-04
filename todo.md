@@ -3,6 +3,7 @@ Stuff i still need to do..
 
 
 ##urgent
+- add fade in and feat image transition to post
 - fix site wrapper so it doesn't cut off images
 - create 'welcome to my mailing list email' (consider using zapier to automate a Gmail response)
 - design main email template https://goo.gl/Qh3utb
