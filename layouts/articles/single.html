@@ -3,10 +3,10 @@
 
     <section>
       <div class="o-wrap">
-            <header class="u-marginTop-l">
+            <header class="u-marginTop-l u-align-center">
                 <time class="c-post__meta u-font--mono">{{ .Date.Format "Mon Jan 2, 2006" }}</time>
-                <h1 class="u-h1 u-marginTop-l">{{ .Title }}</h1>
-                {{ if .Params.description }}<h2 class="u-h4 u-marginTop-m u-font--mono u-color-body">{{ .Params.description }}</h2>{{ end }}
+                <h1 class="u-h1 u-marginTop-m">{{ .Title }}</h1>
+                {{ if .Params.description }}<h2 class="u-h4 u-marginTop-m u-font--normal u-color-body">{{ .Params.description }}</h2>{{ end }}
             </header>
         </div>
     </section>
@@ -37,8 +37,9 @@
     </main>
 </article>
 
+<div class="o-wrap">
 {{ partial "newsletter.html" . }}
-
+</div>
 {{ partial "navigation.html" . }}
 
 {{ partial "footer.html" . }}
