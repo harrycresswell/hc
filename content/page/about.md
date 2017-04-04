@@ -7,9 +7,9 @@ description = "About this website"
 
 If you are here for the first time, I made this site as a place to share my experience of **designing and coding websites**.
 
-You will find me writing about useful topics such as **design, development and marketing**. A few of the essential skills it takes to **build a successful solo business around your lifestyle**.
+You will find me writing about useful topics such as **design, development and marketing**. A few of the essential skills it takes to **build a successful solo business**.
 
-I'm also using it as a place to store my notes on **everything I'm learning from books, articles and various other material**. Hopefully you might pick up some useful lessons whilst you're here.
+I'm also using it as a place to document my design process, build useful tools, and record **everything I'm learning from books, articles and various other material**. Hopefully you might pick up some useful lessons whilst you're here.
 
 ## A little more about me
 
@@ -17,11 +17,11 @@ I started teaching myself design and code in 2006 whilst I was studying art.
 
 I tried a *"real job"* in Insurance after graduating, but in 2010 I quit to focus on **making websites for a living**. I quickly realised my time was better spent doing something I enjoyed — helping people solve problems with design.
 
-My **mission for 2017** is to utilise my **background in art** (which I often neglect) — combined with my skills as a developer — to help others achieve their goals.
+My **mission for 2017** is to utilise my **background in art and printmaking** (which I often neglect) — combined with my skills as a developer — to help others achieve their goals.
 
 Right now i'm living between London and Hamburg where **I work remotely** with a handful of clients.
 
-When I'm not at my desk i'm probably out hiking, climbing or taking pictures.
+If I'm not at my desk i'm probably out hiking, climbing or taking pictures.
 
 {{< img class="image-wrapper" src="about-me.jpg" caption="Hi, nice to meet you." >}}
 
