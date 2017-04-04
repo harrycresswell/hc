@@ -11,7 +11,7 @@
 }
 
 @import url(https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:400,,500);
-@import url(https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i);
+//@import url(https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i);
 //@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
 
 // Base
@@ -34,8 +34,8 @@ $font-weight-medium:  500;
 
 // Font size scale
 $font-size--xxl: 2.8em;  // 43px
-$font-size--xl: 1.789em;  // 34px
-$font-size--l: 1.368em;   // 26px
+$font-size--xl: 2em;  // 34px
+$font-size--l: 1.5em;   // 26px
 $font-size--m: $base-font-size;   // 19x
 $font-size--s: 0.737em;   // 14px
 
