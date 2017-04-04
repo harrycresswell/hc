@@ -8,6 +8,7 @@ slug = "artboards-in-sketch"
 Description = "If you're trying to design well organised, scaleable applications then you better make sure have a good Artboard naming technique."
 featured_image = "naming-artboards-in-sketch-banner.png"
 spot = "yellow"
+draft = "true"
 +++
 
 {{< img class="image-wrapper" src="naming-artboards-in-sketch-banner.png" caption="There's a better way.." >}}
