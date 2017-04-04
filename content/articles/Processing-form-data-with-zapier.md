@@ -1,10 +1,10 @@
 +++
 tags = ["Automation", "Zapier", "Static sites", "Design"]
 topics = ["code"]
-title = "Processing form data on your static site with Zapier "
+title = "Processing form data using Zapier "
 date = "2017-03-06T21:34:41+01:00"
 slug = "form-data-with-zapier"
-Description = "A simple way to receive form data directly to your email using Zapier. No server side code nonsense required."
+Description = "A simple way to receive form data directly to your email using Zapier"
 Author = "Harry Cresswell"
 featured_image = "zapier-contact-form.png"
 spot = "cyan"
