@@ -17,7 +17,7 @@
                         <span class="c-post__tags">
                             {{ $baseurl := .Site.BaseURL }}
                             {{ range .Params.tags }}
-                              <a class="nav-link u-font--mono" href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a>
+                              <a class="nav-link u-font--mono u-link--natural" href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a>
                             {{ end }}
                           </span>
                       </div>
