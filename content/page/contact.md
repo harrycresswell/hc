@@ -1,7 +1,7 @@
 +++
 date = "2017-02-27T16:52:03+01:00"
 title = "contact"
-description = "Let's find out if we're a good fit."
+description = "Let's find out if we're a good fit for your new project."
 
 +++
 
