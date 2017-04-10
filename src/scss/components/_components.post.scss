@@ -27,6 +27,11 @@
 .markdown p.intro, p.intro {
     font-size: $font-size--l;
     line-height: $line-height-xl;
+
+    @include breakpoint(xs) {
+        font-size: 1.2em;
+        line-height: $line-height-xl;
+    }
 }
 
 .markdown h2 {
