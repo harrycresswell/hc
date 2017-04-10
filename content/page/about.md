@@ -60,10 +60,8 @@ I'm using the CDN [Netlify](https://www.netlify.com/) for continuous deployment,
 
 All the code can be found on my [github](https://github.com/harrycresswell/hc) page. Use it for your own learning and development but please don't just rip it off. If you have any questions [drop me an email](mailto:studio@harrycresswell.com) or a [tweet](https://twitter.com/harrycresswell). I'd be more than happy to help.
 
-## Thanks
+## Let's keep in touch
 
-If you made it this far, then thanks a lot. I appreciate you taking the time to look at my website. I hope you enjoyed what you've been reading.
+If you made it this far, then thanks a lot. I appreciate you taking the time to look at my website.
 
-If you wish to read more, <a href ="https://www.harrycresswell.com/newsletter">i'd like your email address</a> so I can send you **articles that’ll help to improve your solo business**.
-
-I only send one email a week, on a Sunday evening. So it will be ready, waiting for you to read when you hit the grind on a Monday morning.
+If you'd like to keep in touch, head over to my newsletter page and <a href ="https://www.harrycresswell.com/newsletter">leave your email address</a>. I'll send you some great **articles that’ll help to improve your solo business**. I send out one email a week, every Friday morning.
