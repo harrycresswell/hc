@@ -14,7 +14,7 @@ Brain&mdash;tactics is a brief, once-a-week newsletter with an assortment of pro
 <div class="u-marginTop-m"><form action="//harrycresswell.us14.list-manage.com/subscribe/post?u=4e8fba8d0ab4a857159c0104e&amp;id=d6ad2b65ca" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
       <label class="u-visually-hidden" for="mce-EMAIL">Email Address</label>
       <input class="c-form c-form__input" name="EMAIL" placeholder="Enter your email..." type="email">
-      <input name="LOCATION" value="{{ .Title }}" type="hidden" id="mce-LOCATION">
+      <input name="LOCATION" value="newsletter landing page" type="hidden" id="mce-LOCATION">
       <div id="mce-responses" class="clear">
         <div class="response" id="mce-error-response" style="display:none"></div>
         <div class="response" id="mce-success-response" style="display:none"></div>
