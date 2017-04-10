@@ -12,7 +12,7 @@ Author = "Harry Cresswell"
 
 {{< img class="image-wrapper" src="naming-artboards-in-sketch-cover.jpg" >}}
 
-<p class="intro">How do you name your Artboards?</p> <p class="intro">It's probably not something you get asked all too often or give much thought. Maybe, like me, your too busy nesting symbols and getting your head around Auto Layout.</p>
+<p class="intro">How do you name your Artboards?</p> <p class="intro">It's probably not something you get asked all too often, or even give much thought. Maybe, like me, your too busy nesting symbols and getting your head around Auto Layout.</p>
 
 I don't suppose i've totally worked this one out, but I've arrived at a particular technique for naming Artboards in Sketch. I noticed not all that much has been written about the topic so I figured it was time to share my method. **The technique is best suited to Responsive Web Design (RWD)**. That being said, if your focus is on design for mobile the principles still remain the same and it should work just as well.
 
@@ -28,21 +28,21 @@ We're designers. We like to be organised.
 
 Nobody wants to fire open a sketch file in 6 months time and find a mess of arbitrarily named Artboards. I for one don't. It pays to be organised, and that goes for your Artboards too.
 
-We want to know exactly what state, in what stage, of what flow any given Artboard belongs to. We need a system that is quick to understand — by anyone in our team — and efficient in its implementation. No nonsense. Minimal fuss.
+We want to be able to know exactly what state, in what stage, of what flow any given Artboard belongs to. We need a system that is quick to understand — by anyone in our team — and efficient in its implementation. No nonsense. Minimal fuss.
 
-I'm sure we can all agree this:
+I'm sure we can all agree that an organsied sketch file like this:
 
-[Sketch Overview of  well organised Artboards and Pages]
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-organised.jpg" caption="A well organised Sketch file" >}}
 
-Is better than this:
+Is a much better solution than the mess of artboards in this:
 
-[Sketch Overview of unorganised Artboards and Pages]
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-unorgansied.jpg" caption="A badly organised Sketch file" >}}
 
 ## Scalability
 
-Does it scale? We're not talking about front end frameworks here (let's leave that for another one), we're trying to solve that problem you have when you need to add in an extra step (or stage) to a flow you created a while back. Does your system allow you to tak on an extra Artboard — anywhere in the sequence —, without you having to go through and rename the rest of your Artboards to keep the sequence in order.
+Does it scale? We're not talking about front end frameworks here (let's leave that for another one), we're trying to solve that problem you have when you need to add in an extra step (or stage) to a flow you created a while back. Does your system allow you to add in extra Artboards — anywhere in the sequence — without you having to go through and rename the rest of your Artboards to maintain order.
 
-[GIF showing how you can add in another Artboard into a sequence at any point]
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-organised-2.jpg" caption="Another well organised Sketch file" >}}
 
 ## Communication
 
@@ -50,9 +50,11 @@ In most cases the design process tends to involve a few more people than just on
 
 Does the rest of our team understand what's going on in our Sketch file?
 
-Ok, maybe they wont be poking around in Sketch but the problems will start to show when your prototyping in a tool like Invison. Unless your working on a side project, your team, your client or whoever will need to feedback on your designs. Yeah they can comment on Invision, but all too often you need a way to verbally discuss an Artboard.  Giving your team a quick and easy way to reference Artboards will make your life a lot easier, particularly as your project grows.  We like our team right? Let's keep them happy.
+Ok, maybe our team wont be poking around in our Sketch files but the problems will start to show when you start using a prototyping tool like Invison. Unless your working on a side project, your team, your client or whoever will need to feedback on your designs. Yeah they can comment on Invision, but all too often you need a simple way to verbally discuss an Artboard.  
 
-[ Screengrab of well organised Invision project]
+Giving your team a quick and easy way to reference Artboards will make your life a lot easier, particularly as your project grows.  We like our team right? Let's try and keep them happy.
+
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-invision.jpg" >}}
 
 Ok enough of the reasoning, i'm sure you get the idea by now. Let's look take a look at the system and explain how it works.
 
