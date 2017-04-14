@@ -15,7 +15,7 @@ spot = "cyan"
 
 <p class="intro">Have you ever felt overwhelmed by the amount of server side code it takes to get a simple contact form working on a website?</p>
 
-<p class="intro">Part of the reason I made my site static was because I didn't want the added hassle of having a server to manage. Servers make processing form data complicated. We don't need that.</p>
+<p class="intro">Part of the reason I built this site static was because I didn't want the added hassle of having a server to manage. Servers make processing form data complicated. We don't need that for simple sites.</p>
 
 In this article we’re going to look at how to build a simple contact form using [Zapier](https://zapier.com/). Forget about the server side code — php i'm looking at you — because our form doesn't need it.
 
