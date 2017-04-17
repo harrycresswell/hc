@@ -13,17 +13,19 @@ spot = "cyan"
 
 {{< img class="image-wrapper" src="zapier-contact-form.png" caption="Processing forms the easy way... with Zapier" >}}
 
-<p class="intro">Have you ever felt overwhelmed by the amount of server side code it takes to get a simple contact form working on a website?</p>
+<p class="intro">Have you ever felt overwhelmed by the amount of code it takes to get a simple contact form working on a website?</p>
 
-<p class="intro">Part of the reason I built this site static was because I didn't want the added hassle of having a server to manage. Servers make processing form data complicated. We don't need that for simple sites.</p>
+<p class="intro">Part of the reason I built my site static was because I didn't want the hassle of having a to deal with a database, a server and PHP. Dealing with all that stuff adds a layer of complexity to a website, particularly when it comes to processing form data — so if it's not a necessity i'd rather avoid it.</p>
 
-In this article we’re going to look at how to build a simple contact form using [Zapier](https://zapier.com/). Forget about the server side code — php i'm looking at you — because our form doesn't need it.
+But where do you even start with processing form data on a static site?
 
-Instead we'll be using Zapier, and a little something called Webhooks to collect the data submitted in our form. We'll then set up an automated email which sends us an email containing the data.
+At times the options can feel limited, like the only way is to pay for a form provider and embed a form into your site. Whilst there's nothing wrong with this solution you might want to consider another way, which you have full control over and you don't have to pay for.
+
+[On this site](https://www.harrycresswell.com/contact/) i'm using [Zapier](https://zapier.com/) to collect form data and send it directly to my email. No servers, not databases, no PHP. In this article we’ll look at how you can use the same technique to build a simple contact form for your own website, using Zapier's Webhooks to collect data submitted and automatically send it to you in an email.
 
 **If your building a static website with a generator like Jekyll, Hugo, Middleman or even just in vanilla HTML, then this is a great solution to get a form working on your site with minimal fuss.**
 
-Sounds simple right? The good news... it is.
+The good news is it's pretty simple to implement and it's free.
 
 ## Why Zapier
 
