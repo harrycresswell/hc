@@ -11,16 +11,13 @@
 }
 
 @import url(https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:400,,500);
-//@import url(https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i);
-//@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
 
 // Base
-//$base-font-family: 'Noto Serif', serif;
 $base-font-family: "acumin-pro",sans-serif;
-$base-font-size:   21px;
+$base-font-size:   20px;
 $base-line-height: 1.800em;
 $base-font-weight: 400;
-$base-line-height: 41px;
+$base-line-height: 36px;
 
 // Secondary
 $secondary-font-family: 'Roboto Mono', monospace;
@@ -34,8 +31,8 @@ $font-weight-medium:  500;
 
 // Font size scale
 $font-size--xxl: 2.476em;  // 52px
-$font-size--xl: 1.619em;  // 34px
-$font-size--l: 1.238em;   // 26px
+$font-size--xl: 1.810em;  // 38px
+$font-size--l: 1.429em;   // 30px
 $font-size--m: $base-font-size;   // 21x
 $font-size--s: 0.667em;   // 14px
 

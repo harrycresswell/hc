@@ -8,6 +8,7 @@
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
+    margin: 0 auto;
     @extend %clearfix;
 
     @include breakpoint(ml) {
