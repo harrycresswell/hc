@@ -6,7 +6,7 @@ body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     background-color: $color-white;
     color: $color-body;
-    /*-webkit-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
     -o-font-feature-settings: "kern" 1;
@@ -14,7 +14,7 @@ body {
     font-kerning: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    -webkit-tap-highlight-color: transparent*/
+    -webkit-tap-highlight-color: transparent
 }
 
 ::-moz-selection {
