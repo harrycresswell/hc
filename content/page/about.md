@@ -19,11 +19,9 @@ I tried a *"real job"* in Insurance after graduating, but in 2010 I quit to focu
 
 My **mission for 2017** is to utilise my **background in art and printmaking** (which I often neglect) — combined with my skills as a developer — to help others achieve their goals.
 
-Right now i'm living between London and Hamburg where **I work remotely** with a handful of clients.
+Right now i'm living between London and Hamburg where **I work remotely** with a handful of clients. When I'm not at my desk I enjoy hiking, climbing and taking pictures.
 
-If I'm not at my desk i'm probably out hiking, climbing or taking pictures.
-
-{{< img class="image-wrapper" src="about-me.jpg" caption="Hi, nice to meet you." >}}
+{{< img class="image-wrapper" src="about-me.jpg" caption="This is me! It's nice to meet you." >}}
 
 ## Where to go next
 
@@ -58,10 +56,10 @@ The CSS is written in [Sass](http://sass-lang.com/), and follows the [BEM](https
 
 I'm using the CDN [Netlify](https://www.netlify.com/) for continuous deployment, so when I push changes to Github it automatically deploys the live site.
 
-All the code can be found on my [github](https://github.com/harrycresswell/hc) page. Use it for your own learning and development but please don't just rip it off. If you have any questions [drop me an email](mailto:studio@harrycresswell.com) or a [tweet](https://twitter.com/harrycresswell). I'd be more than happy to help.
+All the code can be found on my [github](https://github.com/harrycresswell/hc) page. Use it for your own learning and development but please don't just rip it off. If you have any questions [drop me an email](mailto:studio@harrycresswell.com) or a [tweet](https://twitter.com/harrycresswell/). I'd be more than happy to help.
 
 ## Let's keep in touch
 
 If you made it this far, then thanks a lot. I appreciate you taking the time to look at my website.
 
-If you'd like to keep in touch, head over to my newsletter page and <a href ="https://www.harrycresswell.com/newsletter">leave your email address</a>. I'll send you some great **articles that’ll help to improve your solo business**. I send out one email a week, every Friday morning.
+If you'd like to keep in touch, head over to my newsletter page and <a href ="https://www.harrycresswell.com/newsletter/">leave your email address</a>. I'll send you some great **articles that’ll help to improve your solo business**. I send out one email a week, every Friday morning.
