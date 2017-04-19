@@ -2,7 +2,7 @@
 featured_image = ""
 topics = ["design"]
 tags = ["Sketch", "Design", "code"]
-title = "An Artboard naming system for Responsive Web Design"
+title = "Naming Artboards for Responsive Web Design"
 date = "2017-04-02T21:34:41+01:00"
 slug = "artboards"
 Description = "How to name your artboards for scaleable, maintainable Sketch projects"
