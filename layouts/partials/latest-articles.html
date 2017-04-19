@@ -13,13 +13,13 @@
                         </a>
                     </h3>
                     <div class="u-marginTop-s">
-                        <time class="c-post__meta u-font--mono u-color-grey">{{ .Date.Format "Mon Jan 2, 2006" }} &mdash; </time>
-                        <span class="c-post__tags">
+                        <time class="c-post__meta u-font--mono u-color-grey">{{ .Date.Format "Mon Jan 2, 2006" }}</time>
+                        <!--<span class="c-post__tags">
                             {{ $baseurl := .Site.BaseURL }}
                             {{ range .Params.tags }}
                               <a class="nav-link u-font--mono u-link--natural u-color-grey" href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a>
                             {{ end }}
-                          </span>
+                          </span>-->
                       </div>
                 </article>
             {{ end }}
