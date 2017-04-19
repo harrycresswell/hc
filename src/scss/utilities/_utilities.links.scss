@@ -18,7 +18,7 @@
   text-decoration: none !important;
 
   &:focus, &:visited {
-    border: none !important;
+    border-bottom: 1px dotted $color-dark !important;
   }
 
   &:hover {
