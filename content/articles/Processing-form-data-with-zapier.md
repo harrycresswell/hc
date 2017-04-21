@@ -1,7 +1,7 @@
 +++
 tags = ["Automation", "Zapier", "Static sites", "Design"]
 topics = ["code"]
-title = "Sending form data by email with Zapier"
+title = "Using Zapier to send form data by email"
 date = "2017-03-06T21:34:41+01:00"
 slug = "form-data-with-zapier"
 Description = "A simple way to receive form data directly to your email using Zapier"
