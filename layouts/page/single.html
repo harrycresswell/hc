@@ -3,7 +3,7 @@
 <section class="o-section">
     <div class="o-wrap">
         <header class="u-marginTop-l">
-                <a href="{{ .Site.BaseURL }}" class="u-font--mono u-link--bare">&larr; Return</a>
+            <a href="{{ .Site.BaseURL }}" class="u-font--mono u-link--bare">&larr; Return</a>
         </header>
     </div>
 </section>
@@ -13,10 +13,12 @@
         <section class="u-marginTop-l">
             <h1 class="u-h1">{{ .Params.description }}</h1>
         </section>
-        <section class="c-post u-marginTop-m">
-            <div class="c-post__content markdown">
-              {{ .Content }}
-            </div>
+        <section class="c-post">
+          <div class="u-marginTop-m">
+              <div class="c-post__content markdown">
+                {{ .Content }}
+              </div>
+          </div>
         </section>
     </div>
 </main>
