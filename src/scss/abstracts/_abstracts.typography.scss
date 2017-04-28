@@ -30,18 +30,18 @@ $font-weight-regular: 400;
 $font-weight-medium:  500;
 
 // Font size scale
-$font-size--xxl: 2.476em;  // 52px
-$font-size--xl: 2.000em;  // 40px
-$font-size--l: 1.429em;   // 30px
-$font-size--m: $base-font-size;   // 21x
-$font-size--s: 0.667em;   // 14px
+$font-size--xxl: 2.476em;  // 52px ÷ 20 = 2.476
+$font-size--xl: 2.000em;  // 40px ÷ 20 = 2.000
+$font-size--l: 1.429em;   // 30px ÷ 20 = 1.429
+$font-size--m: $base-font-size;   // 20px ÷ 20 = 1
+$font-size--s: 0.667em;   // 14px ÷ 20 = 0.667
 
 // Line height scale
-$line-height-xl: 1.700em;
-$line-height-l: 1.500em;
+$line-height-xl: 1.7;
+$line-height-l: 1.5;
 $line-height-m: $base-line-height; // 41x/1.952em
-$line-height-s: 1.400em;
-$line-height-xs: 1.200em;
+$line-height-s: 1.4;
+$line-height-xs: 1.2;
 
 // Spacing
 $spacing-unit:     30px;
