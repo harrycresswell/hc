@@ -10,7 +10,7 @@ Author = "Harry Cresswell"
 
 +++
 
-{{< img class="image-wrapper" src="naming-artboards-in-sketch-cover.jpg" >}}
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-organised-albion.png" >}}
 
 <p class="intro">How do you name your Artboards?</p> <p class="intro">It's probably not something you get asked all too often.</p>
  <p class="intro">Naming Artboards might not be the most exciting subject, but non the less, it's an important one. If it's not already, a solid Artboard naming system should be a critical part of your design process.</p>
@@ -35,17 +35,17 @@ So the point is this; we want to be able to know exactly what state, in what sta
 
 I'm sure you'll agree with me here. The sketch file below — where the Artboards are clearly named and numbered — will be easier to manage than the Sketch file below that.
 
-{{< img class="image-wrapper" src="naming-artboards-in-sketch-organised.jpg" caption="A well organised Sketch file" >}}
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-organised-chloe.png" caption="A well organised Sketch file" >}}
 
 This Sketch file isn't doing anyone any favours. As this file grows it'll become a nightmare to deal with.
 
-{{< img class="image-wrapper" src="naming-artboards-in-sketch-unorgansied.jpg" caption="A badly organised Sketch file" >}}
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-unorganised.png" caption="A badly organised Sketch file" >}}
 
 ## Scalability
 
 **Does it scale?** We're not talking about front end frameworks here (let's leave that for another one). Instead, we're trying to solve the problem you have when you need to add in an extra step (or stage) to a flow you created a last week, let's say. **Does your system allow you to add in extra Artboards — anywhere in the sequence** — without you having to go through and rename the rest of your Artboards to maintain some sort of order?
 
-{{< img class="image-wrapper" src="naming-artboards-in-sketch-organised-2.jpg" caption="Another well organised Sketch file" >}}
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-organised-chloe-2.png" caption="Another well organised Sketch file" >}}
 
 ## Communication
 
@@ -57,7 +57,7 @@ Ok, I doubt all team members will need access to our Sketch files, but they will
 
 **Giving your team a quick and easy way to reference Artboards will make your life a lot easier**, particularly as your project grows.  We like our team right? Let's introduce a system which is great for them and not just ourselves.
 
-{{< img class="image-wrapper" src="naming-artboards-in-sketch-invision.jpg" caption="Prefixing Artboard names with a reference short code makes discussion and organisation easier" >}}
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-invision.png" caption="Prefixing Artboard names with a reference short code makes discussion and organisation easier" >}}
 
 Ok enough of the reasoning, i'm sure you get the idea by now. Let's look take a look at the system and explain how it works.
 
