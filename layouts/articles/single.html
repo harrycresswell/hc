@@ -2,8 +2,8 @@
 <article class="o-section">
 
     <section>
-      <div class="o-wrap--center">
-            <header class="u-marginTop-l u-align-center">
+      <div class="o-wrap">
+            <header class="u-marginTop-l">
                 <time class="c-post__meta u-font--mono">{{ .Date.Format "Mon Jan 2, 2006" }}</time>
                 <h1 class="u-h1 u-marginTop-m">{{ .Title }}</h1>
                 {{ if .Params.description }}<h2 class="u-h4 u-marginTop-m u-font--normal u-color-body">{{ .Params.description }}</h2>{{ end }}
@@ -15,7 +15,7 @@
     <main role="main">
 
         <section class="c-post {{ if .Params.spot }}post-{{ .Params.spot }}{{ end }} u-marginTop-l">
-            <div class="o-wrap--center">
+            <div class="o-wrap">
 
                 <div class="c-post__content markdown">
                   {{ .Content }}
@@ -37,7 +37,7 @@
     </main>
 </article>
 
-<div class="o-wrap--center">
+<div class="o-wrap">
 {{ partial "newsletter.html" . }}
 {{ partial "navigation.html" . }}
 </div>
