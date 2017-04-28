@@ -19,7 +19,7 @@ finished = "2016"
 
 ### Notes
 
-**Not to self**: Look into _“The Elements of Style by Strunk and White”_ and _"On Writing by Stephen King"_.
+**Note to self**: Look into _“The Elements of Style by Strunk and White”_ and _"On Writing by Stephen King"_.
 
 Writing well is part habit, part knowledge of some fundamental rules, and part giving a damn.
 
