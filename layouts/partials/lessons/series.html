@@ -1,7 +1,7 @@
 <!-- Series. -->
-<div class="c-post__tag-list">
+<div class="c-post__tags">
     <h4>Series</h4>
-    <div class="c-post__tags">
+    <div class="c-post__tag">
       {{ $baseurl := .Site.BaseURL }}
       {{ range .Params.series }}
         <a class="nav-link u-font--mono" href="{{ $baseurl }}/series/{{ . | urlize }}">{{ . }}</a>

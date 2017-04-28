@@ -3,9 +3,14 @@
 \*------------------------------------*/
 
 
+/**
+ * Component Block
+ */
+
 .c-button-wrap {
   margin: $spacing-unit * 4 0;
 }
+
 .c-button {
     width: 100%;
     border-width: 0;
@@ -22,16 +27,20 @@
     white-space: nowrap;
 }
 
+/**
+ * Component Modifier
+ */
+
 .c-button--primary {
     border: solid 1px $color-dark;
     color: $color-white;
     background: $color-dark;
     margin: 0 auto;
-    padding: 1rem 3rem;
+    padding: 1rem 2rem;
 }
 
 /**
- * Component State
+ * Component Modifier State
  */
 
 .c-button--primary:hover,
