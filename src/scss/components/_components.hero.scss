@@ -4,4 +4,9 @@
 
 .c-hero {
   margin-top: 190px;
+
+  @include breakpoint(xs) {
+      margin-top: 120px;
+  }
+
 }
