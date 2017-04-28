@@ -3,18 +3,17 @@ Stuff i still need to do..
 
 
 ##urgent
-- fix site wrapper so it doesn't cut off images
-- design main email template https://goo.gl/Qh3utb
-- make images responsive. consider making dynamic with http://cloudinary.com/
+- improve responsive type https://zellwk.com/blog/responsive-typography/
+- fix weird css hugo bug
 - improve SEO http://blog.el-chavez.me/2015/11/26/go-hugo-seo/
-- fix meta for fb, twitter, open graph etc
+- load responsive images https://internetingishard.com/html-and-css/responsive-images/
+- make images responsive. consider making dynamic with http://cloudinary.com/
 
-##ideas
+##Some time soon
+- fix meta for fb, twitter, open graph etc
 - add archive and social proof to newsletter landing
 - make style guide for spot colours
 - move to domain `https://hcr.es`
-- make `www` redirect to `harrycresswell.com`
-- load responsive images https://internetingishard.com/html-and-css/responsive-images/
 - change syntax to light http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
 - consider grey code highlighting http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
 - add reading time https://www.typeform.com/blog/inspiration/15-typeforms-for-customers-success/
@@ -27,8 +26,10 @@ Stuff i still need to do..
 
 ##wild ideas
 - add a night theme http://demo.lovethemes.co/rw/category/design/
+- rebuild scss with tachyons
 
 ##complete
+- ~~fix site wrapper so it doesn't cut off images~~
 - ~~design newsletter landing page~~
 - ~~fix slug issue in posts~~
 - ~~redesign blockquotes~~
@@ -36,7 +37,6 @@ Stuff i still need to do..
 - ~~check analytics is working~~
 - ~~https~~
 - ~~point hc.com to netlify~~
-- ~~add scroll indication http://youmightnotneedjs.com/~~
 - ~~link to CDN like [netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-hugo-on-netlify/)~~
 - ~~fix tag, categories and series single page~~
 - ~~set up article resources like
@@ -45,7 +45,6 @@ http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-j
 - ~~fix spot colour like https://kyusuf.com/post/completely-css-progressively-collapsing-navigation~~
 - ~~replace syntax highlighting~~
 - ~~build better breakpoint mixin like [this](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.3wje0ib56)~~
-- ~~rebuild scss with tachyons~~
 - ~~add bg cover image to posts~~
 - ~~remove projects~~
 - ~~remove unused fonts~~
