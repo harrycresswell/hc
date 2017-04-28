@@ -81,11 +81,6 @@
     height: auto;
     position: relative;
 
-    @include breakpoint(xs) {
-        max-width: 120%;
-        margin: 0 0 0 -10%;
-    }
-
     @include breakpoint(ml) {
       max-width: 120%;
     }
