@@ -2,6 +2,22 @@
     #FLEXBOX GRID
 \*------------------------------------*/
 
+/**
+* Component Block
+*/
+
+
+@include breakpoint(ml) {
+   .o-flex {
+       display: flex;
+       justify-content: space-between;
+   }
+}
+
+/**
+* Component Modifier
+*/
+
 .o-flex--1 {
   flex: 1;
 }
@@ -12,11 +28,4 @@
 
 .o-flex--2 {
     flex-basis: 47%;
-}
-
-@include breakpoint(ml) {
-    .o-flex {
-        display: flex;
-        justify-content: space-between;
-    }
 }
