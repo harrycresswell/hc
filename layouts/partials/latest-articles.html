@@ -1,7 +1,7 @@
 <main class="o-section" role="main">
     <div class="o-wrap">
         <header>
-            <h2 class="u-h3 u-font--mono">Sometimes I write</h2>
+            <h2 class="u-h3 u-font--mono">Latest Articles</h2>
         </header>
         <section class="u-marginTop-m">
           {{ range first 5 .Data.Pages.ByPublishDate }}
@@ -16,12 +16,6 @@
                     </div>
                     <div class="u-marginTop-s">
                         <time class="c-post__meta u-font--mono u-color-grey">{{ .Date.Format "Mon Jan 2, 2006" }}</time>
-                        <!--<span class="c-post__tags">
-                            {{ $baseurl := .Site.BaseURL }}
-                            {{ range .Params.tags }}
-                              <a class="nav-link u-font--mono u-link--natural u-color-grey" href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a>
-                            {{ end }}
-                          </span>-->
                       </div>
                 </article>
             {{ end }}
