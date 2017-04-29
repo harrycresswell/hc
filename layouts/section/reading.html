@@ -11,15 +11,15 @@
 <main role="main">
     <div class="o-wrap">
         <header class="u-marginTop-l">
-            <h1 class="u-h1">Important lessons taken from books, articles, talks and conversations.</h1>
-            <h2 class="u-h4 u-marginTop-m u-font--normal">For my own benefit — and hopefully yours too — here are my notes on everything I'm learning. Lot's of valuabe lessons, but don't expect anything too polished.</h2>
+            <h1 class="u-h1">Lessons taken from books, articles and conversations.</h1>
+            <h2 class="u-h4 u-marginTop-m u-font--normal">This is where I'm keeping some of my notes on things I'm learning.</h2>
         </header>
         <section class="u-marginTop-xl">
-          <h3 class="u-h3">On Creativity</h3>
+          <h3 class="u-h3 u-font--mono">On Creativity</h3>
           {{ range .Site.Taxonomies.series.creativity }}
-              <article class="c-post u-marginTop-l">
+              <article class="c-post u-marginTop-m">
                   <h4 class="u-h3">
-                      <a class="" href="{{ .Page.RelPermalink }}" >
+                      <a class="u-link--natural" href="{{ .Page.RelPermalink }}" >
                           {{ .Page.Title }}
                       </a>
                   </h3>
@@ -32,11 +32,11 @@
           </section>
 
         <section class="u-marginTop-xl">
-          <h3 class="u-h3">On Business</h3>
+          <h3 class="u-h3 u-font--mono">On Business</h3>
           {{ range .Site.Taxonomies.series.business }}
-              <article class="c-post u-marginTop-l">
+              <article class="c-post u-marginTop-m">
                   <h4 class="u-h3">
-                      <a class="" href="{{ .Page.RelPermalink }}" >
+                      <a class="u-link--natural" href="{{ .Page.RelPermalink }}" >
                           {{ .Page.Title }}
                       </a>
                   </h3>
@@ -51,9 +51,9 @@
           <section class="u-marginTop-xl">
             <h3 class="u-h3">On Productivity</h3>
             {{ range .Site.Taxonomies.series.productivity }}
-                <article class="c-post u-marginTop-l">
+                <article class="c-post u-marginTop-m">
                     <h4 class="u-h3">
-                        <a class="" href="{{ .Page.RelPermalink }}">
+                        <a class="u-link--natural" href="{{ .Page.RelPermalink }}">
                             {{ .Page.Title }}
                         </a>
                     </h3>
@@ -65,11 +65,11 @@
         </section>
 
         <section class="u-marginTop-xl">
-          <h3 class="u-h3">On Writing</h3>
+          <h3 class="u-h3 u-font--mono">On Writing</h3>
           {{ range .Site.Taxonomies.series.writing }}
-              <article class="c-post u-marginTop-l">
+              <article class="c-post u-marginTop-m">
                   <h4 class="u-h3">
-                      <a class="" href="{{ .Page.RelPermalink }}">
+                      <a class="u-link--natural" href="{{ .Page.RelPermalink }}">
                           {{ .Page.Title }}
                       </a>
                   </h3>
@@ -82,11 +82,11 @@
 
 
       <section class="u-marginTop-xl">
-        <h3 class="u-h3">On Health</h3>
+        <h3 class="u-h3 u-font--mono">On Health</h3>
         {{ range .Site.Taxonomies.series.health }}
-            <article class="c-post u-marginTop-l">
+            <article class="c-post u-marginTop-m">
                 <h4 class="u-h3">
-                    <a class="" href="{{ .Page.RelPermalink }}">
+                    <a class="u-link--natural" href="{{ .Page.RelPermalink }}">
                         {{ .Page.Title }}
                     </a>
                 </h3>
