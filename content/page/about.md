@@ -21,7 +21,7 @@ My **mission for 2017** is to utilise my **background in art and printmaking** (
 
 Right now i'm living between London and Hamburg where **I work remotely** with a handful of clients. When I'm not at my desk I enjoy hiking, climbing and taking pictures.
 
-{{< img class="image-wrapper" src="about-me.jpg" caption="This is me! It's nice to meet you." >}}
+{{< img class="image-wrapper" src="harry-cresswell.jpg" caption="This is me! It's nice to meet you." >}}
 
 ## Where to go next
 
