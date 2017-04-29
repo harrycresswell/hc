@@ -1,17 +1,19 @@
 <main class="o-section" role="main">
     <div class="o-wrap">
         <header>
-            <h2 class="u-h3 u-font--mono u-color-grey">Latest Articles</h2>
+            <h2 class="u-h3 u-font--mono">Sometimes I write</h2>
         </header>
-        <section class="u-marginTop-l">
+        <section class="u-marginTop-m">
           {{ range first 5 .Data.Pages.ByPublishDate }}
             {{ if eq .Type "articles" }}
-                <article class="c-post u-marginTop-m">
-                    <h3 class="u-h3">
-                        <a class="u-link--natural" href="{{ .Permalink }}" target="_blank">
-                            {{ .Title }}
-                        </a>
-                    </h3>
+                <article class="c-post">
+                    <div class="u-marginTop-m">
+                        <h3 class="u-h3">
+                            <a class="u-link--natural" href="{{ .Permalink }}" target="_blank">
+                                {{ .Title }}
+                            </a>
+                        </h3>
+                    </div>
                     <div class="u-marginTop-s">
                         <time class="c-post__meta u-font--mono u-color-grey">{{ .Date.Format "Mon Jan 2, 2006" }}</time>
                         <!--<span class="c-post__tags">
