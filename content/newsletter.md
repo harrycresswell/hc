@@ -7,7 +7,7 @@ layout = "signup"
 
 +++
 
-<h2 class="u-h3">A hand-picked selection of useful tools and articles, directly to your inbox.</h2>
+<h2 class="u-h3">A selection of useful tools and articles, directly to your inbox.</h2>
 
 Brain&mdash;tactics is a brief, once-a-week newsletter for anyone building a solo business.
 
