@@ -34,8 +34,8 @@ googleAnalytics = "UA-84736644-1"
     url = "/articles/"
     weight = 0
 [[menu.footer]]
-    name = "Reading List"
-    url = "/reading/"
+    name = "Mood"
+    url = "https://thevastnothingnessofspace.tumblr.com/"
     weight = 5
 [[menu.footer]]
     name = "About"
