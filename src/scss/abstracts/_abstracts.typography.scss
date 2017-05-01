@@ -2,19 +2,11 @@
     #ABSTRACTS: TYPOGRAPHY
 \*------------------------------------*/
 
-// Load Apercu font
-@font-face {
-  font-family: Apercu;
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/Apercu-Medium.otf');
-}
-
 @import url(https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:400,,500);
 
 // Base
 $base-font-family: "acumin-pro",sans-serif;
-$base-font-size:   20px;
+$base-font-size:   18px;
 $base-line-height: 1.800em;
 $base-font-weight: 400;
 $base-line-height: 36px;
@@ -30,11 +22,11 @@ $font-weight-regular: 400;
 $font-weight-medium:  500;
 
 // Font size scale
-$font-size--xxl: 2.476em;  // 52px ÷ 20 = 2.476
-$font-size--xl: 2.000em;  // 40px ÷ 20 = 2.000
-$font-size--l: 1.429em;   // 30px ÷ 20 = 1.429
+$font-size--xxl: 2.889em;  // 52px ÷ 20 = 2.476
+$font-size--xl: 2.222em;  // 40px ÷ 20 = 2.000
+$font-size--l: 1.667em;   // 30px ÷ 20 = 1.429
 $font-size--m: $base-font-size;   // 20px ÷ 20 = 1
-$font-size--s: 0.667em;   // 14px ÷ 20 = 0.667
+$font-size--s: 0.778em;   // 14px ÷ 20 = 0.667
 
 // Line height scale
 $line-height-xl: 1.7;
