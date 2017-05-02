@@ -23,7 +23,9 @@ More recently, I decided to find out if anyone else had approached the subject o
 
 I've used this technique both for personal projects and in production working with teams. It has helped us to clean up (and stay on top of) otherwise complex and unmanageable Sketch files. Without much thought, we're now producing **well organised, scaleable mockups which are easy to maintain**. At the very least, using this technique should help you avoid the numerous headaches caused by messy Sketch files, when you’re working on big projects or as part of a team.
 
-If I can help you improve your workflow by sharing this technique then I've done what I set out to do. Before I get into explaining the technique, let's first look at why you might want to consider using a system to name your Artboards in the first place.
+Before I get into explaining the technique, let's first look at why you might want to consider using a system to name your Artboards in the first place.
+
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-organised-albion-03.jpg" caption="A well organised Sketch file" >}}
 
 ## Maintainability
 
@@ -35,7 +37,7 @@ So the point is this; we want to be able to know exactly what state, in what sta
 
 I'm sure you'll agree with me here. The sketch file below — where the Artboards are clearly named and numbered — will be easier to manage than the Sketch file below that.
 
-{{< img class="image-wrapper" src="naming-artboards-in-sketch-organised-chloe.png" caption="A well organised Sketch file" >}}
+
 
 This Sketch file isn't doing anyone any favours. As this file grows it'll become a nightmare to deal with.
 
@@ -45,7 +47,7 @@ This Sketch file isn't doing anyone any favours. As this file grows it'll become
 
 **Does it scale?** We're not talking about front end frameworks here (let's leave that for another one). Instead, we're trying to solve the problem you have when you need to add in an extra step (or stage) to a flow you created a last week, let's say. **Does your system allow you to add in extra Artboards — anywhere in the sequence** — without you having to go through and rename the rest of your Artboards to maintain some sort of order?
 
-{{< img class="image-wrapper" src="naming-artboards-in-sketch-organised-chloe-2.png" caption="Another well organised Sketch file" >}}
+{{< img class="image-wrapper" src="naming-artboards-in-sketch-organised-albion-02.jpg" caption="Another well organised Sketch file" >}}
 
 ## Communication
 
