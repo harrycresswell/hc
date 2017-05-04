@@ -13,7 +13,7 @@ I've just flown back to London from Hamburg, where I'm focusing on these things:
 - Designing a new hand-painted typeface.
 - Working with the [Dark Sky](https://soundcloud.com/dark-sky) boys to design a tee for [Carhartt](https://www.carhartt-wip.com/en).
 - Thinking about next steps with [We Art London](https://www.weartlondon.com/).
-- Preparing for a 2 week photography &amp; hiking trip to the [West Coast](https://i.ytimg.com/vi/IK-p7EFRs2w/maxresdefault.jpg).
+- Preparing for a 2 week photography &amp; hiking trip to [California](https://goo.gl/bbaQGq).
 
 Right now these are my priorities so I'm saying no to most other stuff.
 
