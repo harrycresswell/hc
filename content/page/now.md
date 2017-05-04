@@ -5,7 +5,7 @@ description = "What I'm doing now"
 slug = "now"
 +++
 
-I've just flown back to London from Hamburg, were I'm focusing on these things:
+I've just flown back to London from Hamburg, where I'm focusing on these things:
 
 - Building a site [with Luke](https://lukeharvey.co.uk/) for the very talented Chloe Chalker.
 - Working on [projects with AIN](https://www.angelinvestmentnetwork.co.uk/office-space).
