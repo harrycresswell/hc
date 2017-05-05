@@ -11,7 +11,7 @@ spot = "cyan"
 
 +++
 
-{{< img class="image-wrapper" src="zapier-contact-form.png" caption="Processing forms the easy way... with Zapier" >}}
+{{< img class="image-wrapper" src="harry-cresswell-zapier-3.jpg" caption="Processing forms the easy way... with Zapier" >}}
 
 <p class="intro">Have you ever felt overwhelmed by the amount of code it takes to get a simple contact form working on a website?</p>
 
