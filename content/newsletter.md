@@ -9,7 +9,7 @@ layout = "signup"
 
 <h2 class="u-h3">A selection of useful tools and articles, directly to your inbox.</h2>
 
-Brain&mdash;tactics is a brief, once-a-week newsletter for anyone building a solo business.
+<p>Brain&mdash;tactics is a brief, once-a-week newsletter for anyone building a solo business.</p>
 
 <div class="u-marginTop-m"><form action="//harrycresswell.us14.list-manage.com/subscribe/post?u=4e8fba8d0ab4a857159c0104e&amp;id=d6ad2b65ca" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
       <label class="u-visually-hidden" for="mce-EMAIL">Email Address</label>
@@ -31,3 +31,5 @@ Brain&mdash;tactics is a brief, once-a-week newsletter for anyone building a sol
 
 
 <p class="u-h5">No spam ever. Unsubscribe with one click any time.</a>
+
+<p class="u-marginTop-m">See some examples <a href="http://us14.campaign-archive1.com/home/?u=4e8fba8d0ab4a857159c0104e&id=d6ad2b65ca">from the archive</a>.</p>
