@@ -18,4 +18,4 @@ I'm back in Hamburg for the week, where I'm focusing on these things:
 Right now these are my priorities so I'm saying no to most other stuff.
 
 
-**Last Updated:** May 02, 2017. (Page inspire by [Zen Habits](https://zenhabits.net/now/).)
+**Last Updated:** May 08, 2017. (Page inspire by [Zen Habits](https://zenhabits.net/now/).)
