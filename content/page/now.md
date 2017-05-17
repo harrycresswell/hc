@@ -20,7 +20,6 @@ When i'm back I'll be picking up where I left off:
 - Painting type for [a new project](](https://www.instagram.com/typeservices/)) i'm working on.
 - Printing a new tee with [Dark Sky](https://soundcloud.com/dark-sky) for [Carhartt](https://www.carhartt-wip.com/en).
 - Thinking about next steps with [We Art London](https://www.weartlondon.com/).
-- Preparing for a 2 week photography &amp; hiking trip to [California](https://goo.gl/bbaQGq).
 
 Right now these are my priorities so I'm saying no to most other stuff.
 
