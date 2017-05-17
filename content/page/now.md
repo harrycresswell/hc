@@ -17,8 +17,8 @@ When i'm back I'll be picking up where I left off:
 - Building a site [with Luke](https://lukeharvey.co.uk/) for the very talented Chloe Chalker.
 - Working on [projects with AIN](https://www.angelinvestmentnetwork.co.uk/office-space).
 - [Writing articles](https://www.harrycresswell.com/articles/) for my website and weekly mail out.
-- Painting type for [a new project](](https://www.instagram.com/typeservices/)) i'm working on.
-- Printing a new tee with [Dark Sky](https://soundcloud.com/dark-sky) for [Carhartt](https://www.carhartt-wip.com/en).
+- Painting type for [a new project](https://www.instagram.com/typeservices/).
+- Printing a tee with [Dark Sky](https://soundcloud.com/dark-sky) for [Carhartt](https://www.carhartt-wip.com/en).
 - Thinking about next steps with [We Art London](https://www.weartlondon.com/).
 
 Right now these are my priorities so I'm saying no to most other stuff.
