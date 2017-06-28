@@ -5,17 +5,15 @@ description = "What I'm doing now"
 slug = "now"
 +++
 
-I'm back in Hamburg after two weeks in California. I'm now focusing on:
+I'm in London right now, where i'm focusing on the following things:
 
-- Editing pictures from my trip.
-- Finishing Chloe Chalker's website [with Luke](https://lukeharvey.co.uk/)  .
-- Working on [projects with AIN](https://www.angelinvestmentnetwork.co.uk/office-space).
+- Building a Wordpress site for a new food related project.
 - Making some improvements to [In Detail](https://intl.com/) with [Beanie](https://www.instagram.com/beaniemajor/).
 - [Writing articles](https://www.harrycresswell.com/articles/) for my website and weekly mail out.
-- Messing around with painted type for [a new project](https://www.instagram.com/typeservices/).
-- Thinking about next steps with [We Art London](https://www.weartlondon.com/).
+- On-going [projects with AIN](https://www.angelinvestmentnetwork.co.uk/office-space).
+- Figuring out the direction of [my new project](https://www.instagram.com/typeservices/).
 
 Right now these are my priorities so I'm saying no to most other stuff...[but not all](https://www.harrycresswell.com/contact/).
 
 
-**Last Updated:** June 7, 2017. (Page inspire by [Zen Habits](https://zenhabits.net/now/).)
+**Last Updated:** June 28, 2017. (Page inspire by [Zen Habits](https://zenhabits.net/now/).)
