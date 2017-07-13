@@ -8,7 +8,7 @@ slug = "now"
 I'm back in Hamburg for the next couple of weeks, where i'm focusing on the following things:
 
 - On-going [projects with AIN](https://www.angelinvestmentnetwork.co.uk/office-space).
-- Working on [my lettering side project](https://www.instagram.com/typeservices/). I just released a free brush script.
+- Working on [my lettering side project](https://www.instagram.com/typeservices/). I just released [a free brush script](https://gum.co/europa).
 - [Writing articles](https://www.harrycresswell.com/articles/) for my website and weekly mail out.
 - Teaching myself how to shoot food.
 
