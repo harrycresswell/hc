@@ -22,6 +22,7 @@ cd hc
 - Run `gulp` to start a local server and build `_site` in development mode
 - for a production ready build run `gulp prod`
 the site is now ready for deployment
+(make sure you update the `baseurl` in `config.toml`)
 
 ### Adding content
 - `hugo new articles/ARTICLE-NAME.md`
