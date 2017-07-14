@@ -12,7 +12,7 @@ Author = "Harry Cresswell"
 
 {{< img class="image-wrapper" src="launch.jpg" >}}
 
-<p class="intro">Launch your product before it's ready. Better still, when it's an idea in it's infancy. Your work is never really finished, so don't make the mistake of waiting until you perfect it before you release it. This is the best advise I have for creating success.</p>
+<p class="intro">Launch your product before it's ready. Better still, when it's an idea in it's infancy. Your work is never really finished, so don't make the mistake of waiting until you perfect it before you release it.</p>
 
 Always **prototype in public**. That means get a very basic version into the world as soon as you can. Don't try and make it perfect, it will inevitably change. Your product is a work in progress, so just make sure it articulates your idea, it's directed at your target audience, and you have a way to collect feedback, then get it out there.
 
