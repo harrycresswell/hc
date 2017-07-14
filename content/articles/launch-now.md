@@ -26,7 +26,7 @@ Above all, **back up any assumptions with real data** before you build your prod
 
 As long as you get the worst, most unpolished version of your product out there first, and then improve it based on the data you collect, you will set yourself up for the best chance of success.
 
-_Note: I've been meaning to write this for a while, after reading a post by Joel Gascoigne from Buffer (link below) many years ago. I'm trying to apply this same mentality to my writing. Get it out there. Improve it later._
+_Note: I've been meaning to write this for a while, after reading a post by Joel Gascoigne from Buffer (link below) many years ago. I'm trying to apply this same mentality to writing. Get it out there. Improve it later._
 
 
 ### Resources
