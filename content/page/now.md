@@ -9,7 +9,7 @@ I'm back in Hamburg for the next couple of weeks, where i'm focusing on the foll
 
 - On-going [projects with AIN](https://www.angelinvestmentnetwork.co.uk/office-space).
 - Working on [my lettering side project](https://www.instagram.com/typeservices/). I just released [a free brush script](https://gum.co/europa).
-- [Writing articles](https://www.harrycresswell.com/articles/) for my website and weekly mail out.
+- [Writing articles](https://www.harrycresswell.com/articles/) for my website and [weekly mailout](https://www.harrycresswell.com/newsletter/).
 - Teaching myself how to shoot food.
 
 Right now these are my priorities so I'm saying no to most other stuff...[but not all](https://www.harrycresswell.com/contact/).
