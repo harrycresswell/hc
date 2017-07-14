@@ -7,7 +7,6 @@ slug = "form-data-with-zapier"
 Description = "A simple way to receive form data directly to your email using Zapier"
 Author = "Harry Cresswell"
 featured_image = "zapier-contact-form.png"
-spot = "cyan"
 
 +++
 
