@@ -22,12 +22,9 @@ Always **prototype in public**. That means get the most basic version into the w
 
 So **gather feedback, user test, collect data, listen**. Use this research to improve your product. You can always iterate. If you do this you will find yourself creating the product that people want. No second guessing. No building products based on assumption.
 
-Always **back up any assumptions with real data** before you build your product. We live in a data driven world, so start collecting it. [Send out a questionnaire](https://www.typeform.com/) or build [a clever product landing page](https://www.harrycresswell.com/design-consulting/). Sometimes simple is best.
+Above all, **back up any assumptions with real data** before you build your product. We live in a data driven world, it's never been easier to reach an audience and ask for feedback, so start collecting data to work with. [Send out a questionnaire](https://www.typeform.com/) or build [a clever product landing page](https://www.harrycresswell.com/design-consulting/). It could be as straight forward as starting [a new Instagram](https://www.instagram.com/typeservices/) page. Think about where your audience hangs out and start conversations. Always try and look for quick and easy ways test ideas.
 
-As long as you get the worst, most unpolished version of your product out there first, you will set yourself up for the best chance of success.
-
-In any case, you can always make it better later.
-
+As long as you get the worst, most unpolished version of your product out there first, and then improve it based on the data you collect, you will set yourself up for the best chance of success.
 
 _Note: I've been meaning to write this for a while, after reading a post by Joel Gascoigne from Buffer (link below) many years ago. I'm trying to apply this same mentality to my writing. Get it out there. Improve it later._
 
