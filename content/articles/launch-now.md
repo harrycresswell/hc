@@ -12,7 +12,13 @@ Author = "Harry Cresswell"
 
 {{< img class="image-wrapper" src="launch.jpg" >}}
 
-<p class="intro">Launch your product before it's ready. Better still, when it's an idea in it's infancy. Your work will never be finished, so don't make the mistake of waiting until you perfect it before you release it.</p>
+<p class="intro">Starting new projects can be a daunting process. Often we have an idea in our head of how the product should be, almost always imagining the perfect, most ideal version. It's so easy to feeling overwhelmed, you've imagined up this big idea and you have no idea where to start.</p>
+
+Or maybe you do get past that first step, you've been working tirelessly round the clock to perfect your product, you launch expecting great things and a ton of interest, and then... nothing.
+
+Here's some advice I've picked up along the way to ensure you launch products that don't fall flat on their face, leaving you disheartened and ready to chuck it all in.
+
+Always **launch your product before it's ready**. Better still, when it's an idea in it's infancy. Your work will never be finished, so don't make the mistake of waiting until you perfect it before you release it.
 
 Always **prototype in public**. That means get the most basic version into the world as soon as you can. Don't try and make it perfect, it will inevitably change. Your product is a work in progress, so just make sure it articulates your idea, it's directed at your target audience and you have a way to collect feedback, then get it out there.
 
