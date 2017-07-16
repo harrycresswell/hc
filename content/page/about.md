@@ -60,6 +60,6 @@ All the code can be found on my [github](https://github.com/harrycresswell/hc) p
 
 ## Let's keep in touch
 
-If you made it this far, then thanks a lot. I appreciate you taking the time to look at my website.
+If you made it this far, thanks a lot. I appreciate you taking the time to look at my website.
 
-If you'd like to keep in touch, head over to my newsletter page and <a href ="https://www.harrycresswell.com/newsletter/">leave your email address</a>. I'll send you some great **articles that’ll help to improve your solo business**. I send out one email a week, every Friday morning.
+If you'd like to keep in touch, head over to my newsletter page and <a href ="https://www.harrycresswell.com/newsletter/">leave your email address</a>. Once a week, on a Friday morning, I send out a brief email containing a few **useful tools, articles and other things worth sharing**.
