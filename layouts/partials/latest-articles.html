@@ -1,7 +1,7 @@
 <main class="o-section" role="main">
     <div class="o-wrap">
         <header>
-            <h2 class="u-h3 u-font--mono">Latest Articles</h2>
+            <h2 class="u-h3 u-font--mono u-visually-hidden">Latest Articles</h2>
         </header>
         <section class="u-marginTop-m">
           {{ range first 5 .Data.Pages.ByPublishDate }}
@@ -20,6 +20,8 @@
                 </article>
             {{ end }}
             {{ end }}
+
+            <footer class="u-marginTop-l"><a class="u-link--natural" href="https://www.harrycresswell.com/now">What I'm doing right now.</a></footer>
 
         </section>
     </div>
