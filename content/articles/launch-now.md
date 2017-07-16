@@ -24,7 +24,7 @@ Always **prototype in public**. That means get the most basic version into the w
 
 **Don't be precious with your ideas**, someone's already had them. So forget the NDA's. Unless you work for the military or you're building a top secret product for the government, you're wasting your time.
 
-**Share your ideas** with as many people as you can. This is the low risk way to prove your concept and validate your idea. It's the easiest way to test the water and see if people like what you're building. The worst thing you can do is waste your time and energy on something no one wants.
+**Share your ideas** with as many people as you can. This is the low risk way to prove your concept and validate your idea. It's the easiest way to test the water and see if people like what you're building. The worst thing you can do is waste your time and energy working on something no one wants.
 
 So **gather feedback, user test, collect data, listen**. Use this research to improve your product. You can always iterate. If you do this you will find yourself creating the product that people want. No second guessing. No building products based on assumption.
 
