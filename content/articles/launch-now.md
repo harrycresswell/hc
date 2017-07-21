@@ -12,11 +12,11 @@ Author = "Harry Cresswell"
 
 {{< img class="image-wrapper" src="launch.jpg" >}}
 
-<p class="intro">Starting new projects can be a daunting process. Often we have an idea in our head of how the product should be, almost always imagining the perfect, most ideal version. It's so easy to feeling overwhelmed, you've imagined up this big idea and you have no idea where to start.</p>
+<p class="intro">Starting new projects can be a daunting process. Often we have an idea in our head of how the product should be, almost always imagining the perfect, most ideal version. It's so easy to feeling overwhelmed. You've imagined up this big idea and you have no idea where to start.</p>
 
-Or maybe you do get past that first step, you've been working tirelessly round the clock to perfect your product, you launch expecting great things and a ton of interest, and then... nothing.
+If you do manage to get past that first step, perhaps you've been working tirelessly round the clock to perfect your product, you launch, expecting great things and a ton of interest, and then... nothing.
 
-Here's some ideas I've picked up along the way to help you launch products that don't fall flat on their face, leaving you feeling disheartened and ready to chuck it all in.
+Here's some ideas I've picked up along the way, to give you the best possible chance of launching products that don't fall flat on their face. Leaving you feeling disheartened and ready to chuck it all in.
 
 Always **launch your product before it's ready**. Better still, when it's an idea in it's infancy. Products are a work in progress, they inevitably change and projects will evolve. Your work will never be finished, so don't make the mistake of waiting until you perfect it, or deem it finished, before you release it. You'll be waiting forever. Just make sure it articulates your idea, in it's rawest form — and you have an idea of who your target audience is — then get it out there.
 
