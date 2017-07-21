@@ -16,23 +16,24 @@ Author = "Harry Cresswell"
 
 Or maybe you do get past that first step, you've been working tirelessly round the clock to perfect your product, you launch expecting great things and a ton of interest, and then... nothing.
 
-Here's some advice I've picked up along the way to ensure you launch products that don't fall flat on their face, leaving you disheartened and ready to chuck it all in.
+Here's some ideas I've picked up along the way to help you launch products that don't fall flat on their face, leaving you feeling disheartened and ready to chuck it all in.
 
-Always **launch your product before it's ready**. Better still, when it's an idea in it's infancy. Your work will never be finished, so don't make the mistake of waiting until you perfect it before you release it.
+Always **launch your product before it's ready**. Better still, when it's an idea in it's infancy. Products are a work in progress, they inevitably change and projects will evolve. Your work will never be finished, so don't make the mistake of waiting until you perfect it, or deem it finished, before you release it. You'll be waiting forever. Just make sure it articulates your idea, in it's rawest form — and you have an idea of who your target audience is — then get it out there.
 
-Always **prototype in public**. That means get the most basic version into the world as soon as you can. Don't try and make it perfect, it will inevitably change. Your product is a work in progress, so just make sure it articulates your idea, it's directed at your target audience and you have a way to collect feedback, then get it out there.
+Always **prototype in public**. That means get the most basic version — of whatever it is you're making — out there and into the world as soon as you can. Continue working on your product in full view of whoever you intend to see it, sharing your process as you progress and as your product develops. That way you wont be left frantically trying to build an audience after you've launched your product, as you'll already have one.
 
-**Don't be precious with your ideas**, someone's already had them. So forget the NDA's. Unless you work for the military or you're building a top secret product for the government, you're wasting your time.
+**Don't be precious with your ideas**. 9 times out of 10, someone has already had them. So forget the NDA's and secret meetings. Unless you work for the military or you're building a a classified product for the government, you're wasting your time. I really don't believe in this stuff. [Did anyone build Tesla when Elon Musk released the patents?](https://www.tesla.com/blog/all-our-patent-are-belong-you) It takes more than an idea to build products. The more open you are, the more interest you will attract.
 
-**Share your ideas** with as many people as you can. This is the low risk way to prove your concept and validate your idea. It's the easiest way to test the water and see if people like what you're building. The worst thing you can do is waste your time and energy working on something no one wants.
+**Share your ideas** with as many people as you can. This is the low risk way to prove your concept and validate your idea. It's the easiest way to test the water and see if people like what you're building. The worst thing you can do is waste your time and energy working on something no one wants. If you're building something interesting, then start telling people about it. What's the worst that can happen? Maybe you'll start a few more conversations and open a few more doors. Whatever it is, trust that only good things will happen.
 
-So **gather feedback, user test, collect data, listen**. Use this research to improve your product. You can always iterate. If you do this you will find yourself creating the product that people want. No second guessing. No building products based on assumption.
+**Gather feedback, user test, collect data, listen**. Collect data as you go is invaluable. Whether it be stats and figures or feedback from users and customers, it's absolutely vital. This is the best way to learn about what works and what doesn't. That way you can improve and iterate your product knowing that you are doing the right thing. If you do this you will find yourself creating the product that people want. No second guessing. No building products based on assumption.
 
-Above all, **back up any assumptions with real data** before you build your product. We live in a data driven world, it's never been easier to reach an audience and ask for feedback, so start collecting data to work with. [Send out a questionnaire](https://www.typeform.com/) or build [a clever product landing page](https://www.weartlondon.com/). It could be as straight forward as starting [a new Instagram](https://www.instagram.com/typeservices/) page. Think about where your audience hangs out and start conversations. Always try and look for quick and easy ways test ideas.
+
+So always **back up your assumptions with real data**. Don't build products you think people want. Build products you know there is a demand for. It's never been easier to reach an audience and ask for feedback, so before you start building your product start collecting data to work with. It can be as simple as [Sending out a questionnaire](https://www.typeform.com/) or building [a clever product landing page](https://www.weartlondon.com/). It doesn't get more straight forward than creating a new Instagram page and seeing what posts get the most engagement. Think about where your audience hangs out. Start conversations and share what you're working on. Always try and look for quick and easy ways test your ideas before you dive in head first.
 
 As long as you get the worst, most unpolished version of your product out there first, and then improve it based on the data you collect, you will set yourself up for the best chance of success.
 
-_Note: I've been meaning to write this for a while, after reading a post by Joel Gascoigne from Buffer (link below) many years ago. I'm trying to apply this same mentality to writing. Get it out there. Improve it later._
+_Note: These thoughts were initially sparked after reading a post by Joel Gascoigne of Buffer fame (link below), many years ago. I apply this same mentality to writing. Get it out there even if it sucks. Then go back and improve it later._
 
 
 ### Resources
