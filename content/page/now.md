@@ -5,14 +5,15 @@ description = "What I'm doing now"
 slug = "now"
 +++
 
-I'm back in London after two weeks off in Tuscany, Italy. I'm now focusing on the following things:
+I'm back in Hamburg for the week, where I'm focusing on the following things:
 
-- Editing pictures.
-- On-going [projects with AIN](https://www.angelinvestmentnetwork.co.uk/office-space).
-- [Writing articles](https://www.harrycresswell.com/articles/) for my website and [weekly mailout](https://www.harrycresswell.com/newsletter/).
+- Getting back into illustration.
+- Re-designing parts of [In Detail](https://indtl.com/)
+- Various [projects with AIN](https://www.angelinvestmentnetwork.co.uk/office-space).
+- Writing [my weekly mailout](https://www.harrycresswell.com/newsletter/).
 
 Right now these are my priorities so I'm saying no to most other stuff...[but not all](https://www.harrycresswell.com/contact/).
 
-P.S. -  I just released [a free brush script](https://gum.co/europa). Check it out if you haven't already
+P.S. - I released another [free hand painted font](https://gum.co/risque), as part of my [Type Services](https://typeservices.co/) side project. Go check it out if you haven't already.
 
-**Last Updated:** August 19, 2017. (Page inspire by [Zen Habits](https://zenhabits.net/now/).)
+**Last Updated:** September 08, 2017. (Page inspire by [Zen Habits](https://zenhabits.net/now/).)
