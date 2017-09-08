@@ -7,7 +7,8 @@ slug = "now"
 
 I'm back in Hamburg for the week, where I'm focusing on the following things:
 
-- Getting back into illustration.
+- Teaching myself how to design type.
+- Teaching myself illustration.
 - Re-designing parts of [In Detail](https://indtl.com/)
 - Various [projects with AIN](https://www.angelinvestmentnetwork.co.uk/office-space).
 - Writing [my weekly mailout](https://www.harrycresswell.com/newsletter/).
