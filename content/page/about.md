@@ -5,9 +5,9 @@ description = "About this website"
 
 +++
 
-If you are here for the first time, I made this site as a place to share my experience of **designing and coding websites** and running a **a solo business**.
+If you are here for the first time, I made this site as a place to share my experience of **working as a designer** and **running a solo business**.
 
-I'm also using it as a place to document my design process and record **everything I'm learning from books, articles and various other material**.
+I'm also using it as a place to document my design process and record [everything I'm learning](https://www.harrycresswell.com/reading/) from books, articles and various other material.
 
 Hopefully you might pick up some useful lessons whilst you're here.
 
@@ -40,7 +40,7 @@ If you’re interested in [working with me](https://www.harrycresswell.com/desig
 
 - [Type Services](https://typeservices.co/) is a small type foundry I set up this year.
 - [In Detail](https://indtl.com/) focuses on visual interviews with jewellery collectors and influencers. I co-founded and continue to work on the project with jewellery consultant [Beanie Major](http://blake-ldn.com/journal/2016/11/8/blake-woman-beanie-major).
-- [Dark Sky](https://soundcloud.com/harrycresswell) are an electronic music duo from south London. Since 2012 I have led creative direction on artwork for all their releases. You can see the artwork and listen to their music over on [my Soundcloud page](https://soundcloud.com/harrycresswell).
+- [Dark Sky](https://soundcloud.com/dark-sky) are an electronic music duo from south London. Since 2012 I have led creative direction of artwork on all their releases. You can see the artwork and listen to their music over on [my Soundcloud page](https://soundcloud.com/harrycresswell).
 
 
 ## Let's keep in touch
