@@ -5,21 +5,19 @@ description = "About this website"
 
 +++
 
-If you are here for the first time, I made this site as a place to share my experience of **designing and coding websites**.
+If you are here for the first time, I made this site as a place to share my experience of **designing and coding websites** and running a **a solo business**.
 
-You will find me writing about useful topics such as **design, development and marketing**. A few of the essential skills it takes to **build a successful solo business**.
+I'm also using it as a place to document my design process and record **everything I'm learning from books, articles and various other material**.
 
-I'm also using it as a place to document my design process, build useful tools, and record **everything I'm learning from books, articles and various other material**. Hopefully you might pick up some useful lessons whilst you're here.
+Hopefully you might pick up some useful lessons whilst you're here.
 
 ## A little more about me
 
 I started teaching myself design and code in 2006 whilst I was studying art.
 
-I tried a *"real job"* in Insurance after graduating, but in 2010 I quit to focus on **making websites for a living**. I quickly realised my time was better spent doing something I enjoyed — helping people solve problems with design.
+I tried a *"real job"* in Insurance after graduating university, but quit in 2010 to focus on **making websites for a living** and other creative pursuits.
 
-My **mission for 2017** is to utilise my **background in art and printmaking** (which I often neglect) — combined with my skills as a developer — to help others achieve their goals.
-
-Right now i'm living between London and Hamburg where **I work remotely** with a handful of clients. When I'm not at my desk I enjoy hiking, climbing and taking pictures.
+Right now I'm living between London and Hamburg where **I work remotely** with a handful of clients. When I'm not at my desk I enjoy hiking, climbing and taking pictures.
 
 {{< img class="image-wrapper" src="harry-cresswell.jpg" caption="This is me! It's nice to meet you." >}}
 
@@ -40,23 +38,10 @@ If you’re interested in [working with me](https://www.harrycresswell.com/desig
 
 ### Other things i've made
 
-- [In Detail – Visual interviews with jewellery collectors and influencers](https://indtl.com/). *I co-founded and continue to work on In Detail with jewellery expert [Beanie Major](http://blake-ldn.com/journal/2016/11/8/blake-woman-beanie-major).*
-- [On Display – International fashion week reportage](http://ondsply.co/).
-_This was a project I pursued from 2013 - 2016. It took me from New York, to London, then onto Milan and finally Paris for 2 months of the year._
-- [Dark Sky](https://soundcloud.com/harrycresswell). _Collaboration with Electronic music duo Dark Sky. I create all their artwork, which you can see over on my Soundcloud page._
+- [Type Services](https://typeservices.co/) is a small type foundry I set up this year.
+- [In Detail](https://indtl.com/) focuses on visual interviews with jewellery collectors and influencers. I co-founded and continue to work on the project with jewellery consultant [Beanie Major](http://blake-ldn.com/journal/2016/11/8/blake-woman-beanie-major).
+- [Dark Sky](https://soundcloud.com/harrycresswell) are an electronic music duo from south London. Since 2012 I have led creative direction on artwork for all their releases. You can see the artwork and listen to their music over on [my Soundcloud page](https://soundcloud.com/harrycresswell).
 
-
-## How I made this site
-
-For the geeks out there, here's a quick overview of how I built this site:
-
-I'm using [Hugo](https://gohugo.io/), a lightening fast static site engine. It's hosted for free on [Github](https://github.com/harrycresswell/hc).
-
-The CSS is written in [Sass](http://sass-lang.com/), and follows the [BEM](https://css-tricks.com/bem-101/) methodology for writing scaleable CSS architecture. I use [GulpJS](http://gulpjs.com/) to run development tasks and build a site ready for production.
-
-I'm using the CDN [Netlify](https://www.netlify.com/) for continuous deployment, so when I push changes to Github it automatically deploys the live site.
-
-All the code can be found on my [github](https://github.com/harrycresswell/hc) page. Use it for your own learning and development but please don't just rip it off. If you have any questions [drop me an email](mailto:studio@harrycresswell.com) or a [tweet](https://twitter.com/harrycresswell/). I'd be more than happy to help.
 
 ## Let's keep in touch
 
