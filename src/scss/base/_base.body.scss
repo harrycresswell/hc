@@ -4,6 +4,10 @@
 
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    font-style: normal;
+    font-weight: 400;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
     background-color: $color-white;
     color: $color-body;
     -webkit-text-size-adjust: 100%;

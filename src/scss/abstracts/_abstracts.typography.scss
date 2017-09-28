@@ -2,17 +2,16 @@
     #ABSTRACTS: TYPOGRAPHY
 \*------------------------------------*/
 
-@import url(https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:400,,500);
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
 
 // Base
 $base-font-family: -apple-system, BlinkMacSystemFont,
-    "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
-    "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+"Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+"Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+//$base-font-family: "aktiv-grotesk",sans-serif;
 $base-font-size:   18px;
-$base-line-height: 1.800em;
+$base-line-height: 2em;
 $base-font-weight: 400;
-$base-line-height: 36px;
 
 // Secondary
 $secondary-font-family: 'Roboto Mono', monospace;
@@ -20,9 +19,10 @@ $secondary-font-family: 'Roboto Mono', monospace;
 // Font weight scale
 $font-weight-regular: 400;
 $font-weight-medium:  500;
+$font-weight-bold:  700;
 
 // Font size scale
-$font-size--xxl: 2.889em;  // 52px ÷ 20 = 2.476
+$font-size--xxl: 3.2em;  // 52px ÷ 20 = 2.476
 $font-size--xl: 2.222em;  // 40px ÷ 20 = 2.000
 $font-size--l: 1.667em;   // 30px ÷ 20 = 1.429
 $font-size--m: $base-font-size;   // 20px ÷ 20 = 1
@@ -30,10 +30,10 @@ $font-size--s: 0.778em;   // 14px ÷ 20 = 0.667
 
 // Line height scale
 $line-height-xl: 1.7;
-$line-height-l: 1.5;
+$line-height-l: 1.4;
 $line-height-m: $base-line-height; // 41x/1.952em
-$line-height-s: 1.4;
-$line-height-xs: 1.2;
+$line-height-s: 1.2;
+$line-height-xs: 1;
 
 // Spacing
 $spacing-unit:     30px;
