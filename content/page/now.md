@@ -1,11 +1,11 @@
 +++
 title = "now"
 date = "2017-05-02T22:05:42+01:00"
-description = "What I'm doing now"
+description = "What I’m doing now"
 slug = "now"
 +++
 
-I'm currently in London, where I'm focusing on the following things:
+I’m currently in London, where I’m focusing on the following things:
 
 - Improving my skills as a type designer.
 - Re-designing parts of [In Detail](https://indtl.com/)
