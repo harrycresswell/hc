@@ -20,17 +20,17 @@ But where do you even start with processing form data on a static site?
 
 At times the options can feel limited, like the only way is to pay for a form provider and embed a form into your site. Whilst there's nothing wrong with this solution you might want to consider another way, which you have full control over and you don't have to pay for.
 
-[On this site](https://www.harrycresswell.com/contact/) i'm using [Zapier](https://zapier.com/) to collect form data and send it directly to my email. No servers, not databases, no PHP. In this article we’ll look at how you can use the same technique to build a simple contact form for your own website, using Zapier's Webhooks to collect data submitted and automatically send it to you in an email.
+[On this site](https://www.harrycresswell.com/contact/) i'm using [Zapier](https://zapier.com/) to collect form data and send it directly to my email. No servers, no database, no PHP. In this article we’ll look at how you can use the same technique to build a simple contact form for your own website, using Webhooks to collect data submitted and automatically send it to you in an email.
 
-**If your building a static website with a generator like Jekyll, Hugo, Middleman or even just in vanilla HTML, then this is a great solution to get a form working on your site with minimal fuss.**
+**If you're building a static website with a generator like Jekyll, Hugo, Middleman or even just in vanilla HTML, then this is a great solution to get a form working on your site with minimal fuss.**
 
 The good news is it's pretty simple to implement and it's free.
 
 ## Why Zapier
 
-Zapier is an awesome tool which allows you to connect different apps in order to automate tasks. Using an automation tool like Zapier can save you a ton of time and make boring admin tasks a whole lot more fun.
+[Zapier](https://zapier.com/) is an awesome tool which allows you to connect different apps in order to automate tasks. Using an automation tool like Zapier can save you a ton of time and make boring admin tasks a whole lot more fun.
 
-Zapier recommends several workflows you can use to integrate different apps, but there’s really no limitation to what you can do with it. Your only limitation is what you can think up. I think that’s why I like it so much — you can really get creative with what you do with it.
+Zapier recommends several workflows you can use to integrate different apps, but there’s really no limitation to what you can do with it. Your only limitation is what you can think up, so you can get quite creative with what you do with it.
 
 ### What are Webhooks
 
@@ -45,7 +45,7 @@ I initially looked into a few different ways to process form data on static site
 
 [FormKeep](https://formkeep.com/) looks like a great solution, but it comes at a serious price. The cheapest plan is _$59/month for 10 forms_. Formkeep might be worth considering for client projects but for a personal website I’d rather keep my costs to a minimum.
 
-[Formspree](https://formspree.io/) is another great option. One i really quite like in fact. It’s free and does exactly what we are trying to achieve, it is probably even quicker to implement. Although Formspree and our Zapier method are very similar, in the end I choose to go with Zapier for a couple of reasons:
+[Formspree](https://formspree.io/) is another great option. One I really quite like in fact. It’s free and does exactly what we are trying to achieve, it is probably even quicker to implement. Although Formspree and our Zapier method are very similar, in the end I choose to go with Zapier for a couple of reasons:
 
 ### Familiarity
 
@@ -63,7 +63,7 @@ Then, let's say, we wanted to send an automated email response, or send a “Get
 
 With Zapier our form can trigger any series of automated occurrences we want and connect our form up to a variety of different apps.
 
-As cool as this stuff is, it's not something I’ll get into in any more detail now. Hopefully you can still appreciate the potential power Zapier can bring to a contact form.
+As cool as this stuff is, it's not something we'll be covering right now. But hopefully it gives you an idea of the power and possibilities Zapier can bring to a contact form.
 
 
 ## Building the form
@@ -72,7 +72,7 @@ We're almost ready to start building our form, but first lets take a moment to b
 
 - Build a simple HTML form for our static website.
 - Collect the data submitted and store it in a URL using a Zapier Webhook.
-- Use Zapier to automagically send us the data in an email when someone submits the form.
+- Use Zapier to automagically send ourselves the data in an email, any time someone submits the form.
 - Finally, redirect the user to a success page after they complete the form.
 
 Before we start the build, you might want to jump [over here](https://www.harrycresswell.com/contact/) to see a real world example of how i've implemented this technique.
@@ -118,7 +118,7 @@ Finally add `type="POST"`. This is our HTTP request which submits the data to Za
 ### Adding name attributes
 
 
-Remember to assign a `name=""` attribute to all the form elements you want to collect data from _(this should be all of them)_. You can name them however you like, but just make sure they are there.
+Remember to assign a `name=""` attribute to all the form elements you want to collect data from _(that pretty much means all of them)_. You can name them however you like, but just make sure they are there.
 
 Let's add one for our name input and one for our email input:
 

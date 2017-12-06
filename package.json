@@ -1,13 +1,21 @@
 {
   "name": "hc",
   "version": "1.0.0",
-  "description": "",
+  "description": "A hugo build for harrycresswell.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrycresswell/hc"
+  },
+  "keywords": [
+    "gulp",
+    "netlify",
+    "sass"
+  ],
+  "author": "Harry Cresswell",
   "license": "ISC",
   "devDependencies": {
     "del": "^2.2.2",
@@ -17,4 +25,5 @@
     "gulp-sass": "^2.3.2",
     "gulp-shell": "^0.6.3"
   }
+
 }
