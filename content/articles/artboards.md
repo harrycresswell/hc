@@ -12,7 +12,6 @@ Author = "Harry Cresswell"
 
 {{< img class="image-wrapper" src="naming-artboards-in-sketch-organised-albion.png" >}}
 
-<p class="intro">How do you name your Artboards?</p> <p class="intro">It's probably not something you get asked all too often.</p>
  <p class="intro">Naming Artboards might not be the most exciting subject, but non the less, it's an important one. If it's not already, a solid Artboard naming system should be a critical part of your design process.</p>
 
 A year or so ago I started thinking more about how best to name Artboards in Sketch. After a fair bit of trial and error, I arrived at a particular technique which just works. **I've used this method extensively for a year** or so now without having to revisit it.
