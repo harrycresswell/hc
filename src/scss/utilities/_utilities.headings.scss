@@ -13,7 +13,7 @@
 
 .u-h1 {
   font-size: $font-size--xxl;
-  line-height: $line-height-l;
+  line-height: $line-height-s;
 
   @include breakpoint(xs) {
       font-size: $font-size--xl;
