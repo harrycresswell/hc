@@ -1,34 +1,31 @@
 #todo
 Stuff i still need to do..
 
-
-##urgent
-- improve responsive type https://zellwk.com/blog/responsive-typography/
-- fix weird css hugo bug
-- improve SEO http://blog.el-chavez.me/2015/11/26/go-hugo-seo/
-- load responsive images https://internetingishard.com/html-and-css/responsive-images/
-- make images responsive. consider making dynamic with http://cloudinary.com/
+- fix image settings in gulpfile
+- create [srcset](https://github.com/mahnunchik/gulp-responsive/blob/HEAD/examples/srcset.md) shortcode to use with images 
 
 ##Some time soon
+- improve SEO http://blog.el-chavez.me/2015/11/26/go-hugo-seo/
 - fix meta for fb, twitter, open graph etc
 - add archive and social proof to newsletter landing
-- make style guide for spot colours
-- move to domain `https://hcr.es`
-- change syntax to light http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
+- change [syntax to light](http://demo.themebeans.com/forte/2015/01/08/below-the-sea/)
 - consider grey code highlighting http://demo.themebeans.com/forte/2015/01/08/below-the-sea/
 - add reading time https://www.typeform.com/blog/inspiration/15-typeforms-for-customers-success/
-- Move hosting to allow for pygments syntax highlighting
 - move site to theme folder
 - consider gzipping https://css-tricks.com/snippets/htaccess/active-gzip-compression/
 - add section type for resources and build a list view
-- add sourcemaps and linting to gulpfile
+- add linting to gulpfile
 
 
 ##wild ideas
 - add a night theme http://demo.lovethemes.co/rw/category/design/
 - rebuild scss with tachyons
 
+
 ##complete
+- ~~add sourcemaps~~
+- ~~load [responsive images](https://internetingishard.com/html-and-css/responsive-images/)~~
+- ~~improve [responsive type](https://zellwk.com/blog/responsive-typography/)
 - ~~fix site wrapper so it doesn't cut off images~~
 - ~~design newsletter landing page~~
 - ~~fix slug issue in posts~~
