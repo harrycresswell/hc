@@ -1,7 +1,7 @@
 +++
 title = "about"
 date = "2016-10-24T17:23:17+01:00"
-description = "About this website"
+description = "About"
 
 +++
 
@@ -32,6 +32,8 @@ If you’re interested in [working with me](https://www.harrycresswell.com/desig
 
 ### Recent projects
 
+- [Lulafitness — Personal Training, Yoga & TRX](https://www.lulafitness.co.uk/)
+- [In Detail — The Online Jewellery Destination](https://www.indtl.com/)
 - [Albion Cycling – British cycling gear for all sorts of weather](http://www.albioncycling.com/).
 - [We Art London — All the latest art exhibitions directly to your inbox ](http://www.weartlondon.com/)
 
