@@ -5,20 +5,16 @@
 /**
  * Component Block
  */
- 
+
 .o-wrap {
     position: relative;
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    max-width: 1080px;
+    padding: 32px;
     @extend %clearfix;
 
     @include breakpoint(ml) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit * 3;
-        padding-left: $spacing-unit * 3;
+
+
     }
 
 }

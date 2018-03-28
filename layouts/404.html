@@ -1,15 +1,10 @@
-{{ partial "header.html" . }}
-
-    <main role="main">
-        <div class="o-wrap">
-            <section class="page-not-found">
-               <h1>Uh oh! Page not found!</h1>
-            </section>
+{{ define "main" }}
+    <div class="Container">
+        <div class="Content">
+            <div class="Posts">
+                <h1>404: Page not found</h1>
+                <p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="{{ .Site.BaseURL }}">Head back home</a> to try finding it again.</p>
+            </div>
         </div>
-    </main>
-
-<div class="o-wrap">
-{{ partial "navigation.html" . }}
-</div>
-
-{{ partial "footer.html" . }}
+    </div>
+{{ end }}

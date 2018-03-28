@@ -1,8 +1,10 @@
 #todo
 Stuff i still need to do..
 
-- fix image settings in gulpfile
-- create [srcset](https://github.com/mahnunchik/gulp-responsive/blob/HEAD/examples/srcset.md) shortcode to use with images 
+- create [srcset](https://github.com/mahnunchik/gulp-responsive/blob/HEAD/examples/srcset.md) shortcode to use with images
+- try using ibm plex medium for body copy
+- try using tiempos regular, italic and bold
+- try using Suisse international https://www.swisstypefaces.com/fonts/suisse/ https://www.typewolf.com/site-of-the-day/fonts/suisse-international
 
 ##Some time soon
 - improve SEO http://blog.el-chavez.me/2015/11/26/go-hugo-seo/

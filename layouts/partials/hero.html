@@ -1,11 +1,10 @@
-<section class="c-hero">
-    <div class="o-wrap">
-        {{ if .Site.Params.Description }}<h1 class="u-h1">Hello, I’m Harry. I design websites, identities and type.</a></h1>{{ end }}
-        <div class="u-marginTop-m">
-            <p class="intro">I help small teams and independent creatives build honest, sustainable businesses, mostly using design and code.</p>
-        </div>
-        <footer class="u-marginTop-m">
-          <p>I spend most of my free time working on side projects like  <a href="https://typeservices.co/">Type Services</a> and <a href="https://indtl.com/">In Detail</a>. Find out <a class="" href="https://www.harrycresswell.com/now">What I'm doing right now</a> or poke around by clicking the links below.</p>
-          </footer>
-    </div>
-</section>
+<div class="o-wrap">
+    <article>
+        {{ if .Site.Params.Description }}
+          <h1>{{ $.Site.Params.description }}</h1>
+        {{ end }}
+        <p class="intro">Hey, I‘m Harry. I help small teams and independent creatives build honest, sustainable businesses, using design, code, typography and photography.</p>
+        <p>I'm currently living between London and Hamburg, Germany, where I work as a UX/UI Designer for Angel Investment Network.</p>
+        <p>In my free time I work on side projects like  <a href="https://typeservices.co/">Type Services</a> and <a href="https://indtl.com/">In Detail</a>. Find out <a class="" href="https://www.harrycresswell.com/now">What I'm doing right now</a> or poke around by clicking the links below.</p>
+    </article>
+</div>

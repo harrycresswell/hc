@@ -1,20 +1,12 @@
-{{ partial "header.html" . }}
-
-<section class="o-section">
-    <div class="o-wrap">
-        <header class="u-marginTop-l">
-            <a href="{{ .Site.BaseURL }}" class="u-font--mono u-link--bare">&larr; Return</a>
-        </header>
-    </div>
-</section>
+{{ define "main" }}
 
 <main role="main">
     <div class="o-wrap">
-        <section class="u-marginTop-l">
-            <h1 class="u-h1">{{ .Params.description }}</h1>
+        <section class="">
+            <h1 class="">{{ .Params.description }}</h1>
         </section>
         <section class="c-post">
-          <div class="u-marginTop-m">
+          <div class="">
               <div class="c-post__content markdown">
                 {{ .Content }}
               </div>
@@ -22,8 +14,4 @@
         </section>
     </div>
 </main>
-
-<div class="o-wrap">
-{{ partial "navigation.html" . }}
-</div>
-{{ partial "footer.html" . }}
+{{ end }}

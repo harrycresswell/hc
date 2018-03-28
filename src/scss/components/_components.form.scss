@@ -4,11 +4,11 @@
 
 .c-form {
   width: 100%;
-  margin-bottom: $spacing-unit;
+  @include margin-bottom(0.5);
   background-color: rgba(255, 255, 255, 0);
   border: 0;
   color: $color-dark;
-  font-family: $secondary-font-family;
+  font-family: $font-family-mono;
   font-size: $font-size--s;
   transition: border .2s ease-in-out;
 
@@ -41,10 +41,10 @@
 
 input, textarea {
   width: 100%;
-  padding: 2rem 2rem;
+  padding: 0.7rem 2rem;
 
   @include breakpoint(xs) {
-    padding: 1rem 2rem;
+    padding: 0.7rem 2rem;
   }
 }
 
@@ -89,6 +89,6 @@ select {
   margin-top: 14px;
   margin-right: 14px;
   background-size: 24px 24px;
-  background-image: url("../images/icon-dropdown.svg");
+  background-image: url("../assets/icon-dropdown.svg");
   z-index: -999;
 }

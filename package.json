@@ -25,5 +25,10 @@
     "gulp-sass": "^2.3.2",
     "gulp-shell": "^0.6.3",
     "gulp-sourcemaps": "^2.6.4"
+  },
+  "dependencies": {
+    "gulp-imagemin": "^4.1.0",
+    "gulp-responsive": "^2.9.0",
+    "imagemin-mozjpeg": "^7.0.0"
   }
 }

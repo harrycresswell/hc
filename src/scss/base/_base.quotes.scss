@@ -30,7 +30,7 @@ blockquote {
     border-left: 2px solid rgba(0,0,0,0.2);
     padding-left: 15px;
     margin: 10px 0 10px 0%;
-    font-family: $base-font-family;
+    font-family: $font-family-base;
     font-style: italic;
     font-size: 20px;
     quotes: "“" "”";
@@ -39,7 +39,6 @@ blockquote {
 
     p {
         text-indent: -0.41em; /* [1] */
-        padding: $spacing-unit / 2 $spacing-unit ;
 
         &:before {
             content: open-quote;
@@ -83,7 +82,7 @@ blockquote {
       display: block;
       font-style: normal;
       color: $color-light;
-      font-family: $base-font-family;
+      font-family: $font-family-base;
       line-height: 1.8;
     }
 

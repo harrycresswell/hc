@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 
 <main role="main" class="o-section">
       <div class="o-wrap">
@@ -22,7 +22,5 @@
       </div>
 </main>
 
-<div class="o-wrap">
-{{ partial "navigation.html" . }}
-</div>
-{{ partial "footer.html" . }}
+
+{{ end }}

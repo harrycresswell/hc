@@ -12,7 +12,7 @@ img {
  */
 
 figure {
-    margin: 2 * $spacing-unit 0;
+    @include margin-bottom(1);
 }
 
 figure > img {

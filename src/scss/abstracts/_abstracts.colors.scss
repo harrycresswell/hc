@@ -9,21 +9,13 @@ $green:  #19CF86;
 $purple: #542BFF;
 
 // Global colors
-$brand-color: $purple;
-$color-brand: $brand-color;
+$color-brand: $purple;
 
 $color-white: #ffffff !default;
-$color-dark: rgba(0, 0, 0, 0.9) !default;
-$color-body: rgba(0, 0, 0, 0.8) !default;
+$color-darker: rgba(0, 0, 0, 0.9) !default;
+$color-dark: rgba(0, 0, 0, 0.8) !default;
+$color-body: rgba(0, 0, 0, 0.7) !default;
 $color-grey: rgba(0, 0, 0, 0.6) !default;
 $color-lightgrey: rgba(0, 0, 0, 0.4) !default;
 $color-light: rgba(0, 0, 0, 0.2) !default;
 $color-lighter: #E7E7E7 !default;
-
-// Spot colors
-$yellow:    #F8C332;
-$orange:    #FF6828;
-$magenta:   #fa429b;
-$violet:    #AD56D1;
-$brand:     $brand-color;
-$cyan:      #2a9d94;

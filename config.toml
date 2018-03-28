@@ -1,4 +1,4 @@
-baseurl = "https://www.harrycresswell.com/"
+baseurl = "/"
 
 languageCode = "en-us"
 title = "Harry Cresswell"
@@ -29,26 +29,26 @@ googleAnalytics = "UA-84736644-1"
     reading = "/:section/:slug/"
     page = "/:title/"
 
-[[menu.footer]]
+[[menu.main]]
     name = "Articles"
     url = "/articles/"
     weight = 0
-[[menu.footer]]
+[[menu.main]]
     name = "Mood"
     url = "https://thevastnothingnessofspace.tumblr.com/"
     weight = 5
-[[menu.footer]]
+[[menu.main]]
     name = "About"
     url = "/about/"
     weight = 10
-[[menu.footer]]
+[[menu.main]]
     name = "Newsletter"
     url = "/newsletter/"
     weight = 15
 
 [params]
   Keywords = "UX Design, UI Design, Front-end Development, Small businesses, Automation"
-  Description = "Helping small teams and solo businesses grow — using design, code and photography."
+  Description = "Design. Typography. London. Hamburg."
   Location = "London, UK"
   Email = "harry@harrycresswell.com"
 

@@ -1,29 +1,20 @@
-{{ partial "header.html" . }}
-
-<section class="o-section">
-    <div class="o-wrap">
-        <header>
-              <a href="{{ .Site.BaseURL }}" class="u-font--mono u-link--bare">&larr; Return</a>
-        </header>
-    </div>
-</section>
+{{ define "main" }}
 
 <main role="main">
     <div class="o-wrap">
-        <header class="u-marginTop-l">
-            <h1 class="u-h1">Articles</h1>
-            <h2 class="u-h4 u-marginTop-s u-font--normal">A few ideas on design, code and cretive process.</h2>
+        <header class="">
+            <h1>Articles</h1>
         </header>
-        <section class="u-marginTop-l">
+        <section class="">
           {{ range .Data.Pages.ByPublishDate }}
             {{ if eq .Type "articles" }}
-                <article class="c-post u-marginTop-l">
-                    <h3 class="u-h3">
-                        <a class="u-link--natural" href="{{ .Permalink }}" target="_blank">
+                <article class="c-post">
+                    <h2 class="">
+                        <a class="u-link--natural" href="{{ .Permalink }}">
                             {{ .Title }}
                         </a>
-                    </h3>
-                    <p class="u-marginTop-s">
+                    </h2>
+                    <p class="">
                     {{ .Description }}
                   </p>
                 </article>
@@ -36,7 +27,6 @@
 
 <div class="o-wrap">
 {{ partial "newsletter.html" . }}
-{{ partial "navigation.html" . }}
 </div>
 
-{{ partial "footer.html" . }}
+{{ end }}

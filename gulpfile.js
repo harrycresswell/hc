@@ -38,35 +38,36 @@ gulp.task('img', function () {
   // create 4 different sizes
   gulp.src('src/images/*.{jpg,png}')
     .pipe(responsive({
-      // Resize all JPG images to three different sizes: 200, 500, and 630 pixels
-      '*.jpg': [{
-        width: 200,
-        rename: { suffix: '-200px' },
+      // Resize all images to four different sizes: 480, 675, 960 and 1350 pixels
+      '*': [{
+        width: 480,
+        rename: {suffix: "-sm"},
       }, {
-        width: 500,
-        rename: { suffix: '-500px' },
+        width: 480 * 2,
+        rename: {suffix: "-sm@2x"},
       }, {
-        width: 630,
-        rename: { suffix: '-630px' },
+        width: 675,
+        rename: {suffix: "-md"},
       }, {
-        // Compress, strip metadata, and rename original image
-        rename: { suffix: '-original' },
-      }],
-      // Resize all PNG images to be retina ready
-      '*.png': [{
-        width: 250,
+        width: 675 * 2,
+        rename: {suffix: "-md@2x"},
       }, {
-        width: 250 * 2,
-        rename: { suffix: '@2x' },
+        width: 960,
+        rename: {suffix: "-lg"}
+      }, {
+        width: 960 * 2,
+        rename: {suffix: "-lg@2x"},
       }],
     }, {
       // Global configuration for all images
       // The output quality for JPEG, WebP and TIFF output formats
-      quality: 70,
+      quality: 80,
       // Use progressive (interlace) scan for JPEG and PNG output
       progressive: true,
       // Strip all metadata
       withMetadata: false,
+      // Do not emit the error when image is enlarged.
+      errorOnEnlargement: false,
        // Don't spam the console
       silent: true
     }))

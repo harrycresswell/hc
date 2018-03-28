@@ -3,20 +3,25 @@
 \*------------------------------------*/
 
 ul, ol {
-    margin-left: 1rem;
-    padding-left: 1rem;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: outside;
 }
 
 li {
-    margin-top: .35rem;
+  @include margin-bottom(0.5);
     > ul,
     > ol {
-        margin-bottom: 0;
+      @include margin-bottom(1);
     }
+
+    &:last-of-type {
+      @include margin-bottom(1);
+}
 }
 
 dl {
-    margin-bottom: 2 * $spacing-unit;
+    @include margin-bottom(2);
 }
 
 dt {

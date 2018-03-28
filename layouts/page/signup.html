@@ -1,21 +1,15 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 
 <section class="c-signup o-flex">
   <div class="c-signup__content o-flex--1">
     <p><a href="/" class="u-font--mono u-link--bare">&larr; Return</a></p>
-    <div class="u-marginTop-l">{{ .Content }}</div>
+    <div>{{ .Content }}</div>
   </div>
   <div class="c-signup__sidebar o-flex--1">
       <p class="u-font--mono">A weekly dispatch by <a href="/about" class="u-link--white">Harry Cresswell.</a></p>
-
-      <div class="u-marginTop-l">
-          <h1 class="c-signup__logo">
-              [BRAIN&mdash;<br/>TACTICS]
-          </h1>
-      </div>
-      <p class="u-font--mono u-marginTop-l">Once a week, on a Friday.</p>
+      <h1 class="c-signup__logo">[BRAIN&mdash;<br/>TACTICS]</h1>
+      <p class="u-font--mono">Once a week, on a Friday.</p>
   </div>
 </section>
 
-
-{{ partial "footer.html" . }}
+{{ end }}

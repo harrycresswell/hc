@@ -2,23 +2,32 @@
     #BASE: BODY
 \*------------------------------------*/
 
+// Set base font size
+html {
+  font-size: #{$font-size-base + '%'}; // 100% = 14px
+  font-feature-settings: "calt","liga","hist","onum","pnum";
+
+  @media screen and (min-width: $bp-md){
+    font-size: #{$font-size-desktop + '%'};
+  }
+}
+
+// Set line-height and margins for all elements
+* {
+  @include line-height(1);
+  @include margin-top(0);
+}
+
 body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    font-style: normal;
-    font-weight: 400;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
     background-color: $color-white;
     color: $color-body;
+    font-family: $font-family-base;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-tap-highlight-color: transparent
 }
 
 ::-moz-selection {

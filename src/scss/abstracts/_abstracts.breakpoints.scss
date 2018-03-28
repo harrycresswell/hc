@@ -1,40 +1,15 @@
 /*------------------------------------*\
-    #ABSTRACTS: MIXINS
+    #ABSTRACTS: BREAKPOINTS
 \*------------------------------------*/
 
-// Generate font-weights from their aliases.
-@mixin font-weight($font-weight) {
-
-    @if ($font-weight == "regular") {
-        font-weight: 300;
-    }
-
-    @if ($font-weight == "bold") {
-        font-weight: 600;
-    }
-
-}
-
-// Create all specified heading styles in one go.
-@mixin headings($from: 1, $to: 6) {
-
-    %base-heading {
-        @content;
-    }
-
-    @if $from >= 1 and $to <= 6{
-
-        @for $i from $from through $to{
-
-            h#{$i} {
-                @extend %base-heading;
-            }
-
-        }
-
-    }
-
-}
+$bp-xs : 30em; // 480px = 30em
+$bp-sm : 37.5em; // 600px = 37.5em
+$bp-md : 48em; // 768px = 48em
+$bp-ml : 62em; // 992px = 62em
+$bp-lg : 75em; // 1200px = 75em
+$bp-xl : 87.5em; // 1400px = 86.38em
+$bp-bg : 100em; // 1600px = 100em
+$bp-xbg: 112.5em; // 1800px = 112.5em
 
 
 /**

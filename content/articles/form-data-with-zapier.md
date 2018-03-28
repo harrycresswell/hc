@@ -6,11 +6,11 @@ date = "2017-03-06T21:34:41+01:00"
 slug = "form-data-with-zapier"
 Description = "A simple way to receive form data directly to your email using Zapier"
 Author = "Harry Cresswell"
-featured_image = "zapier-contact-form.png"
+featured_image = "zapier.jpg"
 
 +++
 
-{{< img class="image-wrapper" src="harry-cresswell-zapier-3.jpg" caption="Processing forms the easy way... with Zapier" >}}
+{{< img class="image-wrapper" src="zapier.jpg" caption="Processing forms the easy way... with Zapier" >}}
 
 <p class="intro">Have you ever felt overwhelmed by the amount of code it takes to get a simple contact form working on a website?</p>
 

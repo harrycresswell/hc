@@ -8,7 +8,7 @@
  */
 
 .c-button-wrap {
-  margin: $spacing-unit * 4 0;
+  @include margin-bottom(4);
 }
 
 .c-button {
@@ -16,7 +16,7 @@
     border-width: 0;
     box-sizing: border-box;
     cursor: pointer;
-    font-family: $secondary-font-family;
+    font-family: $font-family-mono;
     font-size: $font-size--s;
     outline-style: none;
     text-align: left;
@@ -25,6 +25,9 @@
     vertical-align: middle;
     -webkit-transition-duration: 0.4s; /* Safari */
     white-space: nowrap;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-tap-highlight-color: transparent;
 }
 
 /**
@@ -32,11 +35,11 @@
  */
 
 .c-button--primary {
-    border: solid 1px $color-dark;
+    border: solid 1px $color-darker;
     color: $color-white;
     background: $color-dark;
     margin: 0 auto;
-    padding: 1rem 2rem;
+    padding: 0.7rem 2rem;
 }
 
 /**
@@ -49,6 +52,6 @@
 .c-button--primary.is-pressed {
     background: $color-white;
     color: $color-dark;
-    border: solid 1px $color-dark;
+    border: solid 1px $color-darker;
     outline: none;
 }

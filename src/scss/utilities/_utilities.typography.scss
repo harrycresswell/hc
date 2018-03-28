@@ -3,14 +3,10 @@
 \*------------------------------------*/
 
 .u-font--mono {
-    font-family: $secondary-font-family;
+    font-family: $font-family-mono;
     font-size: $font-size--s;
 }
 
 .u-font--normal {
-    font-family: $base-font-family;
-}
-
-.u-font--tertairy {
-    font-family: $base-font-family;
+    font-family: $font-family-base;
 }

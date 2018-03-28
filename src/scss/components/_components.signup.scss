@@ -19,6 +19,9 @@
   color: $color-white;
   padding: 30px;
   text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: transparent;
 
   @include breakpoint(ml) {
     padding: 180px 60px;
@@ -34,10 +37,9 @@
 }
 
 .c-signup__logo {
-  font-family: $secondary-font-family;
+  font-family: $font-family-mono;
 
   font-size: $font-size--xxl;
-  line-height: $line-height-l;
   color: $color-white;
   letter-spacing: 3px;
 

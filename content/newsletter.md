@@ -7,7 +7,7 @@ layout = "signup"
 
 +++
 
-<h2 class="u-h3">A selection of useful tools, articles and tips directly to your inbox.</h2>
+<h1>A selection of useful tools, articles and tips directly to your inbox.</h1>
 
 <p>Brain&mdash;tactics is a brief, once-a-week newsletter for creative types. Topics range from designing and building websites to illustration and typography.</p>
 
